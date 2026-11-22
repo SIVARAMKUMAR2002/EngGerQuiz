@@ -37,11 +37,11 @@ input,select{background:var(--card);border:1px solid var(--mut);border-radius:8p
 
 <div id="add" class="hide"><h2>Add a word</h2>
  <div class="row"><label>German or English word<input id="w" placeholder="arbeiten  or  to work"></label>
- <label>List (optional)<select id="l"></select></label>
+ <label>Word type (optional)<select id="lt"></select></label><label>Topic (optional)<select id="lp"></select></label>
  <button class="p" id="go">Look up</button></div>
  <div id="prev" class="hide"><div class="row">
  <label>German<input id="pde"></label><label>English<input id="pen"></label>
- <label>Save to<select id="pl"></select></label><button class="p" id="save">Save</button></div></div>
+ <label>Type<select id="pt"></select></label><label>Topic<select id="pp"></select></label><button class="p" id="save">Save</button></div></div>
 </div>
 <div id="set" class="hide"><h2>GitHub sync</h2>
  <p id="msg0" style="color:var(--mut)">Create a fine-grained token with “Contents: read &amp; write” on your repo only. It stays in this browser.</p>
@@ -66,28 +66,52 @@ const alts=s=>s.split(/[\/;,]/).map(norm).filter(Boolean);
 const lists=()=>({...data.types,...data.topics});
 const msg=t=>$('msg').textContent=t||'';
 
+const TYPES={verbs:'Verbs',nouns:'Nouns',adjectives:'Adjectives',adverbs:'Adverbs',misc:'Miscellaneous'};
+const ADV=new Set(['nur','auch','sehr','immer','oft','heute','schon','vielleicht']);
+const TOPIC_OF={arbeiten:'daily','die Arbeit':'daily','das Haus':'daily','die Familie':'daily','das Wasser':'daily','der Tag':'daily','die Nacht':'daily','das Kind':'daily','die Stadt':'daily','das Leben':'daily','der Freund':'daily','die Frau':'daily','der Mann':'daily','die Frage':'education'};
+function guessType(de,en){
+  if(/^to\s/i.test(en)||/^[a-zäöüß]+en$/.test(de))return 'verbs';
+  if(/^(der|die|das)\s|^[A-ZÄÖÜ]/.test(de))return 'nouns';
+  return ADV.has(de)?'adverbs':'adjectives';}
+/* old format (types/topics lists) -> new format: one word list, every word has a type AND a topic */
+function migrate(d){
+  if(d.version===2){d.topics.misc=d.topics.misc||'Miscellaneous';return d;}
+  const n={version:2,topics:{},words:[]};
+  for(const k in d.topics)n.topics[k]=d.topics[k].title;
+  n.topics.misc='Miscellaneous';
+  const add=(de,en,type,topic)=>{const e=n.words.find(w=>w.de===de&&norm(w.en)===norm(en));
+    if(e){if(e.topic==='misc')e.topic=topic;return;}n.words.push({de,en,type,topic});};
+  for(const k in d.types)d.types[k].words.forEach(w=>add(w.de,w.en,k==='adjadv'?guessType(w.de,w.en):k,TOPIC_OF[w.de]||'misc'));
+  for(const k in d.topics)d.topics[k].words.forEach(w=>add(w.de,w.en,guessType(w.de,w.en),k));
+  return n;}
 async function load(){
-  data=await (await fetch('words.json?t='+Date.now())).json();
+  const raw=await (await fetch('words.json?t='+Date.now())).json(), was=raw.version===2;
+  data=migrate(raw);
   JSON.parse(LS.pending||'[]').forEach(o=>applyOp(data,o));
   render();
+  const c=cfg();
+  if(!was&&c.t&&c.o&&c.r){try{await gh(c,JSON.parse(LS.pending||'[]'));LS.pending='[]';msg('Word lists upgraded and saved to GitHub ✓');}catch(e){msg('Upgrade not saved to GitHub yet: '+e.message);}}
 }
-function push(key,de,en){const L=lists()[key]; if(L&&!L.words.some(w=>w.de===de))L.words.push({de,en});}
+function mk(box,title,key,field){
+  const n=data.words.filter(w=>w[field]===key).length,b=document.createElement('button');
+  b.innerHTML=`${title}<small>${n} words</small>`;b.onclick=()=>start(title,data.words.filter(w=>w[field]===key));box.append(b);}
 function render(){
-  for(const [id,src] of [['types',data.types],['topics',data.topics]]){
-    $(id).innerHTML='';
-    for(const k in src){const b=document.createElement('button');
-      b.innerHTML=`${src[k].title}<small>${src[k].words.length} words</small>`;
-      b.onclick=()=>start(k);$(id).append(b);}
-  }
-  const opts=Object.entries(lists()).map(([k,v])=>`<option value="${k}">${v.title}</option>`).join('');
-  $('l').innerHTML='<option value="">Auto-detect</option>'+opts; $('pl').innerHTML=opts;$('tfs').innerHTML=Object.entries(data.topics).map(([k,v])=>`<option value="${k}">${v.title}</option>`).join('');
+  $('types').innerHTML='';$('topics').innerHTML='';
+  for(const k in TYPES)mk($('types'),TYPES[k],k,'type');
+  for(const k in data.topics)mk($('topics'),data.topics[k],k,'topic');
+  const T=Object.entries(TYPES).map(([k,v])=>`<option value="${k}">${v}</option>`).join('');
+  const P=Object.entries(data.topics).map(([k,v])=>`<option value="${k}">${v}</option>`).join('');
+  const A='<option value="">Auto-detect</option>';
+  $('lt').innerHTML=A+T;$('lp').innerHTML=A+P;$('pt').innerHTML=T;$('pp').innerHTML=P;$('tfs').innerHTML=P;
 }
+const shuffle=a=>{a=[...a];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;};
 /* ---------- quiz ---------- */
-function start(key){
-  const L=lists()[key], d=$('dir').value;
-  cur={items:L.words.map(w=>({w,clue:d==='mix'?(Math.random()<.5?'de':'en'):d,done:false})),left:+$('min').value*60,found:0};
+function start(title,ws){
+  if(!ws.length)return msg('No words here yet.');
+  const d=$('dir').value;
+  cur={items:shuffle(ws).map(w=>({w,clue:d==='mix'?(Math.random()<.5?'de':'en'):d,done:false})),left:+$('min').value*60,found:0};
   $('home').classList.add('hide');$('quiz').classList.remove('hide');
-  $('qt').textContent=L.title; $('ans').value=''; $('ans').disabled=false; $('end').disabled=false;
+  $('qt').textContent=title; $('ans').value=''; $('ans').disabled=false; $('end').disabled=false;
   $('cells').innerHTML='';
   cur.items.forEach(it=>{const c=document.createElement('div');c.className='cell';
     c.innerHTML=`<small>${it.clue==='de'?it.w.de:it.w.en}</small><b></b>`;it.el=c;$('cells').append(c);});
@@ -114,32 +138,39 @@ $('setB').onclick=()=>{const c=cfg();$('go1').value=c.o||'';$('go2').value=c.r||
 $('sset').onclick=()=>{LS.cfg=JSON.stringify({o:$('go1').value.trim(),r:$('go2').value.trim(),b:$('go3').value.trim()||'main',t:$('go4').value.trim()});msg('Settings saved.');$('set').classList.add('hide');};
 const tr=(q,a,b)=>fetch(`https://api.mymemory.translated.net/get?q=${encodeURIComponent(q)}&langpair=${a}|${b}`).then(r=>r.json()).then(j=>(j.responseData.translatedText||'').trim());
 async function pos(en){try{const j=await (await fetch('https://api.dictionaryapi.dev/api/v2/entries/en/'+encodeURIComponent(en))).json();
-  const p=j[0].meanings[0].partOfSpeech;return p==='verb'?'verbs':p==='noun'?'nouns':'adjadv';}catch{return null}}
-async function resolve(raw,forced,fast){
+  return {verb:'verbs',noun:'nouns',adjective:'adjectives',adverb:'adverbs'}[j[0].meanings[0].partOfSpeech]||null;}catch{return null}}
+async function typeOf(de,en){
+  if(/^to\s+/i.test(en)||/^[a-zäöüß]+en$/.test(de))return 'verbs';
+  if(/^(der|die|das)\s|^[A-ZÄÖÜ]/.test(de))return 'nouns';
+  return (await pos(en))||guessType(de,en);}
+async function resolve(raw){
   let de,en;
   if(/^to\s+/i.test(raw)){en=raw;de=await tr(raw,'en','de');}
   else{const r=await tr(raw,'de','en');
     if(norm(r)!==norm(raw)){de=raw;en=r;}else{de=await tr(raw,'en','de');en=raw;}}
-  let key=forced;
-  if(!key){
-    if(/^to\s+/i.test(en)||/^[a-zäöüß]+en$/.test(de))key='verbs';
-    else if(/^(der|die|das)\s|^[A-ZÄÖÜ]/.test(de))key='nouns';
-    else key=fast?'adjadv':(await pos(en.replace(/^to\s+/i,''))||'adjadv');
-  }
-  if(key==='verbs'&&!/^to\s+/i.test(en))en='to '+en;
-  return {de,en,key};
+  const type=await typeOf(de,en);
+  if(type==='verbs'&&!/^to\s+/i.test(en))en='to '+en;
+  return {de,en,type};
 }
-/* data changes are "ops": {op:'topic',key,title} or {op:'word',list,de,en} */
+/* best-guess topic: is the English word among words related to the topic name? (free Datamuse API) */
+const HINT={};
+async function hint(t){if(!HINT[t]){try{HINT[t]=new Set((await (await fetch('https://api.datamuse.com/words?max=1000&ml='+encodeURIComponent(t))).json()).map(x=>x.word));}catch{HINT[t]=new Set();}}return HINT[t];}
+async function guessTopic(en){
+  const w=en.replace(/^to\s+/i,'').toLowerCase();
+  for(const k in data.topics){if(k==='misc')continue;if((await hint(data.topics[k])).has(w))return k;}
+  return 'misc';}
+/* data changes are "ops": {op:'topic',key,title} or {op:'word',de,en,type,topic} */
 function applyOp(d,o){
-  if(o.op==='topic'){if(!d.topics[o.key])d.topics[o.key]={title:o.title,words:[]};return;}
-  const l={...d.types,...d.topics}[o.list];
-  if(l&&!l.words.some(w=>w.de===o.de))l.words.push({de:o.de,en:o.en});
+  if(o.op==='topic'){d.topics[o.key]=d.topics[o.key]||o.title;return;}
+  if(o.list)o={de:o.de,en:o.en,type:TYPES[o.list]?o.list:guessType(o.de,o.en),topic:d.topics[o.list]?o.list:'misc'};
+  if(!d.topics[o.topic])o.topic='misc';
+  if(!d.words.some(w=>w.de===o.de&&norm(w.en)===norm(o.en)))d.words.push({de:o.de,en:o.en,type:o.type,topic:o.topic});
 }
 function addOp(o){applyOp(data,o);const p=JSON.parse(LS.pending||'[]');p.push(o);LS.pending=JSON.stringify(p);}
 async function gh(c,pend){
   const url=`https://api.github.com/repos/${c.o}/${c.r}/contents/words.json`,H={Authorization:'Bearer '+c.t,Accept:'application/vnd.github+json'};
   const cur=await (await fetch(url+'?ref='+c.b,{headers:H})).json();if(!cur.sha)throw new Error(cur.message||'no file');
-  const remote=JSON.parse(decodeURIComponent(escape(atob(cur.content.replace(/\n/g,'')))));
+  const remote=migrate(JSON.parse(decodeURIComponent(escape(atob(cur.content.replace(/\n/g,''))))));
   pend.forEach(o=>applyOp(remote,o));
   const r=await fetch(url,{method:'PUT',headers:H,body:JSON.stringify({message:'Update words ('+pend.length+' changes)',content:btoa(unescape(encodeURIComponent(JSON.stringify(remote,null,1)))),sha:cur.sha,branch:c.b})});
   if(!r.ok)throw new Error((await r.json()).message);
@@ -147,19 +178,20 @@ async function gh(c,pend){
 async function persist(ok){
   render();const c=cfg(),pend=JSON.parse(LS.pending||'[]');
   if(!(c.t&&c.o&&c.r)){msg(ok+' Saved in this browser only – add GitHub settings to sync.');return;}
-  try{if(pend.length)await gh(c,pend);LS.pending='[]';msg(ok+' Saved to GitHub ✓ (site updates in ~1 min)');}
+  try{await gh(c,pend);LS.pending='[]';msg(ok+' Saved to GitHub ✓ (site updates in ~1 min)');}
   catch(e){msg(ok+' GitHub save failed ('+e.message+'). Kept in this browser.');}
 }
 $('go').onclick=async()=>{
   const raw=$('w').value.trim();if(!raw)return;msg('Looking up…');
-  try{const p=await resolve(raw,$('l').value);
-    $('pde').value=p.de;$('pen').value=p.en;$('pl').value=p.key;$('prev').classList.remove('hide');
-    msg('Check the translation (edit if needed), then save.');}
+  try{const p=await resolve(raw),type=$('lt').value||p.type;
+    $('pde').value=p.de;$('pen').value=p.en;$('pt').value=type;
+    $('pp').value=$('lp').value||await guessTopic(p.en);$('prev').classList.remove('hide');
+    msg('Check translation, type and topic (edit if needed), then save.');}
   catch(e){msg('Lookup failed: '+e.message);}
 };
 $('save').onclick=()=>{
   const de=$('pde').value.trim(),en=$('pen').value.trim();if(!de||!en)return;
-  addOp({op:'word',list:$('pl').value,de,en});$('prev').classList.add('hide');$('w').value='';persist('Word added.');
+  addOp({op:'word',de,en,type:$('pt').value,topic:$('pp').value});$('prev').classList.add('hide');$('w').value='';persist('Word added.');
 };
 /* file import: lines "German;English" or a single word. Optional header line "english;german" swaps columns. */
 function parseFile(txt){
@@ -170,12 +202,14 @@ function parseFile(txt){
   return rows.map(r=>{const m=r.match(/^(.*?)\s*[;\t|=,]\s*(.+)$/);if(!m)return{one:r};
     let[a,b]=[m[1],m[2]];if(swap||/^to\s+/i.test(a))[a,b]=[b,a];return{de:a,en:b};});
 }
-async function importFile(file,key){
+async function importFile(file,topic){
   const rows=parseFile(await file.text());let n=0,bad=0;
   for(const[i,r]of rows.entries()){
     msg(`Processing ${i+1}/${rows.length}…`);
-    try{let p=r;if(r.one){p=await resolve(r.one,'',true);await new Promise(s=>setTimeout(s,400));}
-      if(p.de&&p.en){addOp({op:'word',list:key,de:p.de,en:p.en});n++;}else bad++;}catch{bad++;}
+    try{let p=r;
+      if(r.one){p=await resolve(r.one);await new Promise(s=>setTimeout(s,400));}
+      else{p.type=await typeOf(p.de,p.en);if(p.type==='verbs'&&!/^to\s+/i.test(p.en))p.en='to '+p.en;}
+      if(p.de&&p.en){addOp({op:'word',de:p.de,en:p.en,type:p.type,topic});n++;}else bad++;}catch{bad++;}
   }
   return{n,bad};
 }
