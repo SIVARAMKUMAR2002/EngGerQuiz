@@ -29,6 +29,9 @@ input,select{background:var(--card);border:1px solid var(--mut);border-radius:8p
 </div>
 <h2>By word type</h2><div class="grid" id="types"></div>
 <h2>By topic</h2><div class="grid" id="topics"></div>
+<div class="grid" style="margin-top:10px"><button id="tpB">🗂️ Add a topic</button><button id="tfB">📄 Add words file to a topic</button></div>
+<div id="tp" class="hide"><div class="row"><label>Topic name<input id="tpn" placeholder="e.g. Travel"></label><label>Words file (optional)<input id="tpf" type="file" accept=".txt,.csv"></label><button class="p" id="tpg">Create topic</button></div></div>
+<div id="tf" class="hide"><div class="row"><label>Topic<select id="tfs"></select></label><label>Words file<input id="tff" type="file" accept=".txt,.csv"></label><button class="p" id="tfg">Add words</button></div></div>
 <h2>Tools</h2>
 <div class="grid"><button id="addB">➕ Add a word</button><button id="setB">⚙️ GitHub sync settings</button></div>
 
@@ -65,7 +68,7 @@ const msg=t=>$('msg').textContent=t||'';
 
 async function load(){
   data=await (await fetch('words.json?t='+Date.now())).json();
-  (JSON.parse(LS.pending||'[]')).forEach(p=>push(p.list,p.de,p.en));
+  JSON.parse(LS.pending||'[]').forEach(o=>applyOp(data,o));
   render();
 }
 function push(key,de,en){const L=lists()[key]; if(L&&!L.words.some(w=>w.de===de))L.words.push({de,en});}
@@ -77,7 +80,7 @@ function render(){
       b.onclick=()=>start(k);$(id).append(b);}
   }
   const opts=Object.entries(lists()).map(([k,v])=>`<option value="${k}">${v.title}</option>`).join('');
-  $('l').innerHTML='<option value="">Auto-detect</option>'+opts; $('pl').innerHTML=opts;
+  $('l').innerHTML='<option value="">Auto-detect</option>'+opts; $('pl').innerHTML=opts;$('tfs').innerHTML=Object.entries(data.topics).map(([k,v])=>`<option value="${k}">${v.title}</option>`).join('');
 }
 /* ---------- quiz ---------- */
 function start(key){
@@ -104,51 +107,91 @@ function finish(){clearInterval(timer);$('ans').disabled=true;$('end').disabled=
   cur.items.forEach(i=>{if(!i.done){i.el.classList.add('miss');i.el.querySelector('b').textContent=i.clue==='de'?i.w.en:i.w.de;}});}
 $('end').onclick=finish;
 $('back').onclick=()=>{clearInterval(timer);$('quiz').classList.add('hide');$('home').classList.remove('hide');};
-/* ---------- add word ---------- */
-$('addB').onclick=()=>$('add').classList.toggle('hide');
-$('setB').onclick=()=>{const c=cfg();$('go1').value=c.o||'';$('go2').value=c.r||'';$('go3').value=c.b||'main';$('go4').value=c.t||'';$('set').classList.toggle('hide');};
+/* ---------- add word / topics ---------- */
+const tg=id=>$(id).classList.toggle('hide');
+$('addB').onclick=()=>tg('add');$('tpB').onclick=()=>tg('tp');$('tfB').onclick=()=>tg('tf');
+$('setB').onclick=()=>{const c=cfg();$('go1').value=c.o||'';$('go2').value=c.r||'';$('go3').value=c.b||'main';$('go4').value=c.t||'';tg('set');};
 $('sset').onclick=()=>{LS.cfg=JSON.stringify({o:$('go1').value.trim(),r:$('go2').value.trim(),b:$('go3').value.trim()||'main',t:$('go4').value.trim()});msg('Settings saved.');$('set').classList.add('hide');};
 const tr=(q,a,b)=>fetch(`https://api.mymemory.translated.net/get?q=${encodeURIComponent(q)}&langpair=${a}|${b}`).then(r=>r.json()).then(j=>(j.responseData.translatedText||'').trim());
 async function pos(en){try{const j=await (await fetch('https://api.dictionaryapi.dev/api/v2/entries/en/'+encodeURIComponent(en))).json();
   const p=j[0].meanings[0].partOfSpeech;return p==='verb'?'verbs':p==='noun'?'nouns':'adjadv';}catch{return null}}
-$('go').onclick=async()=>{
-  const raw=$('w').value.trim(); if(!raw)return; msg('Looking up…');
-  try{
-    let de,en,isEn=/^to\s+/i.test(raw);
-    if(isEn){en=raw;de=await tr(raw,'en','de');}
-    else{const r=await tr(raw,'de','en');
-      if(norm(r)!==norm(raw)){de=raw;en=r;} else {de=await tr(raw,'en','de');en=raw;isEn=true;}}
-    let key=$('l').value;
-    if(!key){
-      if(/^to\s+/i.test(en)||/^[a-zäöüß]+en$/.test(de)&&!/^[A-ZÄÖÜ]/.test(de))key='verbs';
-      else if(/^(der|die|das)\s|^[A-ZÄÖÜ]/.test(de))key='nouns';
-      else key=await pos(en.replace(/^to\s+/i,''))||'adjadv';
-    }
-    if(key==='verbs'&&!/^to\s+/i.test(en))en='to '+en;
-    $('pde').value=de;$('pen').value=en;$('pl').value=key;$('prev').classList.remove('hide');
-    msg('Check the translation (edit if needed), then save.');
-  }catch(e){msg('Lookup failed: '+e.message);}
-};
-$('save').onclick=async()=>{
-  const de=$('pde').value.trim(),en=$('pen').value.trim(),key=$('pl').value; if(!de||!en)return;
-  push(key,de,en);render();$('prev').classList.add('hide');$('w').value='';
-  const c=cfg();
-  if(c.t&&c.o&&c.r){try{await gh(c);LS.pending='[]';msg('Saved to GitHub ✓ (site updates in ~1 min)');}
-    catch(e){queue(key,de,en);msg('GitHub save failed ('+e.message+'). Kept locally.');}}
-  else{queue(key,de,en);msg('Saved in this browser. Add GitHub settings to sync.');}
-};
-function queue(list,de,en){const p=JSON.parse(LS.pending||'[]');p.push({list,de,en});LS.pending=JSON.stringify(p);}
-async function gh(c){
-  const url=`https://api.github.com/repos/${c.o}/${c.r}/contents/words.json`, H={Authorization:'Bearer '+c.t,Accept:'application/vnd.github+json'};
-  const cur=await (await fetch(url+'?ref='+c.b,{headers:H})).json(); if(!cur.sha)throw new Error(cur.message||'no file');
+async function resolve(raw,forced,fast){
+  let de,en;
+  if(/^to\s+/i.test(raw)){en=raw;de=await tr(raw,'en','de');}
+  else{const r=await tr(raw,'de','en');
+    if(norm(r)!==norm(raw)){de=raw;en=r;}else{de=await tr(raw,'en','de');en=raw;}}
+  let key=forced;
+  if(!key){
+    if(/^to\s+/i.test(en)||/^[a-zäöüß]+en$/.test(de))key='verbs';
+    else if(/^(der|die|das)\s|^[A-ZÄÖÜ]/.test(de))key='nouns';
+    else key=fast?'adjadv':(await pos(en.replace(/^to\s+/i,''))||'adjadv');
+  }
+  if(key==='verbs'&&!/^to\s+/i.test(en))en='to '+en;
+  return {de,en,key};
+}
+/* data changes are "ops": {op:'topic',key,title} or {op:'word',list,de,en} */
+function applyOp(d,o){
+  if(o.op==='topic'){if(!d.topics[o.key])d.topics[o.key]={title:o.title,words:[]};return;}
+  const l={...d.types,...d.topics}[o.list];
+  if(l&&!l.words.some(w=>w.de===o.de))l.words.push({de:o.de,en:o.en});
+}
+function addOp(o){applyOp(data,o);const p=JSON.parse(LS.pending||'[]');p.push(o);LS.pending=JSON.stringify(p);}
+async function gh(c,pend){
+  const url=`https://api.github.com/repos/${c.o}/${c.r}/contents/words.json`,H={Authorization:'Bearer '+c.t,Accept:'application/vnd.github+json'};
+  const cur=await (await fetch(url+'?ref='+c.b,{headers:H})).json();if(!cur.sha)throw new Error(cur.message||'no file');
   const remote=JSON.parse(decodeURIComponent(escape(atob(cur.content.replace(/\n/g,'')))));
-  const pend=JSON.parse(LS.pending||'[]'), all=[...pend,{list:$('pl').value,de:$('pde').value.trim(),en:$('pen').value.trim()}];
-  const dedup=new Map();all.forEach(p=>dedup.set(p.list+'|'+p.de,p));
-  const L={...remote.types,...remote.topics};
-  dedup.forEach(p=>{if(L[p.list]&&!L[p.list].words.some(w=>w.de===p.de))L[p.list].words.push({de:p.de,en:p.en});});
-  const body=JSON.stringify(remote,null,1);
-  const r=await fetch(url,{method:'PUT',headers:H,body:JSON.stringify({message:'Add word: '+all[all.length-1].de,content:btoa(unescape(encodeURIComponent(body))),sha:cur.sha,branch:c.b})});
+  pend.forEach(o=>applyOp(remote,o));
+  const r=await fetch(url,{method:'PUT',headers:H,body:JSON.stringify({message:'Update words ('+pend.length+' changes)',content:btoa(unescape(encodeURIComponent(JSON.stringify(remote,null,1)))),sha:cur.sha,branch:c.b})});
   if(!r.ok)throw new Error((await r.json()).message);
 }
-load();
-</script></body></html>
+async function persist(ok){
+  render();const c=cfg(),pend=JSON.parse(LS.pending||'[]');
+  if(!(c.t&&c.o&&c.r)){msg(ok+' Saved in this browser only – add GitHub settings to sync.');return;}
+  try{if(pend.length)await gh(c,pend);LS.pending='[]';msg(ok+' Saved to GitHub ✓ (site updates in ~1 min)');}
+  catch(e){msg(ok+' GitHub save failed ('+e.message+'). Kept in this browser.');}
+}
+$('go').onclick=async()=>{
+  const raw=$('w').value.trim();if(!raw)return;msg('Looking up…');
+  try{const p=await resolve(raw,$('l').value);
+    $('pde').value=p.de;$('pen').value=p.en;$('pl').value=p.key;$('prev').classList.remove('hide');
+    msg('Check the translation (edit if needed), then save.');}
+  catch(e){msg('Lookup failed: '+e.message);}
+};
+$('save').onclick=()=>{
+  const de=$('pde').value.trim(),en=$('pen').value.trim();if(!de||!en)return;
+  addOp({op:'word',list:$('pl').value,de,en});$('prev').classList.add('hide');$('w').value='';persist('Word added.');
+};
+/* file import: lines "German;English" or a single word. Optional header line "english;german" swaps columns. */
+function parseFile(txt){
+  const rows=txt.replace(/^\uFEFF/,'').split(/\r?\n/).map(l=>l.trim()).filter(l=>l&&!l.startsWith('#'));
+  let swap=false;
+  if(rows.length&&/^english\s*[;\t|=,]\s*german$/i.test(rows[0])){swap=true;rows.shift();}
+  else if(rows.length&&/^german\s*[;\t|=,]\s*english$/i.test(rows[0]))rows.shift();
+  return rows.map(r=>{const m=r.match(/^(.*?)\s*[;\t|=,]\s*(.+)$/);if(!m)return{one:r};
+    let[a,b]=[m[1],m[2]];if(swap||/^to\s+/i.test(a))[a,b]=[b,a];return{de:a,en:b};});
+}
+async function importFile(file,key){
+  const rows=parseFile(await file.text());let n=0,bad=0;
+  for(const[i,r]of rows.entries()){
+    msg(`Processing ${i+1}/${rows.length}…`);
+    try{let p=r;if(r.one){p=await resolve(r.one,'',true);await new Promise(s=>setTimeout(s,400));}
+      if(p.de&&p.en){addOp({op:'word',list:key,de:p.de,en:p.en});n++;}else bad++;}catch{bad++;}
+  }
+  return{n,bad};
+}
+const rep=r=>`${r.n} words added`+(r.bad?` (${r.bad} failed)`:'')+'.';
+$('tpg').onclick=async()=>{
+  const name=$('tpn').value.trim();if(!name)return msg('Enter a topic name.');
+  const slug=name.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,'_').replace(/^_|_$/g,'');
+  if(!slug)return msg('Please use letters or numbers in the name.');
+  const key='t_'+slug;if(data.topics[key])return msg('That topic already exists.');
+  addOp({op:'topic',key,title:name});
+  const f=$('tpf').files[0];let t=`Topic “${name}” created.`;
+  if(f)t+=' '+rep(await importFile(f,key));
+  $('tpn').value='';$('tpf').value='';persist(t);
+};
+$('tfg').onclick=async()=>{
+  const f=$('tff').files[0];if(!f)return msg('Choose a file first.');
+  const t=rep(await importFile(f,$('tfs').value));$('tff').value='';persist(t);
+};
+load();</script></body></html>
