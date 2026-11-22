@@ -489,6 +489,99 @@
      "en": "date"
     }
    ]
+  },
+  "t_travel": {
+   "title": "Travel",
+   "words": [
+    {
+     "de": "die Reise",
+     "en": "trip"
+    },
+    {
+     "de": "der Flughafen",
+     "en": "airport"
+    },
+    {
+     "de": "das Flugzeug",
+     "en": "airplane"
+    },
+    {
+     "de": "der Bahnhof",
+     "en": "train station"
+    },
+    {
+     "de": "der Zug",
+     "en": "train"
+    },
+    {
+     "de": "das Ticket",
+     "en": "ticket"
+    },
+    {
+     "de": "der Koffer",
+     "en": "suitcase"
+    },
+    {
+     "de": "der Reisepass",
+     "en": "passport"
+    },
+    {
+     "de": "das Hotel",
+     "en": "hotel"
+    },
+    {
+     "de": "die Reservierung",
+     "en": "reservation"
+    },
+    {
+     "de": "der Strand",
+     "en": "beach"
+    },
+    {
+     "de": "das Zimmer",
+     "en": "room"
+    },
+    {
+     "de": "der Urlaub",
+     "en": "vacation"
+    },
+    {
+     "de": "die Grenze",
+     "en": "border"
+    },
+    {
+     "de": "fliegen",
+     "en": "to fly"
+    },
+    {
+     "de": "buchen",
+     "en": "to book"
+    },
+    {
+     "de": "ankommen",
+     "en": "to arrive"
+    },
+    {
+     "de": "abfahren",
+     "en": "to depart"
+    },
+    {
+     "de": "übernachten",
+     "en": "to stay overnight"
+    },
+    {
+     "de": "reisen",
+     "en": "to travel"
+    },
+    {
+     "de": "Gepäck",
+     "en": "luggage"
+    },
+    {
+     "de": "besucht",
+     "en": "to visit"
+    }
+   ]
   }
  }
 }
