@@ -20495,6 +20495,2976 @@
    "en": "risk-free",
    "type": "adjectives",
    "topic": "misc"
+  },
+  {
+   "de": "jetzt",
+   "en": "now",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "nun",
+   "en": "now",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "sofort",
+   "en": "immediately",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bald",
+   "en": "soon",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "später",
+   "en": "later",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "früher",
+   "en": "earlier",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "damals",
+   "en": "back then",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "dann",
+   "en": "then",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "danach",
+   "en": "afterwards",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "davor",
+   "en": "before that",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zuerst",
+   "en": "first",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zuletzt",
+   "en": "last",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "schließlich",
+   "en": "finally",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zunächst",
+   "en": "initially",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "anschließend",
+   "en": "subsequently",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "inzwischen",
+   "en": "meanwhile",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "mittlerweile",
+   "en": "by now",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bisher",
+   "en": "so far",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bislang",
+   "en": "until now",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "lange",
+   "en": "for a long time",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "nie",
+   "en": "never",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "niemals",
+   "en": "never ever",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "jemals",
+   "en": "ever",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "einmal",
+   "en": "once",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "manchmal",
+   "en": "sometimes",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "meistens",
+   "en": "mostly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "normalerweise",
+   "en": "normally",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "kaum",
+   "en": "hardly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "stets",
+   "en": "always",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "jederzeit",
+   "en": "at any time",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "morgens",
+   "en": "in the morning",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "mittags",
+   "en": "at noon",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "abends",
+   "en": "in the evening",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "nachts",
+   "en": "at night",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vormittags",
+   "en": "before noon",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "nachmittags",
+   "en": "in the afternoon",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "gestern",
+   "en": "yesterday",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vorgestern",
+   "en": "the day before yesterday",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "morgen",
+   "en": "tomorrow",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "übermorgen",
+   "en": "the day after tomorrow",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "heutzutage",
+   "en": "nowadays",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "neulich",
+   "en": "recently",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "kürzlich",
+   "en": "lately",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vorhin",
+   "en": "a while ago",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "eben",
+   "en": "just now",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "soeben",
+   "en": "just",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "derzeit",
+   "en": "currently",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zurzeit",
+   "en": "at present",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "noch",
+   "en": "still",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erst",
+   "en": "only",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "wieder",
+   "en": "again",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "wiederum",
+   "en": "in turn",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erneut",
+   "en": "anew",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "nochmals",
+   "en": "once more",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "abermals",
+   "en": "once again",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bereits",
+   "en": "already",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "längst",
+   "en": "long ago",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "immerhin",
+   "en": "at least",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "seitdem",
+   "en": "since then",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "seither",
+   "en": "ever since",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vorher",
+   "en": "beforehand",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "nachher",
+   "en": "afterwards",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vorerst",
+   "en": "for the time being",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "einstweilen",
+   "en": "meanwhile",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "nebenbei",
+   "en": "on the side",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zugleich",
+   "en": "at the same time",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zusammen",
+   "en": "together",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "unterdessen",
+   "en": "in the meantime",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "währenddessen",
+   "en": "while that",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "irgendwann",
+   "en": "sometime",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "tagsüber",
+   "en": "during the day",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "wochenlang",
+   "en": "for weeks",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "stundenlang",
+   "en": "for hours",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "anfangs",
+   "en": "at first",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "letztlich",
+   "en": "ultimately",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "letztendlich",
+   "en": "in the end",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zukünftig",
+   "en": "in future",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "einst",
+   "en": "once",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "seinerzeit",
+   "en": "at the time",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hier",
+   "en": "here",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "da",
+   "en": "there",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "dort",
+   "en": "over there",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hierher",
+   "en": "to here",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "dorthin",
+   "en": "to there",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "dahin",
+   "en": "to that place",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hin",
+   "en": "there",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "her",
+   "en": "here",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "oben",
+   "en": "above",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "unten",
+   "en": "below",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vorn",
+   "en": "in front",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hinten",
+   "en": "behind",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "links",
+   "en": "left",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "rechts",
+   "en": "right",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "geradeaus",
+   "en": "straight ahead",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "drinnen",
+   "en": "inside",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "draußen",
+   "en": "outside",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "innen",
+   "en": "inside",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "außen",
+   "en": "outside",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "überall",
+   "en": "everywhere",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "nirgends",
+   "en": "nowhere",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "nirgendwo",
+   "en": "nowhere",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "irgendwo",
+   "en": "somewhere",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "irgendwohin",
+   "en": "to somewhere",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "anderswo",
+   "en": "elsewhere",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "woanders",
+   "en": "somewhere else",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "daheim",
+   "en": "at home",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zuhause",
+   "en": "at home",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "heim",
+   "en": "home",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "weg",
+   "en": "away",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "fort",
+   "en": "gone",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "weiter",
+   "en": "further",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zurück",
+   "en": "back",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vorwärts",
+   "en": "forward",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "rückwärts",
+   "en": "backward",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "seitwärts",
+   "en": "sideways",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "aufwärts",
+   "en": "upward",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "abwärts",
+   "en": "downward",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "nebenan",
+   "en": "next door",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "daneben",
+   "en": "beside it",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "dahinter",
+   "en": "behind it",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "darüber",
+   "en": "above it",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "darunter",
+   "en": "beneath it",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "dazwischen",
+   "en": "in between",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "dagegen",
+   "en": "against it",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "dafür",
+   "en": "for it",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "dabei",
+   "en": "with it",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "damit",
+   "en": "with that",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "dadurch",
+   "en": "through that",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "daran",
+   "en": "on it",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "darauf",
+   "en": "on it",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "darin",
+   "en": "in it",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "daraus",
+   "en": "out of it",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "davon",
+   "en": "of it",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "dazu",
+   "en": "to it",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hinauf",
+   "en": "up",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hinunter",
+   "en": "down",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hinein",
+   "en": "in",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hinaus",
+   "en": "out",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "herauf",
+   "en": "up here",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "herunter",
+   "en": "down here",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "herein",
+   "en": "in here",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "heraus",
+   "en": "out here",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hinüber",
+   "en": "over there",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "herüber",
+   "en": "over here",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hindurch",
+   "en": "through",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "entlang",
+   "en": "along",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "mitten",
+   "en": "in the middle",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "abseits",
+   "en": "aside",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ringsum",
+   "en": "all around",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "umher",
+   "en": "around",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "herum",
+   "en": "around",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "voraus",
+   "en": "ahead",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "so",
+   "en": "so",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "anders",
+   "en": "differently",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "gern",
+   "en": "gladly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "gerne",
+   "en": "with pleasure",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ungern",
+   "en": "reluctantly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ziemlich",
+   "en": "fairly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vollkommen",
+   "en": "completely",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "absolut",
+   "en": "absolutely",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "total",
+   "en": "totally",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "extrem",
+   "en": "extremely",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "äußerst",
+   "en": "extremely",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ungemein",
+   "en": "immensely",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "enorm",
+   "en": "enormously",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "recht",
+   "en": "quite",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "fast",
+   "en": "almost",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "beinahe",
+   "en": "nearly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "etwa",
+   "en": "approximately",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "circa",
+   "en": "about",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "eher",
+   "en": "rather",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "lieber",
+   "en": "preferably",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "besser",
+   "en": "better",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "mehr",
+   "en": "more",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "weniger",
+   "en": "less",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "mindestens",
+   "en": "at least",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "höchstens",
+   "en": "at most",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "wenigstens",
+   "en": "at the very least",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zumindest",
+   "en": "at least",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "insgesamt",
+   "en": "overall",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "überhaupt",
+   "en": "at all",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "eigentlich",
+   "en": "actually",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "wahrhaftig",
+   "en": "truly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "sicherlich",
+   "en": "certainly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bestimmt",
+   "en": "definitely",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "gewiss",
+   "en": "certainly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zweifellos",
+   "en": "undoubtedly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "selbstverständlich",
+   "en": "of course",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "freilich",
+   "en": "admittedly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "allerdings",
+   "en": "however",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "jedenfalls",
+   "en": "in any case",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ohnehin",
+   "en": "anyway",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "sowieso",
+   "en": "anyway",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "trotzdem",
+   "en": "nevertheless",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "dennoch",
+   "en": "still",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "doch",
+   "en": "however",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "jedoch",
+   "en": "yet",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "also",
+   "en": "therefore",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "deshalb",
+   "en": "therefore",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "deswegen",
+   "en": "for that reason",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "darum",
+   "en": "that's why",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "daher",
+   "en": "hence",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "folglich",
+   "en": "consequently",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "somit",
+   "en": "thus",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "demnach",
+   "en": "accordingly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "nämlich",
+   "en": "namely",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "außerdem",
+   "en": "besides",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zudem",
+   "en": "moreover",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ebenfalls",
+   "en": "likewise",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ebenso",
+   "en": "equally",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "genauso",
+   "en": "just as",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "gleichfalls",
+   "en": "likewise",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "sogar",
+   "en": "even",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "selbst",
+   "en": "even",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ausgerechnet",
+   "en": "of all things",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ausschließlich",
+   "en": "exclusively",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "lediglich",
+   "en": "merely",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bloß",
+   "en": "merely",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ja",
+   "en": "yes",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "nein",
+   "en": "no",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "wohl",
+   "en": "probably",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "halt",
+   "en": "simply",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "mal",
+   "en": "once",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bitte",
+   "en": "please",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hoffentlich",
+   "en": "hopefully",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "leider",
+   "en": "unfortunately",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "glücklicherweise",
+   "en": "fortunately",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "unglücklicherweise",
+   "en": "unfortunately",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "angeblich",
+   "en": "allegedly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "anscheinend",
+   "en": "apparently",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "scheinbar",
+   "en": "seemingly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vermutlich",
+   "en": "presumably",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "möglicherweise",
+   "en": "possibly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "eventuell",
+   "en": "possibly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "womöglich",
+   "en": "perhaps",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "wahrlich",
+   "en": "truly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "miteinander",
+   "en": "with each other",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "gegeneinander",
+   "en": "against each other",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "nacheinander",
+   "en": "one after another",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hintereinander",
+   "en": "one behind another",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "nebeneinander",
+   "en": "side by side",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "übereinander",
+   "en": "on top of each other",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "aufeinander",
+   "en": "on each other",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ineinander",
+   "en": "into each other",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "durcheinander",
+   "en": "in a mess",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "auseinander",
+   "en": "apart",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "füreinander",
+   "en": "for each other",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "voneinander",
+   "en": "from each other",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zueinander",
+   "en": "to each other",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "paarweise",
+   "en": "in pairs",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "schrittweise",
+   "en": "step by step",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "stückweise",
+   "en": "piece by piece",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "teilweise",
+   "en": "partly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "größtenteils",
+   "en": "for the most part",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zumeist",
+   "en": "mostly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hauptsächlich",
+   "en": "mainly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vorwiegend",
+   "en": "predominantly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "überwiegend",
+   "en": "predominantly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "mehrfach",
+   "en": "repeatedly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "mehrmals",
+   "en": "several times",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zweimal",
+   "en": "twice",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "dreimal",
+   "en": "three times",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "oftmals",
+   "en": "often",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "öfters",
+   "en": "more often",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "gelegentlich",
+   "en": "occasionally",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vereinzelt",
+   "en": "sporadically",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "sporadisch",
+   "en": "sporadically",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "andauernd",
+   "en": "constantly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "fortwährend",
+   "en": "continually",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "pausenlos",
+   "en": "nonstop",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "unaufhörlich",
+   "en": "incessantly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "wann",
+   "en": "when",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "wo",
+   "en": "where",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "wohin",
+   "en": "where to",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "woher",
+   "en": "where from",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "wie",
+   "en": "how",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "warum",
+   "en": "why",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "weshalb",
+   "en": "why",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "weswegen",
+   "en": "why",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "wieso",
+   "en": "why",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "wozu",
+   "en": "what for",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "womit",
+   "en": "with what",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "wovon",
+   "en": "of what",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "wofür",
+   "en": "for what",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "worauf",
+   "en": "on what",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "woran",
+   "en": "on what",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "worüber",
+   "en": "about what",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "wobei",
+   "en": "at which",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "wodurch",
+   "en": "through which",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "indessen",
+   "en": "meanwhile",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hingegen",
+   "en": "on the other hand",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "sonst",
+   "en": "otherwise",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "andernfalls",
+   "en": "otherwise",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ansonsten",
+   "en": "apart from that",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "übrigens",
+   "en": "by the way",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "kurzum",
+   "en": "in short",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "schlichtweg",
+   "en": "simply",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "schlicht",
+   "en": "plainly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "sozusagen",
+   "en": "so to speak",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "quasi",
+   "en": "virtually",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "gewissermaßen",
+   "en": "in a way",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bekanntlich",
+   "en": "as is well known",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bekanntermaßen",
+   "en": "as is known",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ehemals",
+   "en": "formerly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "neuerdings",
+   "en": "recently",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "unlängst",
+   "en": "not long ago",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "sogleich",
+   "en": "at once",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "alsbald",
+   "en": "shortly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "demnächst",
+   "en": "soon",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ehedem",
+   "en": "formerly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "dereinst",
+   "en": "one day",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "einstmals",
+   "en": "once upon a time",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vordem",
+   "en": "previously",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "nachträglich",
+   "en": "afterwards",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "rückwirkend",
+   "en": "retroactively",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vorab",
+   "en": "in advance",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vorweg",
+   "en": "beforehand",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "daraufhin",
+   "en": "thereupon",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hernach",
+   "en": "afterwards",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zuvor",
+   "en": "previously",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zuallererst",
+   "en": "first of all",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "obendrein",
+   "en": "on top of that",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "überdies",
+   "en": "moreover",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ferner",
+   "en": "furthermore",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "gleichwohl",
+   "en": "nevertheless",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "nichtsdestotrotz",
+   "en": "nonetheless",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "indes",
+   "en": "meanwhile",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "immerzu",
+   "en": "all the time",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "fortan",
+   "en": "from now on",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "weiterhin",
+   "en": "continuously",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "wiederholt",
+   "en": "repeatedly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "abwechselnd",
+   "en": "alternately",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "reihum",
+   "en": "in turn",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "montags",
+   "en": "on Mondays",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "dienstags",
+   "en": "on Tuesdays",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "mittwochs",
+   "en": "on Wednesdays",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "donnerstags",
+   "en": "on Thursdays",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "freitags",
+   "en": "on Fridays",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "samstags",
+   "en": "on Saturdays",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "sonntags",
+   "en": "on Sundays",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "werktags",
+   "en": "on weekdays",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "wochentags",
+   "en": "on weekdays",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "feiertags",
+   "en": "on public holidays",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "sommers",
+   "en": "in summer",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "winters",
+   "en": "in winter",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "monatelang",
+   "en": "for months",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "tagelang",
+   "en": "for days",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "minutenlang",
+   "en": "for minutes",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "tagtäglich",
+   "en": "every single day",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "allmählich",
+   "en": "gradually",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "mitternachts",
+   "en": "at midnight",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "frühmorgens",
+   "en": "early in the morning",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "spätabends",
+   "en": "late in the evening",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "mitunter",
+   "en": "sometimes",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bisweilen",
+   "en": "at times",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zuweilen",
+   "en": "occasionally",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vorne",
+   "en": "at the front",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hinterher",
+   "en": "afterwards",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "voran",
+   "en": "forward",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zuvorderst",
+   "en": "at the very front",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "rundherum",
+   "en": "all around",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ringsherum",
+   "en": "all around",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bergauf",
+   "en": "uphill",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bergab",
+   "en": "downhill",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "flussaufwärts",
+   "en": "upstream",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "querfeldein",
+   "en": "cross-country",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "beiseite",
+   "en": "aside",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "unterwegs",
+   "en": "on the way",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "auswärts",
+   "en": "away",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "heimwärts",
+   "en": "homeward",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "südwärts",
+   "en": "southward",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "nordwärts",
+   "en": "northward",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ostwärts",
+   "en": "eastward",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "westwärts",
+   "en": "westward",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "himmelwärts",
+   "en": "skyward",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hierhin",
+   "en": "to this place",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "dorther",
+   "en": "from there",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "irgendwoher",
+   "en": "from somewhere",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "nirgendwohin",
+   "en": "to nowhere",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "sonstwo",
+   "en": "elsewhere",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "drüben",
+   "en": "over there",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "diesseits",
+   "en": "on this side",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "jenseits",
+   "en": "on the other side",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "beiderseits",
+   "en": "on both sides",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "allerorts",
+   "en": "everywhere",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "allseits",
+   "en": "on all sides",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "kopfüber",
+   "en": "headfirst",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "blindlings",
+   "en": "blindly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "rücklings",
+   "en": "backwards",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bäuchlings",
+   "en": "on one's stomach",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "jählings",
+   "en": "abruptly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "keinesfalls",
+   "en": "in no case",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "keineswegs",
+   "en": "by no means",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "allenfalls",
+   "en": "at most",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "gegebenenfalls",
+   "en": "if necessary",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "notfalls",
+   "en": "if need be",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bestenfalls",
+   "en": "at best",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "schlimmstenfalls",
+   "en": "at worst",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vergebens",
+   "en": "in vain",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "umgehend",
+   "en": "promptly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "unverzüglich",
+   "en": "without delay",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vormals",
+   "en": "formerly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "derweil",
+   "en": "in the meantime",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "kurzerhand",
+   "en": "without hesitation",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "gewohnheitsmäßig",
+   "en": "habitually",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "notgedrungen",
+   "en": "of necessity",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "selbstredend",
+   "en": "needless to say",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "fürwahr",
+   "en": "indeed",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "gar",
+   "en": "at all",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "gänzlich",
+   "en": "entirely",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "restlos",
+   "en": "completely",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "teils",
+   "en": "partly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "großenteils",
+   "en": "largely",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "einigermaßen",
+   "en": "somewhat",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "annähernd",
+   "en": "approximately",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "nahezu",
+   "en": "almost",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "geradezu",
+   "en": "downright",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "höchst",
+   "en": "highly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "überaus",
+   "en": "exceedingly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zutiefst",
+   "en": "deeply",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "weitaus",
+   "en": "by far",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "geradeso",
+   "en": "just so",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "umso",
+   "en": "all the more",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "desto",
+   "en": "the more",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "je",
+   "en": "ever",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "dermaßen",
+   "en": "to such an extent",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "derart",
+   "en": "in such a way",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "folgendermaßen",
+   "en": "as follows",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "gleichermaßen",
+   "en": "equally",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "beispielsweise",
+   "en": "for example",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "typischerweise",
+   "en": "typically",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "üblicherweise",
+   "en": "usually",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "interessanterweise",
+   "en": "interestingly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "merkwürdigerweise",
+   "en": "strangely enough",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bedauerlicherweise",
+   "en": "regrettably",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erfreulicherweise",
+   "en": "happily",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "überraschenderweise",
+   "en": "surprisingly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "komischerweise",
+   "en": "funnily enough",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "dummerweise",
+   "en": "stupidly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "fälschlicherweise",
+   "en": "mistakenly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "irrtümlicherweise",
+   "en": "erroneously",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zufälligerweise",
+   "en": "by chance",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vernünftigerweise",
+   "en": "sensibly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "logischerweise",
+   "en": "logically",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "notwendigerweise",
+   "en": "necessarily",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vorsichtshalber",
+   "en": "as a precaution",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "sicherheitshalber",
+   "en": "to be safe",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "höflichkeitshalber",
+   "en": "out of politeness",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ausnahmsweise",
+   "en": "exceptionally",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "stellenweise",
+   "en": "in places",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zeitweise",
+   "en": "at times",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "probeweise",
+   "en": "on a trial basis",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "versuchsweise",
+   "en": "experimentally",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "wochenweise",
+   "en": "week by week",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "tageweise",
+   "en": "day by day",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "massenweise",
+   "en": "in masses",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "haufenweise",
+   "en": "in heaps",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "scharenweise",
+   "en": "in droves",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "literweise",
+   "en": "by the liter",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "kistenweise",
+   "en": "by the crate",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "reihenweise",
+   "en": "in rows",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ansatzweise",
+   "en": "in part",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ausnahmslos",
+   "en": "without exception",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bedingungslos",
+   "en": "unconditionally",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "grundlos",
+   "en": "without reason",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hemmungslos",
+   "en": "unrestrained",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "gnadenlos",
+   "en": "mercilessly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "schonungslos",
+   "en": "ruthlessly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hierbei",
+   "en": "in doing so",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hierdurch",
+   "en": "hereby",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hiermit",
+   "en": "herewith",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hierfür",
+   "en": "for this",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hierzu",
+   "en": "to this",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hierauf",
+   "en": "hereupon",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hieraus",
+   "en": "from this",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hiervon",
+   "en": "of this",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "dahingegen",
+   "en": "whereas",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "infolgedessen",
+   "en": "as a result",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "dementsprechend",
+   "en": "accordingly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "diesbezüglich",
+   "en": "in this regard",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "diesmal",
+   "en": "this time",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erstmals",
+   "en": "for the first time",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zweitens",
+   "en": "secondly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "drittens",
+   "en": "thirdly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erstens",
+   "en": "firstly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "letztens",
+   "en": "lastly",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "schlussendlich",
+   "en": "ultimately",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "jeweils",
+   "en": "each time",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "jedesmal",
+   "en": "every time",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vielmals",
+   "en": "many times",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "tausendmal",
+   "en": "a thousand times",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "nochmal",
+   "en": "once more",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zigmal",
+   "en": "umpteen times",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vielerorts",
+   "en": "in many places",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "mancherorts",
+   "en": "in some places",
+   "type": "adverbs",
+   "topic": "misc"
   }
  ]
 }
