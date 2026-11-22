@@ -1,0 +1,30 @@
+{
+  "types": {
+    "verbs": {"title": "Top 200 Verbs", "words": [
+      {"de":"sein","en":"to be"},{"de":"haben","en":"to have"},{"de":"werden","en":"to become"},{"de":"können","en":"to be able to"},{"de":"müssen","en":"to have to"},{"de":"sagen","en":"to say"},{"de":"machen","en":"to make"},{"de":"geben","en":"to give"},{"de":"kommen","en":"to come"},{"de":"sollen","en":"to be supposed to"},{"de":"wollen","en":"to want"},{"de":"gehen","en":"to go"},{"de":"wissen","en":"to know"},{"de":"sehen","en":"to see"},{"de":"lassen","en":"to let"},{"de":"stehen","en":"to stand"},{"de":"finden","en":"to find"},{"de":"bleiben","en":"to stay"},{"de":"liegen","en":"to lie"},{"de":"arbeiten","en":"to work"}
+    ]},
+    "nouns": {"title": "Top 200 Nouns", "words": [
+      {"de":"die Zeit","en":"time"},{"de":"das Jahr","en":"year"},{"de":"der Mensch","en":"person"},{"de":"der Tag","en":"day"},{"de":"die Frau","en":"woman"},{"de":"der Mann","en":"man"},{"de":"das Kind","en":"child"},{"de":"die Hand","en":"hand"},{"de":"das Land","en":"country"},{"de":"die Stadt","en":"city"},{"de":"das Haus","en":"house"},{"de":"die Welt","en":"world"},{"de":"das Leben","en":"life"},{"de":"die Arbeit","en":"work"},{"de":"das Wasser","en":"water"},{"de":"die Familie","en":"family"},{"de":"der Freund","en":"friend"},{"de":"die Frage","en":"question"},{"de":"das Auge","en":"eye"},{"de":"die Nacht","en":"night"}
+    ]},
+    "adjadv": {"title": "Top 200 Adjectives & Adverbs", "words": [
+      {"de":"gut","en":"good"},{"de":"neu","en":"new"},{"de":"groß","en":"big"},{"de":"klein","en":"small"},{"de":"alt","en":"old"},{"de":"lang","en":"long"},{"de":"schön","en":"beautiful"},{"de":"wichtig","en":"important"},{"de":"einfach","en":"simple"},{"de":"schwer","en":"heavy / difficult"},{"de":"schnell","en":"fast"},{"de":"hoch","en":"high"},{"de":"nur","en":"only"},{"de":"auch","en":"also"},{"de":"sehr","en":"very"},{"de":"immer","en":"always"},{"de":"oft","en":"often"},{"de":"heute","en":"today"},{"de":"schon","en":"already"},{"de":"vielleicht","en":"maybe"}
+    ]}
+  },
+  "topics": {
+    "auto": {"title": "Automobiles", "words": [
+      {"de":"das Auto","en":"car"},{"de":"der Motor","en":"engine"},{"de":"das Rad","en":"wheel"},{"de":"der Reifen","en":"tire"},{"de":"die Bremse","en":"brake"},{"de":"das Lenkrad","en":"steering wheel"},{"de":"der Kofferraum","en":"trunk"},{"de":"tanken","en":"to refuel"},{"de":"fahren","en":"to drive"},{"de":"die Autobahn","en":"motorway"}
+    ]},
+    "education": {"title": "Education", "words": [
+      {"de":"die Schule","en":"school"},{"de":"der Lehrer","en":"teacher"},{"de":"der Schüler","en":"pupil"},{"de":"lernen","en":"to learn"},{"de":"die Prüfung","en":"exam"},{"de":"die Hausaufgabe","en":"homework"},{"de":"die Universität","en":"university"},{"de":"studieren","en":"to study"},{"de":"die Note","en":"grade"},{"de":"das Buch","en":"book"}
+    ]},
+    "math": {"title": "Mathematics", "words": [
+      {"de":"die Zahl","en":"number"},{"de":"addieren","en":"to add"},{"de":"subtrahieren","en":"to subtract"},{"de":"multiplizieren","en":"to multiply"},{"de":"teilen","en":"to divide"},{"de":"die Gleichung","en":"equation"},{"de":"das Dreieck","en":"triangle"},{"de":"der Kreis","en":"circle"},{"de":"die Summe","en":"sum"},{"de":"rechnen","en":"to calculate"}
+    ]},
+    "daily": {"title": "Daily life", "words": [
+      {"de":"frühstücken","en":"to have breakfast"},{"de":"aufstehen","en":"to get up"},{"de":"einkaufen","en":"to shop"},{"de":"kochen","en":"to cook"},{"de":"schlafen","en":"to sleep"},{"de":"die Wohnung","en":"apartment"},{"de":"der Schlüssel","en":"key"},{"de":"das Essen","en":"food"},{"de":"duschen","en":"to shower"},{"de":"der Bus","en":"bus"}
+    ]},
+    "love": {"title": "Love life", "words": [
+      {"de":"die Liebe","en":"love"},{"de":"lieben","en":"to love"},{"de":"küssen","en":"to kiss"},{"de":"der Freund","en":"boyfriend"},{"de":"die Freundin","en":"girlfriend"},{"de":"heiraten","en":"to marry"},{"de":"vermissen","en":"to miss"},{"de":"das Herz","en":"heart"},{"de":"verliebt","en":"in love"},{"de":"das Date","en":"date"}
+    ]}
+  }
+}

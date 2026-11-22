@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Deutsch Quiz</title>
+<style>
+:root{--bg:#fff;--fg:#1d1d1f;--mut:#6b6b70;--card:#f1f1f5;--ac:#2f5bea;--ok:#1a8a4a;--bad:#c93b3b;color-scheme:light dark}
+@media(prefers-color-scheme:dark){:root{--bg:#16171a;--fg:#ececef;--mut:#9a9aa2;--card:#23252a;--ac:#6f8cff;--ok:#4cc27f;--bad:#ef6b6b}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:16px system-ui,sans-serif}
+main{max-width:900px;margin:0 auto;padding:20px}
+h1{font-size:24px}h2{font-size:14px;text-transform:uppercase;letter-spacing:.06em;color:var(--mut);margin:24px 0 8px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:10px}
+button,select,input{font:inherit;color:inherit}
+button{background:var(--card);border:1px solid transparent;border-radius:10px;padding:12px;cursor:pointer;text-align:left}
+button:hover{border-color:var(--ac)}button.p{background:var(--ac);color:#fff;text-align:center}
+button small{display:block;color:var(--mut)}
+input,select{background:var(--card);border:1px solid var(--mut);border-radius:8px;padding:8px;width:100%}
+.row{display:flex;gap:10px;flex-wrap:wrap;align-items:end;margin:12px 0}.row>*{flex:1;min-width:130px}
+.cell{background:var(--card);border-radius:8px;padding:8px 10px;min-height:56px}
+.cell small{color:var(--mut)}.cell b{display:block;min-height:1.3em}.cell.ok b{color:var(--ok)}.cell.miss b{color:var(--bad)}
+#bar{position:sticky;top:0;background:var(--bg);padding:10px 0;display:flex;gap:12px;align-items:center;z-index:2}
+#bar input{flex:1;font-size:18px}#t{font-variant-numeric:tabular-nums;font-size:20px;min-width:70px}
+.hide{display:none}#msg{color:var(--mut);margin:8px 0}
+</style></head><body><main>
+<section id="home">
+<h1>🇩🇪 Deutsch Quiz</h1>
+<div class="row">
+ <label>Direction<select id="dir"><option value="de">German → English (clue German)</option><option value="en">English → German (clue English)</option><option value="mix">Mixed</option></select></label>
+ <label>Minutes<input id="min" type="number" value="10" min="1" max="60"></label>
+</div>
+<h2>By word type</h2><div class="grid" id="types"></div>
+<h2>By topic</h2><div class="grid" id="topics"></div>
+<h2>Tools</h2>
+<div class="grid"><button id="addB">➕ Add a word</button><button id="setB">⚙️ GitHub sync settings</button></div>
+
+<div id="add" class="hide"><h2>Add a word</h2>
+ <div class="row"><label>German or English word<input id="w" placeholder="arbeiten  or  to work"></label>
+ <label>List (optional)<select id="l"></select></label>
+ <button class="p" id="go">Look up</button></div>
+ <div id="prev" class="hide"><div class="row">
+ <label>German<input id="pde"></label><label>English<input id="pen"></label>
+ <label>Save to<select id="pl"></select></label><button class="p" id="save">Save</button></div></div>
+</div>
+<div id="set" class="hide"><h2>GitHub sync</h2>
+ <p id="msg0" style="color:var(--mut)">Create a fine-grained token with “Contents: read &amp; write” on your repo only. It stays in this browser.</p>
+ <div class="row"><label>Owner<input id="go1"></label><label>Repo<input id="go2"></label><label>Branch<input id="go3" value="main"></label></div>
+ <div class="row"><label>Token<input id="go4" type="password"></label><button class="p" id="sset">Save settings</button></div></div>
+<div id="msg"></div>
+</section>
+
+<section id="quiz" class="hide">
+ <div id="bar"><span id="t"></span><input id="ans" placeholder="Type an answer…" autocomplete="off" autocapitalize="off" spellcheck="false"><span id="sc"></span><button id="end">Give up</button></div>
+ <h1 id="qt"></h1><div class="grid" id="cells"></div>
+ <p><button id="back">← Back</button></p>
+</section>
+</main>
+<script>
+const $=id=>document.getElementById(id), LS=localStorage;
+let data, cur, timer;
+const cfg=()=>JSON.parse(LS.cfg||'{}');
+const norm=s=>s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/ß/g,'ss')
+  .replace(/^(to|the|a|an|der|die|das|ein|eine)\s+/,'').replace(/[^a-z0-9 ]/g,'').trim();
+const alts=s=>s.split(/[\/;,]/).map(norm).filter(Boolean);
+const lists=()=>({...data.types,...data.topics});
+const msg=t=>$('msg').textContent=t||'';
+
+async function load(){
+  data=await (await fetch('words.json?t='+Date.now())).json();
+  (JSON.parse(LS.pending||'[]')).forEach(p=>push(p.list,p.de,p.en));
+  render();
+}
+function push(key,de,en){const L=lists()[key]; if(L&&!L.words.some(w=>w.de===de))L.words.push({de,en});}
+function render(){
+  for(const [id,src] of [['types',data.types],['topics',data.topics]]){
+    $(id).innerHTML='';
+    for(const k in src){const b=document.createElement('button');
+      b.innerHTML=`${src[k].title}<small>${src[k].words.length} words</small>`;
+      b.onclick=()=>start(k);$(id).append(b);}
+  }
+  const opts=Object.entries(lists()).map(([k,v])=>`<option value="${k}">${v.title}</option>`).join('');
+  $('l').innerHTML='<option value="">Auto-detect</option>'+opts; $('pl').innerHTML=opts;
+}
+/* ---------- quiz ---------- */
+function start(key){
+  const L=lists()[key], d=$('dir').value;
+  cur={items:L.words.map(w=>({w,clue:d==='mix'?(Math.random()<.5?'de':'en'):d,done:false})),left:+$('min').value*60,found:0};
+  $('home').classList.add('hide');$('quiz').classList.remove('hide');
+  $('qt').textContent=L.title; $('ans').value=''; $('ans').disabled=false; $('end').disabled=false;
+  $('cells').innerHTML='';
+  cur.items.forEach(it=>{const c=document.createElement('div');c.className='cell';
+    c.innerHTML=`<small>${it.clue==='de'?it.w.de:it.w.en}</small><b></b>`;it.el=c;$('cells').append(c);});
+  tick();clearInterval(timer);timer=setInterval(()=>{cur.left--;tick();if(cur.left<=0)finish();},1000);
+  $('ans').focus();
+}
+function tick(){const m=Math.floor(cur.left/60),s=cur.left%60;$('t').textContent=m+':'+String(s).padStart(2,'0');
+  $('sc').textContent=cur.found+'/'+cur.items.length;}
+$('ans').oninput=e=>{
+  const v=norm(e.target.value); if(!v)return;
+  const it=cur.items.find(i=>!i.done&&alts(i.clue==='de'?i.w.en:i.w.de).includes(v));
+  if(!it)return;
+  it.done=true;cur.found++;it.el.classList.add('ok');it.el.querySelector('b').textContent=it.clue==='de'?it.w.en:it.w.de;
+  e.target.value='';tick();if(cur.found===cur.items.length)finish();
+};
+function finish(){clearInterval(timer);$('ans').disabled=true;$('end').disabled=true;
+  cur.items.forEach(i=>{if(!i.done){i.el.classList.add('miss');i.el.querySelector('b').textContent=i.clue==='de'?i.w.en:i.w.de;}});}
+$('end').onclick=finish;
+$('back').onclick=()=>{clearInterval(timer);$('quiz').classList.add('hide');$('home').classList.remove('hide');};
+/* ---------- add word ---------- */
+$('addB').onclick=()=>$('add').classList.toggle('hide');
+$('setB').onclick=()=>{const c=cfg();$('go1').value=c.o||'';$('go2').value=c.r||'';$('go3').value=c.b||'main';$('go4').value=c.t||'';$('set').classList.toggle('hide');};
+$('sset').onclick=()=>{LS.cfg=JSON.stringify({o:$('go1').value.trim(),r:$('go2').value.trim(),b:$('go3').value.trim()||'main',t:$('go4').value.trim()});msg('Settings saved.');$('set').classList.add('hide');};
+const tr=(q,a,b)=>fetch(`https://api.mymemory.translated.net/get?q=${encodeURIComponent(q)}&langpair=${a}|${b}`).then(r=>r.json()).then(j=>(j.responseData.translatedText||'').trim());
+async function pos(en){try{const j=await (await fetch('https://api.dictionaryapi.dev/api/v2/entries/en/'+encodeURIComponent(en))).json();
+  const p=j[0].meanings[0].partOfSpeech;return p==='verb'?'verbs':p==='noun'?'nouns':'adjadv';}catch{return null}}
+$('go').onclick=async()=>{
+  const raw=$('w').value.trim(); if(!raw)return; msg('Looking up…');
+  try{
+    let de,en,isEn=/^to\s+/i.test(raw);
+    if(isEn){en=raw;de=await tr(raw,'en','de');}
+    else{const r=await tr(raw,'de','en');
+      if(norm(r)!==norm(raw)){de=raw;en=r;} else {de=await tr(raw,'en','de');en=raw;isEn=true;}}
+    let key=$('l').value;
+    if(!key){
+      if(/^to\s+/i.test(en)||/^[a-zäöüß]+en$/.test(de)&&!/^[A-ZÄÖÜ]/.test(de))key='verbs';
+      else if(/^(der|die|das)\s|^[A-ZÄÖÜ]/.test(de))key='nouns';
+      else key=await pos(en.replace(/^to\s+/i,''))||'adjadv';
+    }
+    if(key==='verbs'&&!/^to\s+/i.test(en))en='to '+en;
+    $('pde').value=de;$('pen').value=en;$('pl').value=key;$('prev').classList.remove('hide');
+    msg('Check the translation (edit if needed), then save.');
+  }catch(e){msg('Lookup failed: '+e.message);}
+};
+$('save').onclick=async()=>{
+  const de=$('pde').value.trim(),en=$('pen').value.trim(),key=$('pl').value; if(!de||!en)return;
+  push(key,de,en);render();$('prev').classList.add('hide');$('w').value='';
+  const c=cfg();
+  if(c.t&&c.o&&c.r){try{await gh(c);LS.pending='[]';msg('Saved to GitHub ✓ (site updates in ~1 min)');}
+    catch(e){queue(key,de,en);msg('GitHub save failed ('+e.message+'). Kept locally.');}}
+  else{queue(key,de,en);msg('Saved in this browser. Add GitHub settings to sync.');}
+};
+function queue(list,de,en){const p=JSON.parse(LS.pending||'[]');p.push({list,de,en});LS.pending=JSON.stringify(p);}
+async function gh(c){
+  const url=`https://api.github.com/repos/${c.o}/${c.r}/contents/words.json`, H={Authorization:'Bearer '+c.t,Accept:'application/vnd.github+json'};
+  const cur=await (await fetch(url+'?ref='+c.b,{headers:H})).json(); if(!cur.sha)throw new Error(cur.message||'no file');
+  const remote=JSON.parse(decodeURIComponent(escape(atob(cur.content.replace(/\n/g,'')))));
+  const pend=JSON.parse(LS.pending||'[]'), all=[...pend,{list:$('pl').value,de:$('pde').value.trim(),en:$('pen').value.trim()}];
+  const dedup=new Map();all.forEach(p=>dedup.set(p.list+'|'+p.de,p));
+  const L={...remote.types,...remote.topics};
+  dedup.forEach(p=>{if(L[p.list]&&!L[p.list].words.some(w=>w.de===p.de))L[p.list].words.push({de:p.de,en:p.en});});
+  const body=JSON.stringify(remote,null,1);
+  const r=await fetch(url,{method:'PUT',headers:H,body:JSON.stringify({message:'Add word: '+all[all.length-1].de,content:btoa(unescape(encodeURIComponent(body))),sha:cur.sha,branch:c.b})});
+  if(!r.ok)throw new Error((await r.json()).message);
+}
+load();
+</script></body></html>
