@@ -64,7 +64,7 @@
    "de": "sagen",
    "en": "to say",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "machen",
@@ -112,13 +112,13 @@
    "de": "sehen",
    "en": "to see",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "lassen",
    "en": "to let",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "stehen",
@@ -142,7 +142,7 @@
    "de": "liegen",
    "en": "to lie",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "arbeiten",
@@ -268,7 +268,7 @@
    "de": "das Auge",
    "en": "eye",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "die Nacht",
@@ -286,7 +286,7 @@
    "de": "neu",
    "en": "new",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_school_language"
   },
   {
    "de": "groß",
@@ -352,7 +352,7 @@
    "de": "nur",
    "en": "only",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "auch",
@@ -958,7 +958,7 @@
    "de": "tun",
    "en": "to do",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "dürfen",
@@ -988,7 +988,7 @@
    "de": "mögen",
    "en": "to like",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_animals"
   },
   {
    "de": "zeigen",
@@ -1126,7 +1126,7 @@
    "de": "erklären",
    "en": "to explain",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_school_language"
   },
   {
    "de": "entsprechen",
@@ -1174,7 +1174,7 @@
    "de": "erhalten",
    "en": "to receive",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "treffen",
@@ -1270,7 +1270,7 @@
    "de": "erscheinen",
    "en": "to appear",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "bilden",
@@ -1306,7 +1306,7 @@
    "de": "beantworten",
    "en": "to answer",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "rufen",
@@ -1420,7 +1420,7 @@
    "de": "lächeln",
    "en": "to smile",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "schauen",
@@ -1438,7 +1438,7 @@
    "de": "zählen",
    "en": "to count",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_music_arts"
   },
   {
    "de": "messen",
@@ -1468,7 +1468,7 @@
    "de": "töten",
    "en": "to kill",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "geboren werden",
@@ -1510,7 +1510,7 @@
    "de": "wünschen",
    "en": "to wish",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "fürchten",
@@ -1534,13 +1534,13 @@
    "de": "lügen",
    "en": "to lie",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "streiten",
    "en": "to argue",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "kämpfen",
@@ -1552,7 +1552,7 @@
    "de": "gewinnen",
    "en": "to win",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "verändern",
@@ -1564,7 +1564,7 @@
    "de": "wechseln",
    "en": "to switch",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "bewegen",
@@ -1576,7 +1576,7 @@
    "de": "steigen",
    "en": "to climb",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "springen",
@@ -1702,7 +1702,7 @@
    "de": "empfangen",
    "en": "to receive",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "antworten",
@@ -1732,7 +1732,7 @@
    "de": "begrüßen",
    "en": "to greet",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "verabschieden",
@@ -1768,7 +1768,7 @@
    "de": "erlauben",
    "en": "to allow",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "verbieten",
@@ -1846,13 +1846,13 @@
    "de": "akzeptieren",
    "en": "to accept",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "annehmen",
    "en": "to accept",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "entscheiden",
@@ -1978,7 +1978,7 @@
    "de": "korrigieren",
    "en": "to correct",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "verbessern",
@@ -2032,7 +2032,7 @@
    "de": "untersuchen",
    "en": "to examine",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "analysieren",
@@ -2086,7 +2086,7 @@
    "de": "aussprechen",
    "en": "to pronounce",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_school_language"
   },
   {
    "de": "erwähnen",
@@ -2212,7 +2212,7 @@
    "de": "zerstören",
    "en": "to destroy",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_animals"
   },
   {
    "de": "brechen",
@@ -2224,7 +2224,7 @@
    "de": "schneiden",
    "en": "to cut",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "reißen",
@@ -2242,7 +2242,7 @@
    "de": "binden",
    "en": "to tie",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "hängen",
@@ -2254,7 +2254,7 @@
    "de": "werfen",
    "en": "to throw",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "fangen",
@@ -2284,7 +2284,7 @@
    "de": "senken",
    "en": "to lower",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "füllen",
@@ -2320,7 +2320,7 @@
    "de": "braten",
    "en": "to fry",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "schmecken",
@@ -2362,13 +2362,13 @@
    "de": "aufräumen",
    "en": "to tidy up",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "baden",
    "en": "to bathe",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "anziehen",
@@ -2398,7 +2398,7 @@
    "de": "rasieren",
    "en": "to shave",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "schminken",
@@ -2422,19 +2422,19 @@
    "de": "verletzen",
    "en": "to injure",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "bluten",
    "en": "to bleed",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "husten",
    "en": "to cough",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "niesen",
@@ -2452,13 +2452,13 @@
    "de": "schwitzen",
    "en": "to sweat",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "frieren",
    "en": "to freeze",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "brennen",
@@ -2506,7 +2506,7 @@
    "de": "ernten",
    "en": "to harvest",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "füttern",
@@ -2536,7 +2536,7 @@
    "de": "klettern",
    "en": "to climb",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "wandern",
@@ -2584,13 +2584,13 @@
    "de": "treten",
    "en": "to kick",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "schlagen",
    "en": "to hit",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "stoßen",
@@ -2620,7 +2620,7 @@
    "de": "tropfen",
    "en": "to drip",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "schmelzen",
@@ -2716,7 +2716,7 @@
    "de": "retten",
    "en": "to rescue",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "schützen",
@@ -2728,7 +2728,7 @@
    "de": "verteidigen",
    "en": "to defend",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "angreifen",
@@ -2746,7 +2746,7 @@
    "de": "verstecken",
    "en": "to hide",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "verfolgen",
@@ -2800,19 +2800,19 @@
    "de": "stehlen",
    "en": "to steal",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "rauben",
    "en": "to rob",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "betrügen",
    "en": "to cheat",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_law_politics"
   },
   {
    "de": "vertrauen",
@@ -2872,13 +2872,13 @@
    "de": "beleidigen",
    "en": "to insult",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "trösten",
    "en": "to comfort",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "beruhigen",
@@ -2908,7 +2908,7 @@
    "de": "begeistern",
    "en": "to inspire",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_feelings"
   },
   {
    "de": "interessieren",
@@ -2920,7 +2920,7 @@
    "de": "langweilen",
    "en": "to bore",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_music_arts"
   },
   {
    "de": "genießen",
@@ -2944,7 +2944,7 @@
    "de": "vermuten",
    "en": "to suppose",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "annehmen",
@@ -2998,25 +2998,25 @@
    "de": "gründen",
    "en": "to found",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "leiten",
    "en": "to manage",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_law_politics"
   },
   {
    "de": "verwalten",
    "en": "to administer",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_law_politics"
   },
   {
    "de": "regieren",
    "en": "to govern",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_law_politics"
   },
   {
    "de": "herrschen",
@@ -3082,13 +3082,13 @@
    "de": "trennen",
    "en": "to separate",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "verbinden",
    "en": "to connect",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "vereinen",
@@ -3106,7 +3106,7 @@
    "de": "ordnen",
    "en": "to arrange",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "sortieren",
@@ -3118,7 +3118,7 @@
    "de": "verteilen",
    "en": "to distribute",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_school_language"
   },
   {
    "de": "zusammenfassen",
@@ -3130,7 +3130,7 @@
    "de": "ergänzen",
    "en": "to complete",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "erweitern",
@@ -3142,7 +3142,7 @@
    "de": "verringern",
    "en": "to reduce",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "erhöhen",
@@ -3178,7 +3178,7 @@
    "de": "erreichen",
    "en": "to achieve",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "gelingen",
@@ -3190,13 +3190,13 @@
    "de": "scheitern",
    "en": "to fail",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "misslingen",
    "en": "to fail",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "riskieren",
@@ -3220,7 +3220,7 @@
    "de": "aufmachen",
    "en": "to open up",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "zumachen",
@@ -3232,7 +3232,7 @@
    "de": "anmachen",
    "en": "to turn on",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "ausmachen",
@@ -3256,7 +3256,7 @@
    "de": "anschalten",
    "en": "to turn on",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "abschalten",
@@ -3274,13 +3274,13 @@
    "de": "mitnehmen",
    "en": "to take along",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "mitbringen",
    "en": "to bring along",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "mitmachen",
@@ -3466,7 +3466,7 @@
    "de": "weiterleiten",
    "en": "to forward",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_school_language"
   },
   {
    "de": "vorgehen",
@@ -3490,7 +3490,7 @@
    "de": "vorhaben",
    "en": "to plan to do",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "vorbeikommen",
@@ -3568,7 +3568,7 @@
    "de": "nachfragen",
    "en": "to inquire",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "nachahmen",
@@ -3592,7 +3592,7 @@
    "de": "nachmachen",
    "en": "to copy",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_music_arts"
   },
   {
    "de": "nachweisen",
@@ -3610,7 +3610,7 @@
    "de": "aufgeben",
    "en": "to give up",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "aufnehmen",
@@ -3622,7 +3622,7 @@
    "de": "aufbauen",
    "en": "to set up",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "aufbewahren",
@@ -3670,7 +3670,7 @@
    "de": "aufheben",
    "en": "to pick up",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "aufklären",
@@ -3712,7 +3712,7 @@
    "de": "aufwachen",
    "en": "to wake up",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "aufwachsen",
@@ -3766,7 +3766,7 @@
    "de": "ausleihen",
    "en": "to lend",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "ausnutzen",
@@ -3862,7 +3862,7 @@
    "de": "abholen",
    "en": "to pick up",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "abkürzen",
@@ -3904,7 +3904,7 @@
    "de": "abschreiben",
    "en": "to copy",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_music_arts"
   },
   {
    "de": "absetzen",
@@ -3928,13 +3928,13 @@
    "de": "abwarten",
    "en": "to wait and see",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "abwaschen",
    "en": "to wash up",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "abwechseln",
@@ -3952,7 +3952,7 @@
    "de": "anbringen",
    "en": "to attach",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_city_places"
   },
   {
    "de": "andeuten",
@@ -3994,7 +3994,7 @@
    "de": "ankündigen",
    "en": "to announce",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_school_language"
   },
   {
    "de": "anmelden",
@@ -4078,7 +4078,7 @@
    "de": "anwenden",
    "en": "to apply",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_city_places"
   },
   {
    "de": "anwesend sein",
@@ -4120,7 +4120,7 @@
    "de": "bearbeiten",
    "en": "to edit",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "beauftragen",
@@ -4138,7 +4138,7 @@
    "de": "bedauern",
    "en": "to regret",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_feelings"
   },
   {
    "de": "bedienen",
@@ -4264,13 +4264,13 @@
    "de": "bekanntgeben",
    "en": "to announce",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_school_language"
   },
   {
    "de": "beklagen",
    "en": "to complain",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "bekräftigen",
@@ -4324,13 +4324,13 @@
    "de": "bereuen",
    "en": "to regret",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_feelings"
   },
   {
    "de": "bergen",
    "en": "to recover",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "bescheinigen",
@@ -4372,7 +4372,7 @@
    "de": "beschweren",
    "en": "to complain",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "besetzen",
@@ -4396,7 +4396,7 @@
    "de": "besitzen",
    "en": "to own",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "besorgen",
@@ -4474,7 +4474,7 @@
    "de": "beurteilen",
    "en": "to assess",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "bewähren",
@@ -4498,7 +4498,7 @@
    "de": "bewerben",
    "en": "to apply",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_city_places"
   },
   {
    "de": "bewerten",
@@ -4606,7 +4606,7 @@
    "de": "dringen",
    "en": "to penetrate",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_feelings"
   },
   {
    "de": "dulden",
@@ -4648,7 +4648,7 @@
    "de": "ehren",
    "en": "to honor",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "eilen",
@@ -4684,7 +4684,7 @@
    "de": "einfügen",
    "en": "to insert",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_school_language"
   },
   {
    "de": "eingeben",
@@ -4708,7 +4708,7 @@
    "de": "einlösen",
    "en": "to redeem",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "einmischen",
@@ -4792,7 +4792,7 @@
    "de": "einwerfen",
    "en": "to insert",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_school_language"
   },
   {
    "de": "einziehen",
@@ -4918,7 +4918,7 @@
    "de": "ereignen",
    "en": "to happen",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "erfassen",
@@ -4942,7 +4942,7 @@
    "de": "erfüllen",
    "en": "to fulfill",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "ergeben",
@@ -4966,7 +4966,7 @@
    "de": "erholen",
    "en": "to recover",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "erkälten",
@@ -4978,7 +4978,7 @@
    "de": "erkundigen",
    "en": "to inquire",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "erleben",
@@ -5014,7 +5014,7 @@
    "de": "erleuchten",
    "en": "to illuminate",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_colors"
   },
   {
    "de": "ermitteln",
@@ -5050,7 +5050,7 @@
    "de": "ernennen",
    "en": "to appoint",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_law_politics"
   },
   {
    "de": "erneuern",
@@ -5212,7 +5212,7 @@
    "de": "fegen",
    "en": "to sweep",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "feiern",
@@ -5236,7 +5236,7 @@
    "de": "fesseln",
    "en": "to bind",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "festhalten",
@@ -5266,7 +5266,7 @@
    "de": "flechten",
    "en": "to braid",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "flehen",
@@ -5314,7 +5314,7 @@
    "de": "freisprechen",
    "en": "to acquit",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_law_politics"
   },
   {
    "de": "fressen",
@@ -5338,7 +5338,7 @@
    "de": "garantieren",
    "en": "to guarantee",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_school_language"
   },
   {
    "de": "gedeihen",
@@ -5464,7 +5464,7 @@
    "de": "grüßen",
    "en": "to greet",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "gucken",
@@ -5500,7 +5500,7 @@
    "de": "hauen",
    "en": "to hit",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "heizen",
@@ -5518,19 +5518,19 @@
    "de": "hervorheben",
    "en": "to highlight",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "hetzen",
    "en": "to rush",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "hinnehmen",
    "en": "to accept",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "hinweisen",
@@ -5542,7 +5542,7 @@
    "de": "hinzufügen",
    "en": "to add",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "hobeln",
@@ -5584,7 +5584,7 @@
    "de": "inspirieren",
    "en": "to inspire",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_feelings"
   },
   {
    "de": "investieren",
@@ -5614,7 +5614,7 @@
    "de": "kehren",
    "en": "to sweep",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "keimen",
@@ -5638,7 +5638,7 @@
    "de": "klagen",
    "en": "to complain",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "klappen",
@@ -5668,7 +5668,7 @@
    "de": "klopfen",
    "en": "to knock",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "knien",
@@ -5698,7 +5698,7 @@
    "de": "kopieren",
    "en": "to copy",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_music_arts"
   },
   {
    "de": "kräftigen",
@@ -5710,7 +5710,7 @@
    "de": "kriechen",
    "en": "to crawl",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "kümmern",
@@ -5758,7 +5758,7 @@
    "de": "leisten",
    "en": "to achieve",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "lohnen",
@@ -5788,13 +5788,13 @@
    "de": "managen",
    "en": "to manage",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_law_politics"
   },
   {
    "de": "markieren",
    "en": "to mark",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "meckern",
@@ -5830,7 +5830,7 @@
    "de": "nähen",
    "en": "to sew",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "nähern",
@@ -5872,7 +5872,7 @@
    "de": "passieren",
    "en": "to happen",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "pfeifen",
@@ -5884,7 +5884,7 @@
    "de": "pflücken",
    "en": "to pick",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "pressen",
@@ -5902,7 +5902,7 @@
    "de": "quälen",
    "en": "to torment",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "rasen",
@@ -5920,7 +5920,7 @@
    "de": "rauchen",
    "en": "to smoke",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "rauschen",
@@ -5962,7 +5962,7 @@
    "de": "reihen",
    "en": "to line up",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "reizen",
@@ -6010,7 +6010,7 @@
    "de": "salzen",
    "en": "to salt",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_law_politics"
   },
   {
    "de": "sättigen",
@@ -6028,7 +6028,7 @@
    "de": "schalten",
    "en": "to switch",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "schämen",
@@ -6046,7 +6046,7 @@
    "de": "schätzen",
    "en": "to estimate",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "schaukeln",
@@ -6070,7 +6070,7 @@
    "de": "schleichen",
    "en": "to creep",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "schleppen",
@@ -6088,7 +6088,7 @@
    "de": "schmieren",
    "en": "to smear",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_law_politics"
   },
   {
    "de": "schnarchen",
@@ -6100,7 +6100,7 @@
    "de": "schnüren",
    "en": "to lace",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "schonen",
@@ -6136,7 +6136,7 @@
    "de": "schütteln",
    "en": "to shake",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "schwanken",
@@ -6160,7 +6160,7 @@
    "de": "segnen",
    "en": "to bless",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "sehnen",
@@ -6184,7 +6184,7 @@
    "de": "spalten",
    "en": "to split",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "spazieren",
@@ -6196,7 +6196,7 @@
    "de": "speisen",
    "en": "to dine",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "sperren",
@@ -6214,7 +6214,7 @@
    "de": "spenden",
    "en": "to donate",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "sprießen",
@@ -6226,13 +6226,13 @@
    "de": "sprengen",
    "en": "to blow up",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "spritzen",
    "en": "to spray",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "spüren",
@@ -6262,7 +6262,7 @@
    "de": "starten",
    "en": "to launch",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "statt finden",
@@ -6286,7 +6286,7 @@
    "de": "stecken",
    "en": "to stick",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "steuern",
@@ -6298,7 +6298,7 @@
    "de": "stimmen",
    "en": "to be correct",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "stöhnen",
@@ -6334,7 +6334,7 @@
    "de": "strömen",
    "en": "to stream",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "stürmen",
@@ -6358,7 +6358,7 @@
    "de": "summen",
    "en": "to hum",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "tauen",
@@ -6418,7 +6418,7 @@
    "de": "überfallen",
    "en": "to assault",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_law_politics"
   },
   {
    "de": "übergeben",
@@ -6436,7 +6436,7 @@
    "de": "übernehmen",
    "en": "to take over",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "überprüfen",
@@ -6490,7 +6490,7 @@
    "de": "umbringen",
    "en": "to kill",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "umdrehen",
@@ -6514,13 +6514,13 @@
    "de": "umrechnen",
    "en": "to convert",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "umschalten",
    "en": "to switch over",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "umsehen",
@@ -6556,7 +6556,7 @@
    "de": "unterhalten",
    "en": "to entertain",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "unternehmen",
@@ -6586,7 +6586,7 @@
    "de": "verabreden",
    "en": "to arrange",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "veranlassen",
@@ -6802,7 +6802,7 @@
    "de": "vernichten",
    "en": "to destroy",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_animals"
   },
   {
    "de": "verpassen",
@@ -6916,7 +6916,7 @@
    "de": "verwöhnen",
    "en": "to spoil",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_city_places"
   },
   {
    "de": "verzichten",
@@ -6934,7 +6934,7 @@
    "de": "vollenden",
    "en": "to complete",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "vollziehen",
@@ -7024,7 +7024,7 @@
    "de": "widmen",
    "en": "to dedicate",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "wiedersehen",
@@ -7066,7 +7066,7 @@
    "de": "zähmen",
    "en": "to tame",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "zeichnen",
@@ -7102,7 +7102,7 @@
    "de": "zugeben",
    "en": "to admit",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "zuhören",
@@ -7138,7 +7138,7 @@
    "de": "zusagen",
    "en": "to accept",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "zusammenarbeiten",
@@ -7180,7 +7180,7 @@
    "de": "zuteilen",
    "en": "to assign",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_law_politics"
   },
   {
    "de": "zutrauen",
@@ -7348,7 +7348,7 @@
    "de": "der Herbst",
    "en": "autumn",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "der Winter",
@@ -7402,7 +7402,7 @@
    "de": "das Mädchen",
    "en": "girl",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_school_language"
   },
   {
    "de": "das Baby",
@@ -7540,13 +7540,13 @@
    "de": "der Professor",
    "en": "professor",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "der Ingenieur",
    "en": "engineer",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "der Anwalt",
@@ -7588,7 +7588,7 @@
    "de": "der Präsident",
    "en": "president",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_law_politics"
   },
   {
    "de": "der Minister",
@@ -7606,7 +7606,7 @@
    "de": "der Ausländer",
    "en": "foreigner",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_animals"
   },
   {
    "de": "der Fremde",
@@ -7732,7 +7732,7 @@
    "de": "der Partner",
    "en": "partner",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "das Paar",
@@ -7762,7 +7762,7 @@
    "de": "das Gesicht",
    "en": "face",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_colors"
   },
   {
    "de": "das Haar",
@@ -7822,7 +7822,7 @@
    "de": "der Finger",
    "en": "finger",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "der Daumen",
@@ -7834,7 +7834,7 @@
    "de": "das Bein",
    "en": "leg",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "der Fuß",
@@ -8074,13 +8074,13 @@
    "de": "die Nudel",
    "en": "noodle",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "die Suppe",
    "en": "soup",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "der Kuchen",
@@ -8110,7 +8110,7 @@
    "de": "das Salz",
    "en": "salt",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_law_politics"
   },
   {
    "de": "der Pfeffer",
@@ -8200,7 +8200,7 @@
    "de": "der Teller",
    "en": "plate",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "der Löffel",
@@ -8212,7 +8212,7 @@
    "de": "die Gabel",
    "en": "fork",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "das Messer",
@@ -8230,7 +8230,7 @@
    "de": "die Pfanne",
    "en": "pan",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "die Mahlzeit",
@@ -8338,7 +8338,7 @@
    "de": "die Wand",
    "en": "wall",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "der Boden",
@@ -8440,7 +8440,7 @@
    "de": "der Vorhang",
    "en": "curtain",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_music_arts"
   },
   {
    "de": "das Kissen",
@@ -8470,7 +8470,7 @@
    "de": "der Ofen",
    "en": "oven",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "die Waschmaschine",
@@ -8494,7 +8494,7 @@
    "de": "die Zahnbürste",
    "en": "toothbrush",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "die Straße",
@@ -8518,7 +8518,7 @@
    "de": "der Platz",
    "en": "square",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "der Markt",
@@ -8596,7 +8596,7 @@
    "de": "das Kino",
    "en": "cinema",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_music_arts"
   },
   {
    "de": "die Bibliothek",
@@ -8710,7 +8710,7 @@
    "de": "der Hafen",
    "en": "harbor",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_animals"
   },
   {
    "de": "die Ecke",
@@ -8806,7 +8806,7 @@
    "de": "der Stern",
    "en": "star",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "die Wolke",
@@ -8848,7 +8848,7 @@
    "de": "der Nebel",
    "en": "fog",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "das Wetter",
@@ -8890,7 +8890,7 @@
    "de": "der Hügel",
    "en": "hill",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_school_language"
   },
   {
    "de": "der Wald",
@@ -8932,7 +8932,7 @@
    "de": "der See",
    "en": "lake",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "das Meer",
@@ -8956,7 +8956,7 @@
    "de": "die Wüste",
    "en": "desert",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_city_places"
   },
   {
    "de": "der Stein",
@@ -8980,7 +8980,7 @@
    "de": "das Eis",
    "en": "ice",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "die Welle",
@@ -9028,7 +9028,7 @@
    "de": "das Schaf",
    "en": "sheep",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_animals"
   },
   {
    "de": "die Ziege",
@@ -9118,7 +9118,7 @@
    "de": "der Käfer",
    "en": "beetle",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "der Schmetterling",
@@ -9184,7 +9184,7 @@
    "de": "der Lohn",
    "en": "wage",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "das Gehalt",
@@ -9334,7 +9334,7 @@
    "de": "der Verlust",
    "en": "loss",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "die Kasse",
@@ -9454,7 +9454,7 @@
    "de": "die Antwort",
    "en": "answer",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "der Fehler",
@@ -9730,7 +9730,7 @@
    "de": "die Operation",
    "en": "surgery",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "die Verletzung",
@@ -9748,7 +9748,7 @@
    "de": "der Husten",
    "en": "cough",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "die Erkältung",
@@ -9832,7 +9832,7 @@
    "de": "die Lösung",
    "en": "solution",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "die Möglichkeit",
@@ -10030,7 +10030,7 @@
    "de": "die Mitte",
    "en": "middle",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_school_language"
   },
   {
    "de": "der Anfang",
@@ -10234,7 +10234,7 @@
    "de": "der Zufall",
    "en": "coincidence",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "die Kleidung",
@@ -10288,13 +10288,13 @@
    "de": "der Schuh",
    "en": "shoe",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "die Socke",
    "en": "sock",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "der Hut",
@@ -10318,7 +10318,7 @@
    "de": "der Schal",
    "en": "scarf",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "die Brille",
@@ -10408,7 +10408,7 @@
    "de": "die Hälfte",
    "en": "half",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "die Nummer",
@@ -10474,7 +10474,7 @@
    "de": "die Schraube",
    "en": "screw",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "die Zange",
@@ -10546,7 +10546,7 @@
    "de": "der Schlüsselbund",
    "en": "bunch of keys",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "das Schloss",
@@ -10582,7 +10582,7 @@
    "de": "das Kabel",
    "en": "cable",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "die Steckdose",
@@ -10594,7 +10594,7 @@
    "de": "der Stecker",
    "en": "plug",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "die Glühbirne",
@@ -10606,7 +10606,7 @@
    "de": "der Schalter",
    "en": "switch",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "die Maschine",
@@ -10672,7 +10672,7 @@
    "de": "der Krug",
    "en": "jug",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "die Schüssel",
@@ -10690,7 +10690,7 @@
    "de": "der Becher",
    "en": "mug",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "die Kanne",
@@ -10750,19 +10750,19 @@
    "de": "der Verband",
    "en": "bandage",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_music_arts"
   },
   {
    "de": "das Thermometer",
    "en": "thermometer",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "die Spritze",
    "en": "syringe",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "das Brett",
@@ -10912,7 +10912,7 @@
    "de": "der Rauch",
    "en": "smoke",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "die Asche",
@@ -10924,7 +10924,7 @@
    "de": "das Gas",
    "en": "gas",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "der Strom",
@@ -11092,7 +11092,7 @@
    "de": "die Mauer",
    "en": "wall",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "der Zaun",
@@ -11104,7 +11104,7 @@
    "de": "der Eingang",
    "en": "entrance",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_music_arts"
   },
   {
    "de": "der Ausgang",
@@ -11122,13 +11122,13 @@
    "de": "der Gang",
    "en": "corridor",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "der Aufzug",
    "en": "elevator",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "die Rolltreppe",
@@ -11260,7 +11260,7 @@
    "de": "der Zoll",
    "en": "customs",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_shopping"
   },
   {
    "de": "der Flug",
@@ -11272,7 +11272,7 @@
    "de": "die Landung",
    "en": "landing",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "die Fähre",
@@ -11392,7 +11392,7 @@
    "de": "das Gebiet",
    "en": "territory",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_animals"
   },
   {
    "de": "die Landschaft",
@@ -11404,13 +11404,13 @@
    "de": "der Norden",
    "en": "north",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_city_places"
   },
   {
    "de": "der Süden",
    "en": "south",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_law_politics"
   },
   {
    "de": "der Osten",
@@ -11446,7 +11446,7 @@
    "de": "der Bach",
    "en": "stream",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "der Teich",
@@ -11482,7 +11482,7 @@
    "de": "das Ufer",
    "en": "shore",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "die Bucht",
@@ -11512,7 +11512,7 @@
    "de": "die Überschwemmung",
    "en": "flood",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_school_language"
   },
   {
    "de": "die Dürre",
@@ -11524,7 +11524,7 @@
    "de": "die Ernte",
    "en": "harvest",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "die Pflanze",
@@ -11548,7 +11548,7 @@
    "de": "die Wurzel",
    "en": "root",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "der Ast",
@@ -11566,7 +11566,7 @@
    "de": "die Rinde",
    "en": "bark",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_animals"
   },
   {
    "de": "der Samen",
@@ -11626,7 +11626,7 @@
    "de": "die Erbse",
    "en": "pea",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "die Gurke",
@@ -11674,7 +11674,7 @@
    "de": "der Speck",
    "en": "bacon",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "die Sahne",
@@ -11740,7 +11740,7 @@
    "de": "die Soße",
    "en": "sauce",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "die Zutat",
@@ -11752,7 +11752,7 @@
    "de": "das Rezept",
    "en": "recipe",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "die Portion",
@@ -11782,7 +11782,7 @@
    "de": "die Zigarette",
    "en": "cigarette",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "das Kaninchen",
@@ -11824,7 +11824,7 @@
    "de": "das Krokodil",
    "en": "crocodile",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_animals"
   },
   {
    "de": "der Frosch",
@@ -11842,7 +11842,7 @@
    "de": "der Adler",
    "en": "eagle",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "die Taube",
@@ -11854,7 +11854,7 @@
    "de": "der Schwan",
    "en": "swan",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "die Gans",
@@ -11884,7 +11884,7 @@
    "de": "der Schwanz",
    "en": "tail",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "das Fell",
@@ -11962,7 +11962,7 @@
    "de": "die Wespe",
    "en": "wasp",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "der Wurm",
@@ -12034,13 +12034,13 @@
    "de": "der Leiter",
    "en": "manager",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_law_politics"
   },
   {
    "de": "der Besitzer",
    "en": "owner",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "der Mieter",
@@ -12052,7 +12052,7 @@
    "de": "der Vermieter",
    "en": "landlord",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "der Hausmeister",
@@ -12112,7 +12112,7 @@
    "de": "der Kapitän",
    "en": "captain",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "der Matrose",
@@ -12208,13 +12208,13 @@
    "de": "der Manager",
    "en": "manager",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_law_politics"
   },
   {
    "de": "der Kellner",
    "en": "waiter",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "der Tourist",
@@ -12250,7 +12250,7 @@
    "de": "der Leser",
    "en": "reader",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_school_language"
   },
   {
    "de": "der Hörer",
@@ -12310,7 +12310,7 @@
    "de": "der Mönch",
    "en": "monk",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "der Gott",
@@ -12322,7 +12322,7 @@
    "de": "der Teufel",
    "en": "devil",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "der Engel",
@@ -12352,7 +12352,7 @@
    "de": "die Legende",
    "en": "legend",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "der Mythos",
@@ -12388,13 +12388,13 @@
    "de": "die Annahme",
    "en": "assumption",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "die Auswahl",
    "en": "selection",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_shopping"
   },
   {
    "de": "der Beitrag",
@@ -12436,7 +12436,7 @@
    "de": "die Beziehung",
    "en": "relationship",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_feelings"
   },
   {
    "de": "die Bedingung",
@@ -12664,7 +12664,7 @@
    "de": "der Nutzen",
    "en": "benefit",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "die Öffentlichkeit",
@@ -12760,7 +12760,7 @@
    "de": "die Strategie",
    "en": "strategy",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_law_politics"
   },
   {
    "de": "der Streit",
@@ -12802,13 +12802,13 @@
    "de": "der Titel",
    "en": "title",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "der Trost",
    "en": "comfort",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "die Überraschung",
@@ -12844,13 +12844,13 @@
    "de": "der Vergleich",
    "en": "comparison",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_shopping"
   },
   {
    "de": "die Verhandlung",
    "en": "negotiation",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_shopping"
   },
   {
    "de": "das Verhältnis",
@@ -12928,7 +12928,7 @@
    "de": "der Wunsch",
    "en": "wish",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "das Zeichen",
@@ -13168,7 +13168,7 @@
    "de": "das Quadrat",
    "en": "square",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "das Rechteck",
@@ -13198,7 +13198,7 @@
    "de": "der Radius",
    "en": "radius",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "die Formel",
@@ -13258,7 +13258,7 @@
    "de": "das Experiment",
    "en": "experiment",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_law_politics"
   },
   {
    "de": "die Theorie",
@@ -13372,7 +13372,7 @@
    "de": "die Trommel",
    "en": "drum",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "die Flöte",
@@ -13408,7 +13408,7 @@
    "de": "das Gedicht",
    "en": "poem",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_school_language"
   },
   {
    "de": "der Roman",
@@ -13498,7 +13498,7 @@
    "de": "das Picknick",
    "en": "picnic",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "das Zelt",
@@ -13570,13 +13570,13 @@
    "de": "die Republik",
    "en": "republic",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "die Monarchie",
    "en": "monarchy",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_law_politics"
   },
   {
    "de": "die Einwanderung",
@@ -13594,7 +13594,7 @@
    "de": "die Rente",
    "en": "pension",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "die Versicherung",
@@ -13630,7 +13630,7 @@
    "de": "die Quittung",
    "en": "receipt",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "der Gutschein",
@@ -13642,7 +13642,7 @@
    "de": "der Rabatt",
    "en": "discount",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "die Garantie",
@@ -13660,7 +13660,7 @@
    "de": "die Unterschrift",
    "en": "signature",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "der Antrag",
@@ -13696,7 +13696,7 @@
    "de": "die Staatsangehörigkeit",
    "en": "citizenship",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_law_politics"
   },
   {
    "de": "die Aufenthaltserlaubnis",
@@ -13708,7 +13708,7 @@
    "de": "der Puls",
    "en": "pulse",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_feelings"
   },
   {
    "de": "der Atem",
@@ -13720,7 +13720,7 @@
    "de": "der Schlaf",
    "en": "sleep",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "die Müdigkeit",
@@ -13762,7 +13762,7 @@
    "de": "die Impfung",
    "en": "vaccination",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "die Allergie",
@@ -13798,7 +13798,7 @@
    "de": "die Grippe",
    "en": "flu",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "der Schnupfen",
@@ -13870,7 +13870,7 @@
    "de": "der Zopf",
    "en": "braid",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "die Frisur",
@@ -13930,7 +13930,7 @@
    "de": "die Kehle",
    "en": "throat",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "die Rippe",
@@ -13966,7 +13966,7 @@
    "de": "die Niere",
    "en": "kidney",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "das Gelenk",
@@ -13990,7 +13990,7 @@
    "de": "die Augenbraue",
    "en": "eyebrow",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_school_language"
   },
   {
    "de": "die Träne",
@@ -14002,7 +14002,7 @@
    "de": "das Lächeln",
    "en": "smile",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "das Lachen",
@@ -14122,7 +14122,7 @@
    "de": "dunkel",
    "en": "dark",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_colors"
   },
   {
    "de": "golden",
@@ -14152,7 +14152,7 @@
    "de": "eng",
    "en": "tight",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "weit",
@@ -14188,7 +14188,7 @@
    "de": "spitz",
    "en": "pointed",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "gerade",
@@ -14272,7 +14272,7 @@
    "de": "billig",
    "en": "cheap",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "teuer",
@@ -14332,13 +14332,13 @@
    "de": "bequem",
    "en": "comfortable",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "unbequem",
    "en": "uncomfortable",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_feelings"
   },
   {
    "de": "gemütlich",
@@ -14362,7 +14362,7 @@
    "de": "antik",
    "en": "ancient",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "frisch",
@@ -14422,7 +14422,7 @@
    "de": "halb",
    "en": "half",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "kaputt",
@@ -14446,7 +14446,7 @@
    "de": "bereit",
    "en": "ready",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "offen",
@@ -14494,7 +14494,7 @@
    "de": "glatt",
    "en": "smooth",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "rau",
@@ -14530,13 +14530,13 @@
    "de": "stark",
    "en": "strong",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_school_language"
   },
   {
    "de": "schwach",
    "en": "weak",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_law_politics"
   },
   {
    "de": "fest",
@@ -14566,7 +14566,7 @@
    "de": "elastisch",
    "en": "elastic",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_music_arts"
   },
   {
    "de": "zerbrechlich",
@@ -14650,13 +14650,13 @@
    "de": "mild",
    "en": "mild",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "eisig",
    "en": "icy",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "frostig",
@@ -14674,7 +14674,7 @@
    "de": "sauer",
    "en": "sour",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "bitter",
@@ -14722,25 +14722,25 @@
    "de": "gekocht",
    "en": "cooked",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "gebacken",
    "en": "baked",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "gebraten",
    "en": "fried",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "gefroren",
    "en": "frozen",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_law_politics"
   },
   {
    "de": "laut",
@@ -14920,7 +14920,7 @@
    "de": "traurig",
    "en": "sad",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_feelings"
   },
   {
    "de": "fröhlich",
@@ -14962,7 +14962,7 @@
    "de": "ernsthaft",
    "en": "earnest",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "streng",
@@ -15064,7 +15064,7 @@
    "de": "vorsichtig",
    "en": "careful",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "leichtsinnig",
@@ -15184,13 +15184,13 @@
    "de": "kindisch",
    "en": "childish",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_school_language"
   },
   {
    "de": "einsam",
    "en": "lonely",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_feelings"
   },
   {
    "de": "allein",
@@ -15208,7 +15208,7 @@
    "de": "wach",
    "en": "awake",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "munter",
@@ -15292,13 +15292,13 @@
    "de": "blind",
    "en": "blind",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "taub",
    "en": "deaf",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_school_language"
   },
   {
    "de": "stumm",
@@ -15346,7 +15346,7 @@
    "de": "merkwürdig",
    "en": "odd",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "komisch",
@@ -15364,7 +15364,7 @@
    "de": "fremd",
    "en": "foreign",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "vertraut",
@@ -15460,7 +15460,7 @@
    "de": "gelangweilt",
    "en": "bored",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "begeistert",
@@ -15472,7 +15472,7 @@
    "de": "interessiert",
    "en": "interested",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "gespannt",
@@ -15640,7 +15640,7 @@
    "de": "einzig",
    "en": "only",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "einzeln",
@@ -15658,7 +15658,7 @@
    "de": "dreifach",
    "en": "triple",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "gesamt",
@@ -15712,7 +15712,7 @@
    "de": "gleich",
    "en": "same",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_school_language"
   },
   {
    "de": "ähnlich",
@@ -15742,7 +15742,7 @@
    "de": "speziell",
    "en": "specific",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "typisch",
@@ -15838,7 +15838,7 @@
    "de": "früh",
    "en": "early",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_school_language"
   },
   {
    "de": "spät",
@@ -15946,7 +15946,7 @@
    "de": "vorläufig",
    "en": "provisional",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "ehemalig",
@@ -16024,7 +16024,7 @@
    "de": "äußere",
    "en": "outer",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "obere",
@@ -16036,13 +16036,13 @@
    "de": "untere",
    "en": "lower",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "vordere",
    "en": "front",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "hintere",
@@ -16066,7 +16066,7 @@
    "de": "mittlere",
    "en": "middle",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_school_language"
   },
   {
    "de": "östlich",
@@ -16096,7 +16096,7 @@
    "de": "zentral",
    "en": "central",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "lokal",
@@ -16162,7 +16162,7 @@
    "de": "ausländisch",
    "en": "foreign",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "europäisch",
@@ -16192,7 +16192,7 @@
    "de": "spanisch",
    "en": "Spanish",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_school_language"
   },
   {
    "de": "italienisch",
@@ -16264,19 +16264,19 @@
    "de": "falsch",
    "en": "false",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_colors"
   },
   {
    "de": "richtig",
    "en": "correct",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "korrekt",
    "en": "proper",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_colors"
   },
   {
    "de": "genau",
@@ -16300,7 +16300,7 @@
    "de": "ungefähr",
    "en": "approximate",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "möglich",
@@ -16342,7 +16342,7 @@
    "de": "unsicher",
    "en": "uncertain",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "klar",
@@ -16456,7 +16456,7 @@
    "de": "ungültig",
    "en": "invalid",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "kostenlos",
@@ -16510,7 +16510,7 @@
    "de": "arbeitslos",
    "en": "unemployed",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "berufstätig",
@@ -16564,7 +16564,7 @@
    "de": "getrennt",
    "en": "separate",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "verbunden",
@@ -16816,7 +16816,7 @@
    "de": "unschuldig",
    "en": "innocent",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "beteiligt",
@@ -16888,7 +16888,7 @@
    "de": "langweilig",
    "en": "boring",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_law_politics"
   },
   {
    "de": "interessant",
@@ -16948,7 +16948,7 @@
    "de": "harmlos",
    "en": "harmless",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "giftig",
@@ -16996,7 +16996,7 @@
    "de": "begabt",
    "en": "gifted",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_school_language"
   },
   {
    "de": "erfahren",
@@ -17092,7 +17092,7 @@
    "de": "vollständig",
    "en": "complete",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "unvollständig",
@@ -17284,7 +17284,7 @@
    "de": "ungeeignet",
    "en": "unfit",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "angemessen",
@@ -17314,7 +17314,7 @@
    "de": "fair",
    "en": "sporting",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "unfair",
@@ -17494,7 +17494,7 @@
    "de": "mündlich",
    "en": "oral",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_school_language"
   },
   {
    "de": "schriftlich",
@@ -17548,7 +17548,7 @@
    "de": "zeitlich",
    "en": "temporal",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "ironisch",
@@ -17560,7 +17560,7 @@
    "de": "kritisch",
    "en": "critical",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "math"
   },
   {
    "de": "magisch",
@@ -17572,13 +17572,13 @@
    "de": "mathematisch",
    "en": "mathematical",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "math"
   },
   {
    "de": "medizinisch",
    "en": "medical",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "optimistisch",
@@ -17608,7 +17608,7 @@
    "de": "romantisch",
    "en": "romantic",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_music_arts"
   },
   {
    "de": "sarkastisch",
@@ -17632,7 +17632,7 @@
    "de": "tropisch",
    "en": "tropical",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "ideologisch",
@@ -17644,19 +17644,19 @@
    "de": "juristisch",
    "en": "legal",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_family"
   },
   {
    "de": "klassisch",
    "en": "classical",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_music_arts"
   },
   {
    "de": "kriminell",
    "en": "criminal",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_colors"
   },
   {
    "de": "katholisch",
@@ -17710,7 +17710,7 @@
    "de": "essbar",
    "en": "edible",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "fruchtbar",
@@ -17872,7 +17872,7 @@
    "de": "regungslos",
    "en": "still",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "sinnlos",
@@ -17890,7 +17890,7 @@
    "de": "spurlos",
    "en": "without a trace",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "bargeldlos",
@@ -17938,7 +17938,7 @@
    "de": "gefühlvoll",
    "en": "sensitive",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_feelings"
   },
   {
    "de": "humorvoll",
@@ -18112,7 +18112,7 @@
    "de": "gütig",
    "en": "kind",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "hartnäckig",
@@ -18178,7 +18178,7 @@
    "de": "völlig",
    "en": "complete",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "zickig",
@@ -18190,7 +18190,7 @@
    "de": "dreist",
    "en": "brazen",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "frech",
@@ -18208,7 +18208,7 @@
    "de": "artig",
    "en": "good",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "listig",
@@ -18220,7 +18220,7 @@
    "de": "schlau",
    "en": "smart",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "gerissen",
@@ -18292,7 +18292,7 @@
    "de": "arrogant",
    "en": "arrogant",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_feelings"
   },
   {
    "de": "hochmütig",
@@ -18316,7 +18316,7 @@
    "de": "genügsam",
    "en": "frugal",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "sparsam",
@@ -18370,7 +18370,7 @@
    "de": "leidenschaftlich",
    "en": "passionate",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_feelings"
   },
   {
    "de": "temperamentvoll",
@@ -18406,7 +18406,7 @@
    "de": "langsam",
    "en": "slow",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "behutsam",
@@ -18484,13 +18484,13 @@
    "de": "rührend",
    "en": "touching",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_feelings"
   },
   {
    "de": "bewegend",
    "en": "moving",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "ergreifend",
@@ -18574,7 +18574,7 @@
    "de": "schlank",
    "en": "slim",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "pummelig",
@@ -18592,7 +18592,7 @@
    "de": "untergewichtig",
    "en": "underweight",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "zierlich",
@@ -18634,7 +18634,7 @@
    "de": "beweglich",
    "en": "mobile",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "unbeweglich",
@@ -18646,7 +18646,7 @@
    "de": "wund",
    "en": "sore",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "geschwollen",
@@ -18712,7 +18712,7 @@
    "de": "verbraucht",
    "en": "used up",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "rostig",
@@ -18784,7 +18784,7 @@
    "de": "flüssig",
    "en": "liquid",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "klebrig",
@@ -18844,7 +18844,7 @@
    "de": "einfarbig",
    "en": "plain",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "gestreift",
@@ -18868,7 +18868,7 @@
    "de": "geblümt",
    "en": "flowery",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_school_language"
   },
   {
    "de": "duftend",
@@ -18898,7 +18898,7 @@
    "de": "herzhaft",
    "en": "hearty",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "pikant",
@@ -18928,7 +18928,7 @@
    "de": "biologisch",
    "en": "organic",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "koffeinfrei",
@@ -18958,13 +18958,13 @@
    "de": "eingelegt",
    "en": "pickled",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "geräuchert",
    "en": "smoked",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "gesalzen",
@@ -18976,7 +18976,7 @@
    "de": "gewürzt",
    "en": "seasoned",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "paniert",
@@ -18994,7 +18994,7 @@
    "de": "gefüllt",
    "en": "stuffed",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "sonnenklar",
@@ -19006,7 +19006,7 @@
    "de": "heiter",
    "en": "cheerful",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_feelings"
   },
   {
    "de": "stürmisch",
@@ -19030,13 +19030,13 @@
    "de": "drückend",
    "en": "oppressive",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "arktisch",
    "en": "arctic",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "mediterran",
@@ -19078,19 +19078,19 @@
    "de": "unfruchtbar",
    "en": "barren",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_city_places"
   },
   {
    "de": "wild",
    "en": "wild",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "zahm",
    "en": "tame",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "ungenießbar",
@@ -19102,7 +19102,7 @@
    "de": "saisonal",
    "en": "seasonal",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "exotisch",
@@ -19126,7 +19126,7 @@
    "de": "lebend",
    "en": "living",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "ökologisch",
@@ -19174,13 +19174,13 @@
    "de": "mobil",
    "en": "mobile",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "drahtlos",
    "en": "wireless",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_technology"
   },
   {
    "de": "kabellos",
@@ -19204,7 +19204,7 @@
    "de": "effizient",
    "en": "efficient",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "effektiv",
@@ -19222,7 +19222,7 @@
    "de": "analog",
    "en": "analog",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "manuell",
@@ -19234,13 +19234,13 @@
    "de": "industriell",
    "en": "industrial",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_music_arts"
   },
   {
    "de": "maschinell",
    "en": "mechanical",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "handgemacht",
@@ -19252,7 +19252,7 @@
    "de": "selbstgemacht",
    "en": "homemade",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "hausgemacht",
@@ -19264,7 +19264,7 @@
    "de": "serienmäßig",
    "en": "standard",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "math"
   },
   {
    "de": "einzigartig",
@@ -19282,7 +19282,7 @@
    "de": "innovativ",
    "en": "innovative",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_technology"
   },
   {
    "de": "revolutionär",
@@ -19294,13 +19294,13 @@
    "de": "fortschrittlich",
    "en": "progressive",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "rückständig",
    "en": "backward",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_technology"
   },
   {
    "de": "veraltet",
@@ -19324,7 +19324,7 @@
    "de": "zeitlos",
    "en": "timeless",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "schulisch",
@@ -19336,13 +19336,13 @@
    "de": "akademisch",
    "en": "academic",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "freiberuflich",
    "en": "freelance",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_law_politics"
   },
   {
    "de": "angestellt",
@@ -19360,7 +19360,7 @@
    "de": "hauptberuflich",
    "en": "full-time",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "nebenberuflich",
@@ -19372,7 +19372,7 @@
    "de": "befristet",
    "en": "temporary",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "unbefristet",
@@ -19390,13 +19390,13 @@
    "de": "bezahlt",
    "en": "paid",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "unbezahlt",
    "en": "unpaid",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "steuerpflichtig",
@@ -19438,7 +19438,7 @@
    "de": "bankrott",
    "en": "bankrupt",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "verschuldet",
@@ -19450,25 +19450,25 @@
    "de": "finanziell",
    "en": "financial",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "kommerziell",
    "en": "commercial",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "geschäftlich",
    "en": "business",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_family"
   },
   {
    "de": "beruflich",
    "en": "professional",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "amtlich",
@@ -19480,19 +19480,19 @@
    "de": "behördlich",
    "en": "governmental",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_law_politics"
   },
   {
    "de": "staatlich",
    "en": "state",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_family"
   },
   {
    "de": "kommunal",
    "en": "municipal",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_law_politics"
   },
   {
    "de": "kirchlich",
@@ -19516,13 +19516,13 @@
    "de": "kinderreich",
    "en": "with many children",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "familiär",
    "en": "familial",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_family"
   },
   {
    "de": "freundschaftlich",
@@ -19552,7 +19552,7 @@
    "de": "verwandt",
    "en": "related",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_family"
   },
   {
    "de": "gesellig",
@@ -19636,7 +19636,7 @@
    "de": "vulgär",
    "en": "vulgar",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_school_language"
   },
   {
    "de": "derb",
@@ -19648,37 +19648,37 @@
    "de": "grob",
    "en": "rough",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "fein",
    "en": "fine",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "robust",
    "en": "robust",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "empfindlich",
    "en": "sensitive",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_feelings"
   },
   {
    "de": "sensibel",
    "en": "sensitive",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_feelings"
   },
   {
    "de": "empfindsam",
    "en": "sensitive",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_feelings"
   },
   {
    "de": "dünnhäutig",
@@ -19696,13 +19696,13 @@
    "de": "sämtliche",
    "en": "all",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "beide",
    "en": "both",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "übrig",
@@ -19798,7 +19798,7 @@
    "de": "maßgeblich",
    "en": "authoritative",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "relevant",
@@ -19834,7 +19834,7 @@
    "de": "zweitrangig",
    "en": "secondary",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "vorrangig",
@@ -19858,31 +19858,31 @@
    "de": "chronisch",
    "en": "chronic",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "vorübergehend",
    "en": "temporary",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "endgültig",
    "en": "final",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "anfänglich",
    "en": "initial",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "ursprünglich",
    "en": "original",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "bisherig",
@@ -19900,7 +19900,7 @@
    "de": "halbjährlich",
    "en": "every six months",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "vierteljährlich",
@@ -19948,7 +19948,7 @@
    "de": "fristgerecht",
    "en": "on time",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "gleichzeitig",
@@ -19972,7 +19972,7 @@
    "de": "folgend",
    "en": "following",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "bevorstehend",
@@ -19990,7 +19990,7 @@
    "de": "laufend",
    "en": "ongoing",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_law_politics"
   },
   {
    "de": "gegenüberliegend",
@@ -20032,7 +20032,7 @@
    "de": "mittig",
    "en": "central",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "seitlich",
@@ -20056,19 +20056,19 @@
    "de": "schräg",
    "en": "diagonal",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_school_language"
   },
   {
    "de": "diagonal",
    "en": "diagonal",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_school_language"
   },
   {
    "de": "parallel",
    "en": "parallel",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "quer",
@@ -20086,7 +20086,7 @@
    "de": "kreisförmig",
    "en": "circular",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "kugelförmig",
@@ -20116,7 +20116,7 @@
    "de": "quadratisch",
    "en": "square",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "rechteckig",
@@ -20134,7 +20134,7 @@
    "de": "massiv",
    "en": "solid",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "gewölbt",
@@ -20146,13 +20146,13 @@
    "de": "gebogen",
    "en": "bent",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "elementar",
    "en": "elementary",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "essenziell",
@@ -20170,7 +20170,7 @@
    "de": "prinzipiell",
    "en": "in principle",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "grundsätzlich",
@@ -20194,13 +20194,13 @@
    "de": "imaginär",
    "en": "imaginary",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "math"
   },
   {
    "de": "real",
    "en": "real",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "reell",
@@ -20212,7 +20212,7 @@
    "de": "materiell",
    "en": "material",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_clothing"
   },
   {
    "de": "immateriell",
@@ -20224,7 +20224,7 @@
    "de": "moralisch",
    "en": "moral",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "unmoralisch",
@@ -20320,7 +20320,7 @@
    "de": "originell",
    "en": "original",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "einmalig",
@@ -20332,13 +20332,13 @@
    "de": "außergewöhnlich",
    "en": "extraordinary",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "außerordentlich",
    "en": "exceptional",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "überragend",
@@ -20488,7 +20488,7 @@
    "de": "ungefährlich",
    "en": "harmless",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "risikolos",
@@ -20500,13 +20500,13 @@
    "de": "jetzt",
    "en": "now",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "nun",
    "en": "now",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "sofort",
@@ -20536,13 +20536,13 @@
    "de": "damals",
    "en": "back then",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "dann",
    "en": "then",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "danach",
@@ -20554,19 +20554,19 @@
    "de": "davor",
    "en": "before that",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "zuerst",
    "en": "first",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "zuletzt",
    "en": "last",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_family"
   },
   {
    "de": "schließlich",
@@ -20590,61 +20590,61 @@
    "de": "inzwischen",
    "en": "meanwhile",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "mittlerweile",
    "en": "by now",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "bisher",
    "en": "so far",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "bislang",
    "en": "until now",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "lange",
    "en": "for a long time",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "nie",
    "en": "never",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "niemals",
    "en": "never ever",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "jemals",
    "en": "ever",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "einmal",
    "en": "once",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "manchmal",
    "en": "sometimes",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "meistens",
@@ -20668,13 +20668,13 @@
    "de": "stets",
    "en": "always",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "jederzeit",
    "en": "at any time",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "morgens",
@@ -20686,31 +20686,31 @@
    "de": "mittags",
    "en": "at noon",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "abends",
    "en": "in the evening",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "nachts",
    "en": "at night",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "vormittags",
    "en": "before noon",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "nachmittags",
    "en": "in the afternoon",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "gestern",
@@ -20764,73 +20764,73 @@
    "de": "eben",
    "en": "just now",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "soeben",
    "en": "just",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "derzeit",
    "en": "currently",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "zurzeit",
    "en": "at present",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "noch",
    "en": "still",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "erst",
    "en": "only",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "wieder",
    "en": "again",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "wiederum",
    "en": "in turn",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "erneut",
    "en": "anew",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "nochmals",
    "en": "once more",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_animals"
   },
   {
    "de": "abermals",
    "en": "once again",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "bereits",
    "en": "already",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "längst",
@@ -20842,19 +20842,19 @@
    "de": "immerhin",
    "en": "at least",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "seitdem",
    "en": "since then",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "seither",
    "en": "ever since",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "vorher",
@@ -20872,43 +20872,43 @@
    "de": "vorerst",
    "en": "for the time being",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "einstweilen",
    "en": "meanwhile",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "nebenbei",
    "en": "on the side",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "zugleich",
    "en": "at the same time",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "zusammen",
    "en": "together",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "unterdessen",
    "en": "in the meantime",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "währenddessen",
    "en": "while that",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "irgendwann",
@@ -20920,25 +20920,25 @@
    "de": "tagsüber",
    "en": "during the day",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "wochenlang",
    "en": "for weeks",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "stundenlang",
    "en": "for hours",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "anfangs",
    "en": "at first",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "letztlich",
@@ -20950,145 +20950,145 @@
    "de": "letztendlich",
    "en": "in the end",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "zukünftig",
    "en": "in future",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "einst",
    "en": "once",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "seinerzeit",
    "en": "at the time",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "hier",
    "en": "here",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "da",
    "en": "there",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "dort",
    "en": "over there",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "hierher",
    "en": "to here",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "dorthin",
    "en": "to there",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "dahin",
    "en": "to that place",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "hin",
    "en": "there",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "her",
    "en": "here",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "oben",
    "en": "above",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "unten",
    "en": "below",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_school_language"
   },
   {
    "de": "vorn",
    "en": "in front",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "hinten",
    "en": "behind",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "links",
    "en": "left",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "rechts",
    "en": "right",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "geradeaus",
    "en": "straight ahead",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "drinnen",
    "en": "inside",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "draußen",
    "en": "outside",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "innen",
    "en": "inside",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "außen",
    "en": "outside",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "überall",
    "en": "everywhere",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_city_places"
   },
   {
    "de": "nirgends",
@@ -21106,55 +21106,55 @@
    "de": "irgendwo",
    "en": "somewhere",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "irgendwohin",
    "en": "to somewhere",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "anderswo",
    "en": "elsewhere",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_city_places"
   },
   {
    "de": "woanders",
    "en": "somewhere else",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "daheim",
    "en": "at home",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_family"
   },
   {
    "de": "zuhause",
    "en": "at home",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_family"
   },
   {
    "de": "heim",
    "en": "home",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_family"
   },
   {
    "de": "weg",
    "en": "away",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "fort",
    "en": "gone",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "weiter",
@@ -21166,19 +21166,19 @@
    "de": "zurück",
    "en": "back",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_animals"
   },
   {
    "de": "vorwärts",
    "en": "forward",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_school_language"
   },
   {
    "de": "rückwärts",
    "en": "backward",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_technology"
   },
   {
    "de": "seitwärts",
@@ -21202,7 +21202,7 @@
    "de": "nebenan",
    "en": "next door",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "daneben",
@@ -21232,7 +21232,7 @@
    "de": "dazwischen",
    "en": "in between",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "dagegen",
@@ -21256,13 +21256,13 @@
    "de": "damit",
    "en": "with that",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "dadurch",
    "en": "through that",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "daran",
@@ -21304,13 +21304,13 @@
    "de": "hinauf",
    "en": "up",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "hinunter",
    "en": "down",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "hinein",
@@ -21322,91 +21322,91 @@
    "de": "hinaus",
    "en": "out",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "herauf",
    "en": "up here",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "herunter",
    "en": "down here",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "herein",
    "en": "in here",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "heraus",
    "en": "out here",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "hinüber",
    "en": "over there",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "herüber",
    "en": "over here",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "hindurch",
    "en": "through",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "entlang",
    "en": "along",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "mitten",
    "en": "in the middle",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_school_language"
   },
   {
    "de": "abseits",
    "en": "aside",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "ringsum",
    "en": "all around",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "umher",
    "en": "around",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "herum",
    "en": "around",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "voraus",
    "en": "ahead",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "so",
@@ -21430,7 +21430,7 @@
    "de": "gerne",
    "en": "with pleasure",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "ungern",
@@ -21514,7 +21514,7 @@
    "de": "circa",
    "en": "about",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "eher",
@@ -21532,13 +21532,13 @@
    "de": "besser",
    "en": "better",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "mehr",
    "en": "more",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_animals"
   },
   {
    "de": "weniger",
@@ -21550,7 +21550,7 @@
    "de": "mindestens",
    "en": "at least",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "höchstens",
@@ -21562,25 +21562,25 @@
    "de": "wenigstens",
    "en": "at the very least",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "zumindest",
    "en": "at least",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "insgesamt",
    "en": "overall",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_clothing"
   },
   {
    "de": "überhaupt",
    "en": "at all",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "eigentlich",
@@ -21622,7 +21622,7 @@
    "de": "selbstverständlich",
    "en": "of course",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "freilich",
@@ -21640,7 +21640,7 @@
    "de": "jedenfalls",
    "en": "in any case",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "ohnehin",
@@ -21664,7 +21664,7 @@
    "de": "dennoch",
    "en": "still",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "doch",
@@ -21694,7 +21694,7 @@
    "de": "deswegen",
    "en": "for that reason",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_law_politics"
   },
   {
    "de": "darum",
@@ -21772,19 +21772,19 @@
    "de": "sogar",
    "en": "even",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "selbst",
    "en": "even",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "ausgerechnet",
    "en": "of all things",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "ausschließlich",
@@ -21808,13 +21808,13 @@
    "de": "ja",
    "en": "yes",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "nein",
    "en": "no",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "wohl",
@@ -21832,7 +21832,7 @@
    "de": "mal",
    "en": "once",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "bitte",
@@ -21916,79 +21916,79 @@
    "de": "miteinander",
    "en": "with each other",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "gegeneinander",
    "en": "against each other",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "nacheinander",
    "en": "one after another",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "hintereinander",
    "en": "one behind another",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "nebeneinander",
    "en": "side by side",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "übereinander",
    "en": "on top of each other",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "aufeinander",
    "en": "on each other",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "ineinander",
    "en": "into each other",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "durcheinander",
    "en": "in a mess",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "auseinander",
    "en": "apart",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_city_places"
   },
   {
    "de": "füreinander",
    "en": "for each other",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "voneinander",
    "en": "from each other",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "zueinander",
    "en": "to each other",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "paarweise",
@@ -22000,13 +22000,13 @@
    "de": "schrittweise",
    "en": "step by step",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "stückweise",
    "en": "piece by piece",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "teilweise",
@@ -22018,7 +22018,7 @@
    "de": "größtenteils",
    "en": "for the most part",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "zumeist",
@@ -22054,7 +22054,7 @@
    "de": "mehrmals",
    "en": "several times",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "zweimal",
@@ -22066,25 +22066,25 @@
    "de": "dreimal",
    "en": "three times",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "oftmals",
    "en": "often",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "öfters",
    "en": "more often",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "gelegentlich",
    "en": "occasionally",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "vereinzelt",
@@ -22126,13 +22126,13 @@
    "de": "wann",
    "en": "when",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "wo",
    "en": "where",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "wohin",
@@ -22150,7 +22150,7 @@
    "de": "wie",
    "en": "how",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "warum",
@@ -22180,43 +22180,43 @@
    "de": "wozu",
    "en": "what for",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "womit",
    "en": "with what",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "wovon",
    "en": "of what",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "wofür",
    "en": "for what",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "worauf",
    "en": "on what",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "woran",
    "en": "on what",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "worüber",
    "en": "about what",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "wobei",
@@ -22234,13 +22234,13 @@
    "de": "indessen",
    "en": "meanwhile",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "hingegen",
    "en": "on the other hand",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "sonst",
@@ -22258,19 +22258,19 @@
    "de": "ansonsten",
    "en": "apart from that",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "übrigens",
    "en": "by the way",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "kurzum",
    "en": "in short",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "schlichtweg",
@@ -22288,7 +22288,7 @@
    "de": "sozusagen",
    "en": "so to speak",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "quasi",
@@ -22300,7 +22300,7 @@
    "de": "gewissermaßen",
    "en": "in a way",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "bekanntlich",
@@ -22318,7 +22318,7 @@
    "de": "ehemals",
    "en": "formerly",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "neuerdings",
@@ -22336,7 +22336,7 @@
    "de": "sogleich",
    "en": "at once",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "alsbald",
@@ -22354,25 +22354,25 @@
    "de": "ehedem",
    "en": "formerly",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "dereinst",
    "en": "one day",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "einstmals",
    "en": "once upon a time",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "vordem",
    "en": "previously",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "nachträglich",
@@ -22390,7 +22390,7 @@
    "de": "vorab",
    "en": "in advance",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "vorweg",
@@ -22414,19 +22414,19 @@
    "de": "zuvor",
    "en": "previously",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "zuallererst",
    "en": "first of all",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "obendrein",
    "en": "on top of that",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "überdies",
@@ -22456,13 +22456,13 @@
    "de": "indes",
    "en": "meanwhile",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "immerzu",
    "en": "all the time",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "fortan",
@@ -22474,7 +22474,7 @@
    "de": "weiterhin",
    "en": "continuously",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "wiederholt",
@@ -22492,7 +22492,7 @@
    "de": "reihum",
    "en": "in turn",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_transport_travel"
   },
   {
    "de": "montags",
@@ -22540,13 +22540,13 @@
    "de": "werktags",
    "en": "on weekdays",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "wochentags",
    "en": "on weekdays",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "feiertags",
@@ -22570,25 +22570,25 @@
    "de": "monatelang",
    "en": "for months",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "tagelang",
    "en": "for days",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "minutenlang",
    "en": "for minutes",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "tagtäglich",
    "en": "every single day",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "allmählich",
@@ -22612,31 +22612,31 @@
    "de": "spätabends",
    "en": "late in the evening",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "mitunter",
    "en": "sometimes",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "bisweilen",
    "en": "at times",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "zuweilen",
    "en": "occasionally",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "vorne",
    "en": "at the front",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "hinterher",
@@ -22648,25 +22648,25 @@
    "de": "voran",
    "en": "forward",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_school_language"
   },
   {
    "de": "zuvorderst",
    "en": "at the very front",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "rundherum",
    "en": "all around",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "ringsherum",
    "en": "all around",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "bergauf",
@@ -22696,19 +22696,19 @@
    "de": "beiseite",
    "en": "aside",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "unterwegs",
    "en": "on the way",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "auswärts",
    "en": "away",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "heimwärts",
@@ -22732,7 +22732,7 @@
    "de": "ostwärts",
    "en": "eastward",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "westwärts",
@@ -22750,19 +22750,19 @@
    "de": "hierhin",
    "en": "to this place",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "dorther",
    "en": "from there",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "irgendwoher",
    "en": "from somewhere",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "nirgendwohin",
@@ -22774,25 +22774,25 @@
    "de": "sonstwo",
    "en": "elsewhere",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_city_places"
   },
   {
    "de": "drüben",
    "en": "over there",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "diesseits",
    "en": "on this side",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "jenseits",
    "en": "on the other side",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "beiderseits",
@@ -22804,7 +22804,7 @@
    "de": "allerorts",
    "en": "everywhere",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_city_places"
   },
   {
    "de": "allseits",
@@ -22828,7 +22828,7 @@
    "de": "rücklings",
    "en": "backwards",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_technology"
   },
   {
    "de": "bäuchlings",
@@ -22846,7 +22846,7 @@
    "de": "keinesfalls",
    "en": "in no case",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_body_health"
   },
   {
    "de": "keineswegs",
@@ -22876,7 +22876,7 @@
    "de": "bestenfalls",
    "en": "at best",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_clothing"
   },
   {
    "de": "schlimmstenfalls",
@@ -22900,19 +22900,19 @@
    "de": "unverzüglich",
    "en": "without delay",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_home"
   },
   {
    "de": "vormals",
    "en": "formerly",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "derweil",
    "en": "in the meantime",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "kurzerhand",
@@ -22936,7 +22936,7 @@
    "de": "selbstredend",
    "en": "needless to say",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "fürwahr",
@@ -22948,7 +22948,7 @@
    "de": "gar",
    "en": "at all",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "gänzlich",
@@ -23020,7 +23020,7 @@
    "de": "weitaus",
    "en": "by far",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_weather_nature"
   },
   {
    "de": "geradeso",
@@ -23032,19 +23032,19 @@
    "de": "umso",
    "en": "all the more",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_animals"
   },
   {
    "de": "desto",
    "en": "the more",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_animals"
   },
   {
    "de": "je",
    "en": "ever",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "dermaßen",
@@ -23056,7 +23056,7 @@
    "de": "derart",
    "en": "in such a way",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "folgendermaßen",
@@ -23098,7 +23098,7 @@
    "de": "merkwürdigerweise",
    "en": "strangely enough",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "bedauerlicherweise",
@@ -23122,7 +23122,7 @@
    "de": "komischerweise",
    "en": "funnily enough",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "dummerweise",
@@ -23146,7 +23146,7 @@
    "de": "zufälligerweise",
    "en": "by chance",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "vernünftigerweise",
@@ -23176,13 +23176,13 @@
    "de": "sicherheitshalber",
    "en": "to be safe",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_sports_leisure"
   },
   {
    "de": "höflichkeitshalber",
    "en": "out of politeness",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "ausnahmsweise",
@@ -23200,13 +23200,13 @@
    "de": "zeitweise",
    "en": "at times",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "probeweise",
    "en": "on a trial basis",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_time"
   },
   {
    "de": "versuchsweise",
@@ -23218,13 +23218,13 @@
    "de": "wochenweise",
    "en": "week by week",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "tageweise",
    "en": "day by day",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "massenweise",
@@ -23254,7 +23254,7 @@
    "de": "kistenweise",
    "en": "by the crate",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "auto"
   },
   {
    "de": "reihenweise",
@@ -23266,7 +23266,7 @@
    "de": "ansatzweise",
    "en": "in part",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_work_money"
   },
   {
    "de": "ausnahmslos",
@@ -23284,7 +23284,7 @@
    "de": "grundlos",
    "en": "without reason",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_law_politics"
   },
   {
    "de": "hemmungslos",
@@ -23374,19 +23374,19 @@
    "de": "diesbezüglich",
    "en": "in this regard",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_feelings"
   },
   {
    "de": "diesmal",
    "en": "this time",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "erstmals",
    "en": "for the first time",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "zweitens",
@@ -23422,37 +23422,37 @@
    "de": "jeweils",
    "en": "each time",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_food_drink"
   },
   {
    "de": "jedesmal",
    "en": "every time",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "vielmals",
    "en": "many times",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "tausendmal",
    "en": "a thousand times",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "nochmal",
    "en": "once more",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "t_animals"
   },
   {
    "de": "zigmal",
    "en": "umpteen times",
    "type": "adverbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "vielerorts",
