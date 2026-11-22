@@ -3195,6 +3195,3984 @@
    "en": "to try",
    "type": "verbs",
    "topic": "misc"
+  },
+  {
+   "de": "aufmachen",
+   "en": "to open up",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zumachen",
+   "en": "to close",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "anmachen",
+   "en": "to turn on",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ausmachen",
+   "en": "to turn off",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "einschalten",
+   "en": "to switch on",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ausschalten",
+   "en": "to switch off",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "anschalten",
+   "en": "to turn on",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "abschalten",
+   "en": "to shut down",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "mitkommen",
+   "en": "to come along",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "mitnehmen",
+   "en": "to take along",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "mitbringen",
+   "en": "to bring along",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "mitmachen",
+   "en": "to join in",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zurückkommen",
+   "en": "to come back",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zurückgeben",
+   "en": "to give back",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zurückgehen",
+   "en": "to go back",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zurückrufen",
+   "en": "to call back",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zurücklassen",
+   "en": "to leave behind",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hinfahren",
+   "en": "to go there",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hingehen",
+   "en": "to go there",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hinsetzen",
+   "en": "to sit down",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hinlegen",
+   "en": "to lie down",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hinstellen",
+   "en": "to put down",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "herkommen",
+   "en": "to come here",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "herstellen",
+   "en": "to produce",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "herausfinden",
+   "en": "to find out",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "herausgeben",
+   "en": "to publish",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "herausnehmen",
+   "en": "to take out",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hereinkommen",
+   "en": "to come in",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hineingehen",
+   "en": "to go in",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hinausgehen",
+   "en": "to go out",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "losgehen",
+   "en": "to set off",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "loslassen",
+   "en": "to let go",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "losfahren",
+   "en": "to drive off",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "weggehen",
+   "en": "to go away",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "wegfahren",
+   "en": "to drive away",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "wegwerfen",
+   "en": "to throw away",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "wegnehmen",
+   "en": "to take away",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "weglaufen",
+   "en": "to run away",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "weitergehen",
+   "en": "to go on",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "weiterfahren",
+   "en": "to drive on",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "weiterlesen",
+   "en": "to read on",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "weiterleiten",
+   "en": "to forward",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vorgehen",
+   "en": "to proceed",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vorkommen",
+   "en": "to occur",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vorlesen",
+   "en": "to read aloud",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vorhaben",
+   "en": "to plan to do",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vorbeikommen",
+   "en": "to drop by",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vorbeigehen",
+   "en": "to pass by",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vorbeifahren",
+   "en": "to drive past",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vorziehen",
+   "en": "to prefer",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vorsehen",
+   "en": "to provide for",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "voraussehen",
+   "en": "to foresee",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vorhersagen",
+   "en": "to predict",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "voraussetzen",
+   "en": "to presuppose",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "nachdenken",
+   "en": "to reflect",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "nachgeben",
+   "en": "to give in",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "nachsehen",
+   "en": "to check",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "nachschlagen",
+   "en": "to look up",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "nachfragen",
+   "en": "to inquire",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "nachahmen",
+   "en": "to imitate",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "nachholen",
+   "en": "to catch up on",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "nachlassen",
+   "en": "to ease off",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "nachmachen",
+   "en": "to copy",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "nachweisen",
+   "en": "to prove",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "nachkommen",
+   "en": "to follow",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "aufgeben",
+   "en": "to give up",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "aufnehmen",
+   "en": "to record",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "aufbauen",
+   "en": "to set up",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "aufbewahren",
+   "en": "to keep",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "aufbrechen",
+   "en": "to set out",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "aufdecken",
+   "en": "to uncover",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "auffallen",
+   "en": "to stand out",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "auffordern",
+   "en": "to request",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "aufführen",
+   "en": "to perform",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "aufhängen",
+   "en": "to hang up",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "aufheben",
+   "en": "to pick up",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "aufklären",
+   "en": "to clarify",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "aufladen",
+   "en": "to charge",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "auflösen",
+   "en": "to dissolve",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "aufpassen",
+   "en": "to pay attention",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "aufregen",
+   "en": "to upset",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "aufschreiben",
+   "en": "to write down",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "aufwachen",
+   "en": "to wake up",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "aufwachsen",
+   "en": "to grow up",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "aufzeigen",
+   "en": "to point out",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "aufzählen",
+   "en": "to list",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ausbilden",
+   "en": "to train",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ausdrücken",
+   "en": "to express",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ausfallen",
+   "en": "to be cancelled",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ausfüllen",
+   "en": "to fill out",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ausgehen",
+   "en": "to go out",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ausleihen",
+   "en": "to lend",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ausnutzen",
+   "en": "to exploit",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "auspacken",
+   "en": "to unpack",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ausprobieren",
+   "en": "to try out",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ausruhen",
+   "en": "to rest",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ausschließen",
+   "en": "to exclude",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "austauschen",
+   "en": "to swap",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "auswandern",
+   "en": "to emigrate",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "auswerten",
+   "en": "to evaluate",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "auswirken",
+   "en": "to affect",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "abbauen",
+   "en": "to dismantle",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "abbiegen",
+   "en": "to turn off",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "abbrechen",
+   "en": "to break off",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "abgeben",
+   "en": "to hand in",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "abhängen",
+   "en": "to depend",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "abheben",
+   "en": "to withdraw",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "abholen",
+   "en": "to pick up",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "abkürzen",
+   "en": "to shorten",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ablaufen",
+   "en": "to expire",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ablenken",
+   "en": "to distract",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "abmelden",
+   "en": "to sign out",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "abschließen",
+   "en": "to lock",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "abschneiden",
+   "en": "to cut off",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "abschreiben",
+   "en": "to copy",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "absetzen",
+   "en": "to drop off",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "abstimmen",
+   "en": "to vote",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "abtrocknen",
+   "en": "to dry off",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "abwarten",
+   "en": "to wait and see",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "abwaschen",
+   "en": "to wash up",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "abwechseln",
+   "en": "to alternate",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "anbieten",
+   "en": "to offer",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "anbringen",
+   "en": "to attach",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "andeuten",
+   "en": "to hint",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "anerkennen",
+   "en": "to recognize",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "anfordern",
+   "en": "to request",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "angeben",
+   "en": "to state",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "angehören",
+   "en": "to belong to",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "angehen",
+   "en": "to concern",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ankündigen",
+   "en": "to announce",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "anmelden",
+   "en": "to register",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "annähern",
+   "en": "to approach",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "anordnen",
+   "en": "to order",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "anpassen",
+   "en": "to adapt",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "anprobieren",
+   "en": "to try on",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "anregen",
+   "en": "to stimulate",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "anrechnen",
+   "en": "to credit",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ansehen",
+   "en": "to look at",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ansprechen",
+   "en": "to address",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "anstellen",
+   "en": "to employ",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "anstrengen",
+   "en": "to strain",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "antreten",
+   "en": "to start",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "antun",
+   "en": "to do to",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "anwenden",
+   "en": "to apply",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "anwesend sein",
+   "en": "to be present",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "anzeigen",
+   "en": "to report",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "anzünden",
+   "en": "to light",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "beachten",
+   "en": "to note",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "beanspruchen",
+   "en": "to claim",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "beantragen",
+   "en": "to apply for",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bearbeiten",
+   "en": "to edit",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "beauftragen",
+   "en": "to commission",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bedanken",
+   "en": "to thank",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bedauern",
+   "en": "to regret",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bedienen",
+   "en": "to serve",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bedingen",
+   "en": "to cause",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bedrohen",
+   "en": "to endanger",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "beeilen",
+   "en": "to hurry",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "befassen",
+   "en": "to deal with",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "befehlen",
+   "en": "to command",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "befinden",
+   "en": "to be located",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "befragen",
+   "en": "to question",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "befreien",
+   "en": "to free",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "begegnen",
+   "en": "to encounter",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "begehen",
+   "en": "to commit",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "begleiten",
+   "en": "to accompany",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "begreifen",
+   "en": "to grasp",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "begrenzen",
+   "en": "to limit",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "begründen",
+   "en": "to justify",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "behalten",
+   "en": "to keep",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "behandeln",
+   "en": "to treat",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "beherrschen",
+   "en": "to master",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "behindern",
+   "en": "to hinder",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bekämpfen",
+   "en": "to combat",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bekanntgeben",
+   "en": "to announce",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "beklagen",
+   "en": "to complain",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bekräftigen",
+   "en": "to affirm",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "belasten",
+   "en": "to burden",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "belegen",
+   "en": "to prove",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "beliefern",
+   "en": "to supply",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bemühen",
+   "en": "to try hard",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "benachrichtigen",
+   "en": "to notify",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "benötigen",
+   "en": "to require",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bereiten",
+   "en": "to prepare",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bereuen",
+   "en": "to regret",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bergen",
+   "en": "to recover",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bescheinigen",
+   "en": "to certify",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "beschädigen",
+   "en": "to damage",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "beschaffen",
+   "en": "to procure",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "beschäftigen",
+   "en": "to occupy",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "beschließen",
+   "en": "to resolve",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "beschränken",
+   "en": "to restrict",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "beschweren",
+   "en": "to complain",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "besetzen",
+   "en": "to occupy",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "beseitigen",
+   "en": "to remove",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "besichtigen",
+   "en": "to tour",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "besitzen",
+   "en": "to own",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "besorgen",
+   "en": "to get",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bestätigen",
+   "en": "to confirm",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bestreiten",
+   "en": "to dispute",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bestreichen",
+   "en": "to spread",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "betonen",
+   "en": "to emphasize",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "betrachten",
+   "en": "to consider",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "betragen",
+   "en": "to amount to",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "betreffen",
+   "en": "to concern",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "betreiben",
+   "en": "to operate",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "betreten",
+   "en": "to enter",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "betrinken",
+   "en": "to get drunk",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "beunruhigen",
+   "en": "to worry",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "beurteilen",
+   "en": "to assess",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bewähren",
+   "en": "to prove oneself",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bewahren",
+   "en": "to preserve",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bewältigen",
+   "en": "to cope with",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bewerben",
+   "en": "to apply",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bewerten",
+   "en": "to rate",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bewirken",
+   "en": "to cause",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bewohnen",
+   "en": "to inhabit",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bezeichnen",
+   "en": "to designate",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "beziehen",
+   "en": "to refer to",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bezweifeln",
+   "en": "to doubt",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "blicken",
+   "en": "to glance",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "blockieren",
+   "en": "to block",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bohren",
+   "en": "to drill",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bürgen",
+   "en": "to vouch",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "dahinterkommen",
+   "en": "to figure out",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "dämmern",
+   "en": "to dawn",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "dauern",
+   "en": "to last",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "decken",
+   "en": "to cover",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "dehnen",
+   "en": "to stretch",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "donnern",
+   "en": "to thunder",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "drängen",
+   "en": "to push",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "dringen",
+   "en": "to penetrate",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "dulden",
+   "en": "to tolerate",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "durchführen",
+   "en": "to carry out",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "durchsetzen",
+   "en": "to enforce",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "durchlesen",
+   "en": "to read through",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "durchsuchen",
+   "en": "to search",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "dürsten",
+   "en": "to thirst",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ehren",
+   "en": "to honor",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "eilen",
+   "en": "to hurry",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "einbauen",
+   "en": "to install",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "einbrechen",
+   "en": "to break in",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "eindringen",
+   "en": "to intrude",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "einfallen",
+   "en": "to occur to",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "einfügen",
+   "en": "to insert",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "eingeben",
+   "en": "to enter",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "eingreifen",
+   "en": "to intervene",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "einhalten",
+   "en": "to observe",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "einlösen",
+   "en": "to redeem",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "einmischen",
+   "en": "to interfere",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "einnehmen",
+   "en": "to take",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "einordnen",
+   "en": "to classify",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "einpacken",
+   "en": "to pack",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "einrichten",
+   "en": "to furnish",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "einsammeln",
+   "en": "to collect",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "einschlafen",
+   "en": "to fall asleep",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "einschließen",
+   "en": "to include",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "einschränken",
+   "en": "to restrict",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "einsetzen",
+   "en": "to use",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "einsparen",
+   "en": "to save",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "eintragen",
+   "en": "to register",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "eintreten",
+   "en": "to enter",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "einwerfen",
+   "en": "to insert",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "einziehen",
+   "en": "to move in",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "empfinden",
+   "en": "to feel",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "enden",
+   "en": "to end",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "entfernen",
+   "en": "to remove",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "entführen",
+   "en": "to kidnap",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "entgehen",
+   "en": "to escape",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "enthalten",
+   "en": "to contain",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "entkommen",
+   "en": "to escape",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "entlassen",
+   "en": "to dismiss",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "entlasten",
+   "en": "to relieve",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "entnehmen",
+   "en": "to take from",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "entschließen",
+   "en": "to decide",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "entsetzen",
+   "en": "to horrify",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "entspannen",
+   "en": "to relax",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "entziehen",
+   "en": "to withdraw",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "entwerfen",
+   "en": "to design",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erarbeiten",
+   "en": "to work out",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erben",
+   "en": "to inherit",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erblicken",
+   "en": "to catch sight of",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erdulden",
+   "en": "to endure",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ereignen",
+   "en": "to happen",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erfassen",
+   "en": "to record",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erfolgen",
+   "en": "to take place",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erforschen",
+   "en": "to explore",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erfüllen",
+   "en": "to fulfill",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ergeben",
+   "en": "to result",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ergreifen",
+   "en": "to seize",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erhoffen",
+   "en": "to hope for",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erholen",
+   "en": "to recover",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erkälten",
+   "en": "to catch a cold",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erkundigen",
+   "en": "to inquire",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erleben",
+   "en": "to experience",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erledigen",
+   "en": "to take care of",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erleichtern",
+   "en": "to ease",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erleiden",
+   "en": "to suffer",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erlernen",
+   "en": "to learn",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erleuchten",
+   "en": "to illuminate",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ermitteln",
+   "en": "to investigate",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ermöglichen",
+   "en": "to enable",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ermorden",
+   "en": "to murder",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ermutigen",
+   "en": "to encourage",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ernähren",
+   "en": "to nourish",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ernennen",
+   "en": "to appoint",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erneuern",
+   "en": "to renew",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erobern",
+   "en": "to conquer",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "eröffnen",
+   "en": "to open",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erproben",
+   "en": "to test",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erraten",
+   "en": "to guess",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erregen",
+   "en": "to excite",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "errichten",
+   "en": "to erect",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ersetzen",
+   "en": "to replace",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ersparen",
+   "en": "to spare",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erschaffen",
+   "en": "to create",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erschießen",
+   "en": "to shoot",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erschöpfen",
+   "en": "to exhaust",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erschweren",
+   "en": "to complicate",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ersticken",
+   "en": "to suffocate",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ertragen",
+   "en": "to bear",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ertrinken",
+   "en": "to drown",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erwachen",
+   "en": "to awaken",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erwachsen werden",
+   "en": "to grow up",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erwägen",
+   "en": "to consider",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erwerben",
+   "en": "to acquire",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erwidern",
+   "en": "to reply",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "erzeugen",
+   "en": "to generate",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "fassen",
+   "en": "to grasp",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "fasten",
+   "en": "to fast",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "faulenzen",
+   "en": "to laze",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "fechten",
+   "en": "to fence",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "fegen",
+   "en": "to sweep",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "feiern",
+   "en": "to celebrate",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "feilen",
+   "en": "to file",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "fernsehen",
+   "en": "to watch TV",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "fesseln",
+   "en": "to bind",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "festhalten",
+   "en": "to hold on",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "festlegen",
+   "en": "to determine",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "feststellen",
+   "en": "to determine",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "filmen",
+   "en": "to film",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "flechten",
+   "en": "to braid",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "flehen",
+   "en": "to beg",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "flicken",
+   "en": "to mend",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "flüstern",
+   "en": "to whisper",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "fluchen",
+   "en": "to curse",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "flüchten",
+   "en": "to flee",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "formen",
+   "en": "to shape",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "fotografieren",
+   "en": "to photograph",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "freisprechen",
+   "en": "to acquit",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "fressen",
+   "en": "to devour",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "fügen",
+   "en": "to join",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "gähnen",
+   "en": "to yawn",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "garantieren",
+   "en": "to guarantee",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "gedeihen",
+   "en": "to thrive",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "gedenken",
+   "en": "to commemorate",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "geeignet sein",
+   "en": "to be suitable",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "gefährden",
+   "en": "to endanger",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "gefallen",
+   "en": "to please",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "gelangen",
+   "en": "to reach",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "genehmigen",
+   "en": "to approve",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "genügen",
+   "en": "to suffice",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "gestalten",
+   "en": "to design",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "gestatten",
+   "en": "to permit",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "gewähren",
+   "en": "to grant",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "gewöhnen",
+   "en": "to get used to",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "glänzen",
+   "en": "to shine",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "gleichen",
+   "en": "to resemble",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "gleiten",
+   "en": "to glide",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "glühen",
+   "en": "to glow",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "graben",
+   "en": "to dig",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "greifen",
+   "en": "to grab",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "grillen",
+   "en": "to grill",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "grübeln",
+   "en": "to ponder",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "grüßen",
+   "en": "to greet",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "gucken",
+   "en": "to look",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "gutschreiben",
+   "en": "to credit",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "haften",
+   "en": "to be liable",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hacken",
+   "en": "to chop",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "handhaben",
+   "en": "to handle",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hauen",
+   "en": "to hit",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "heizen",
+   "en": "to heat",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "herrichten",
+   "en": "to prepare",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hervorheben",
+   "en": "to highlight",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hetzen",
+   "en": "to rush",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hinnehmen",
+   "en": "to accept",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hinweisen",
+   "en": "to point out",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hinzufügen",
+   "en": "to add",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hobeln",
+   "en": "to plane",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hocken",
+   "en": "to squat",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "holen",
+   "en": "to fetch",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hüpfen",
+   "en": "to hop",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "hüten",
+   "en": "to guard",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "impfen",
+   "en": "to vaccinate",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "inspirieren",
+   "en": "to inspire",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "investieren",
+   "en": "to invest",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "jammern",
+   "en": "to moan",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "jubeln",
+   "en": "to cheer",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "kassieren",
+   "en": "to collect",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "kehren",
+   "en": "to sweep",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "keimen",
+   "en": "to sprout",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "kippen",
+   "en": "to tip",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "kitzeln",
+   "en": "to tickle",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "klagen",
+   "en": "to complain",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "klappen",
+   "en": "to work out",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "klatschen",
+   "en": "to clap",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "klingeln",
+   "en": "to ring",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "klingen",
+   "en": "to sound",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "klopfen",
+   "en": "to knock",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "knien",
+   "en": "to kneel",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "knoten",
+   "en": "to knot",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "kontrollieren",
+   "en": "to check",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "konzentrieren",
+   "en": "to concentrate",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "kopieren",
+   "en": "to copy",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "kräftigen",
+   "en": "to strengthen",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "kriechen",
+   "en": "to crawl",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "kümmern",
+   "en": "to take care of",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "kündigen",
+   "en": "to quit",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "kürzen",
+   "en": "to shorten",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "lagern",
+   "en": "to store",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "landen",
+   "en": "to land",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "lauschen",
+   "en": "to eavesdrop",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "läuten",
+   "en": "to ring",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "leisten",
+   "en": "to achieve",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "lohnen",
+   "en": "to be worth it",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "lösen",
+   "en": "to solve",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "mahnen",
+   "en": "to remind",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "malen",
+   "en": "to paint",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "managen",
+   "en": "to manage",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "markieren",
+   "en": "to mark",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "meckern",
+   "en": "to grumble",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "melden",
+   "en": "to report",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "mitarbeiten",
+   "en": "to collaborate",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "mitspielen",
+   "en": "to join in",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "mustern",
+   "en": "to inspect",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "nähen",
+   "en": "to sew",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "nähern",
+   "en": "to approach",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "nutzen",
+   "en": "to utilize",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "operieren",
+   "en": "to operate",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "opfern",
+   "en": "to sacrifice",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "packen",
+   "en": "to pack",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "passen",
+   "en": "to fit",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "passieren",
+   "en": "to happen",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "pfeifen",
+   "en": "to whistle",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "pflücken",
+   "en": "to pick",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "pressen",
+   "en": "to squeeze",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "protestieren",
+   "en": "to protest",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "quälen",
+   "en": "to torment",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "rasen",
+   "en": "to speed",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "rasten",
+   "en": "to rest",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "rauchen",
+   "en": "to smoke",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "rauschen",
+   "en": "to rustle",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "räumen",
+   "en": "to clear",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "reagieren",
+   "en": "to react",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "recherchieren",
+   "en": "to research",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "reichen",
+   "en": "to reach",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "reifen",
+   "en": "to ripen",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "reihen",
+   "en": "to line up",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "reizen",
+   "en": "to provoke",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "rennen",
+   "en": "to race",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "renovieren",
+   "en": "to renovate",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "ringen",
+   "en": "to wrestle",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "rühren",
+   "en": "to stir",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "runden",
+   "en": "to round",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "sägen",
+   "en": "to saw",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "salzen",
+   "en": "to salt",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "sättigen",
+   "en": "to satisfy",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "säubern",
+   "en": "to cleanse",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "schalten",
+   "en": "to switch",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "schämen",
+   "en": "to be ashamed",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "schärfen",
+   "en": "to sharpen",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "schätzen",
+   "en": "to estimate",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "schaukeln",
+   "en": "to swing",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "scheuen",
+   "en": "to shy away",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "schimpfen",
+   "en": "to scold",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "schleichen",
+   "en": "to creep",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "schleppen",
+   "en": "to drag",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "schlucken",
+   "en": "to swallow",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "schmieren",
+   "en": "to smear",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "schnarchen",
+   "en": "to snore",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "schnüren",
+   "en": "to lace",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "schonen",
+   "en": "to spare",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "schreien",
+   "en": "to scream",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "schreiten",
+   "en": "to stride",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "schrumpfen",
+   "en": "to shrink",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "schulden",
+   "en": "to owe",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "schütteln",
+   "en": "to shake",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "schwanken",
+   "en": "to sway",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "schweigen",
+   "en": "to be silent",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "schwören",
+   "en": "to swear",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "segnen",
+   "en": "to bless",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "sehnen",
+   "en": "to long for",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "siegen",
+   "en": "to triumph",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "sinnen",
+   "en": "to ponder",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "spalten",
+   "en": "to split",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "spazieren",
+   "en": "to stroll",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "speisen",
+   "en": "to dine",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "sperren",
+   "en": "to block",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "spiegeln",
+   "en": "to reflect",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "spenden",
+   "en": "to donate",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "sprießen",
+   "en": "to sprout",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "sprengen",
+   "en": "to blow up",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "spritzen",
+   "en": "to spray",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "spüren",
+   "en": "to sense",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "spülen",
+   "en": "to rinse",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "starren",
+   "en": "to stare",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "stärken",
+   "en": "to strengthen",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "starten",
+   "en": "to launch",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "statt finden",
+   "en": "to take place",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "staunen",
+   "en": "to marvel",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "stechen",
+   "en": "to sting",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "stecken",
+   "en": "to stick",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "steuern",
+   "en": "to steer",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "stimmen",
+   "en": "to be correct",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "stöhnen",
+   "en": "to groan",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "stören",
+   "en": "to disturb",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "streicheln",
+   "en": "to pet",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "streichen",
+   "en": "to paint",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "streuen",
+   "en": "to scatter",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "strömen",
+   "en": "to stream",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "stürmen",
+   "en": "to storm",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "stürzen",
+   "en": "to plunge",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "stützen",
+   "en": "to support",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "summen",
+   "en": "to hum",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "tauen",
+   "en": "to thaw",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "täuschen",
+   "en": "to deceive",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "testen",
+   "en": "to test",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "tippen",
+   "en": "to type",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "toben",
+   "en": "to rage",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "treiben",
+   "en": "to drive",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "triumphieren",
+   "en": "to triumph",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "trügen",
+   "en": "to deceive",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "tupfen",
+   "en": "to dab",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "überfallen",
+   "en": "to assault",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "übergeben",
+   "en": "to hand over",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "überlegen",
+   "en": "to consider",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "übernehmen",
+   "en": "to take over",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "überprüfen",
+   "en": "to verify",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "überqueren",
+   "en": "to cross",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "überreden",
+   "en": "to persuade",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "überschreiten",
+   "en": "to exceed",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "übersehen",
+   "en": "to overlook",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "überwachen",
+   "en": "to monitor",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "überweisen",
+   "en": "to transfer",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "überwinden",
+   "en": "to overcome",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "umbringen",
+   "en": "to kill",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "umdrehen",
+   "en": "to turn around",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "umgehen",
+   "en": "to handle",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "umkehren",
+   "en": "to turn back",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "umrechnen",
+   "en": "to convert",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "umschalten",
+   "en": "to switch over",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "umsehen",
+   "en": "to look around",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "umsetzen",
+   "en": "to implement",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "umtauschen",
+   "en": "to exchange",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "umziehen",
+   "en": "to move house",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "unterbringen",
+   "en": "to accommodate",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "unterhalten",
+   "en": "to entertain",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "unternehmen",
+   "en": "to undertake",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "unterschreiben",
+   "en": "to sign",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "unterstreichen",
+   "en": "to underline",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "untersagen",
+   "en": "to prohibit",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verabreden",
+   "en": "to arrange",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "veranlassen",
+   "en": "to cause",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "veranstalten",
+   "en": "to organize",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verantworten",
+   "en": "to answer for",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verarbeiten",
+   "en": "to process",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verbergen",
+   "en": "to conceal",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verbrauchen",
+   "en": "to consume",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verbrennen",
+   "en": "to burn",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verbringen",
+   "en": "to spend",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verdächtigen",
+   "en": "to suspect",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verdoppeln",
+   "en": "to double",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verdrängen",
+   "en": "to suppress",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verdünnen",
+   "en": "to dilute",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vereinfachen",
+   "en": "to simplify",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verfassen",
+   "en": "to compose",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verführen",
+   "en": "to seduce",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vergehen",
+   "en": "to pass",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vergrößern",
+   "en": "to enlarge",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verhaften",
+   "en": "to arrest",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verhalten",
+   "en": "to behave",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verhandeln",
+   "en": "to negotiate",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verhindern",
+   "en": "to prevent",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verkehren",
+   "en": "to travel",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verkleiden",
+   "en": "to disguise",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verkürzen",
+   "en": "to shorten",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verlängern",
+   "en": "to extend",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verlaufen",
+   "en": "to get lost",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verlegen",
+   "en": "to relocate",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verleihen",
+   "en": "to award",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verlieben",
+   "en": "to fall in love",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verloben",
+   "en": "to get engaged",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vermeiden",
+   "en": "to avoid",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vermieten",
+   "en": "to rent out",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vermitteln",
+   "en": "to mediate",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vermischen",
+   "en": "to blend",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vernachlässigen",
+   "en": "to neglect",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vernichten",
+   "en": "to destroy",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verpassen",
+   "en": "to miss",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verpflichten",
+   "en": "to oblige",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verraten",
+   "en": "to betray",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verreisen",
+   "en": "to go away",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verschlafen",
+   "en": "to oversleep",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verschwinden",
+   "en": "to disappear",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "versichern",
+   "en": "to insure",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "versorgen",
+   "en": "to provide",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verspäten",
+   "en": "to be late",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verstärken",
+   "en": "to amplify",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vertragen",
+   "en": "to tolerate",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vertreten",
+   "en": "to represent",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verursachen",
+   "en": "to cause",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verwandeln",
+   "en": "to transform",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verwechseln",
+   "en": "to confuse",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verweigern",
+   "en": "to refuse",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verwirklichen",
+   "en": "to realize",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verwirren",
+   "en": "to confuse",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verwöhnen",
+   "en": "to spoil",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verzichten",
+   "en": "to do without",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "verzögern",
+   "en": "to delay",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vollenden",
+   "en": "to complete",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vollziehen",
+   "en": "to carry out",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vorlegen",
+   "en": "to present",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vortragen",
+   "en": "to recite",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "wahrnehmen",
+   "en": "to perceive",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "walzen",
+   "en": "to waltz",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "wandeln",
+   "en": "to change",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "wecken",
+   "en": "to wake",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "wehen",
+   "en": "to blow",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "weigern",
+   "en": "to refuse",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "weisen",
+   "en": "to point",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "wenden",
+   "en": "to turn",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "werben",
+   "en": "to advertise",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "werten",
+   "en": "to rate",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "widersprechen",
+   "en": "to contradict",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "widmen",
+   "en": "to dedicate",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "wiedersehen",
+   "en": "to see again",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "winken",
+   "en": "to wave",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "wirken",
+   "en": "to have an effect",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "wischen",
+   "en": "to wipe",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "wundern",
+   "en": "to wonder",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "würdigen",
+   "en": "to appreciate",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zähmen",
+   "en": "to tame",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zeichnen",
+   "en": "to draw",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zeugen",
+   "en": "to testify",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zielen",
+   "en": "to aim",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zittern",
+   "en": "to tremble",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zögern",
+   "en": "to hesitate",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zugeben",
+   "en": "to admit",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zuhören",
+   "en": "to listen",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zukommen",
+   "en": "to approach",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zulassen",
+   "en": "to permit",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zurechtkommen",
+   "en": "to cope",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zurückhalten",
+   "en": "to hold back",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zusagen",
+   "en": "to accept",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zusammenarbeiten",
+   "en": "to cooperate",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zusammenbrechen",
+   "en": "to collapse",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zusammenkommen",
+   "en": "to get together",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zusammenstellen",
+   "en": "to compile",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zusehen",
+   "en": "to watch",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zustehen",
+   "en": "to be entitled to",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zuteilen",
+   "en": "to assign",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zutrauen",
+   "en": "to believe capable",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "zwingen",
+   "en": "to force",
+   "type": "verbs",
+   "topic": "misc"
   }
  ]
 }
