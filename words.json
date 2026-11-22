@@ -7173,6 +7173,3270 @@
    "en": "to force",
    "type": "verbs",
    "topic": "misc"
+  },
+  {
+   "de": "die Minute",
+   "en": "minute",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Stunde",
+   "en": "hour",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Sekunde",
+   "en": "second",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Woche",
+   "en": "week",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Monat",
+   "en": "month",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Morgen",
+   "en": "morning",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Mittag",
+   "en": "noon",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Abend",
+   "en": "evening",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Nachmittag",
+   "en": "afternoon",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Zukunft",
+   "en": "future",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Vergangenheit",
+   "en": "past",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Gegenwart",
+   "en": "present",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Moment",
+   "en": "moment",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Augenblick",
+   "en": "instant",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Datum",
+   "en": "date",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Kalender",
+   "en": "calendar",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Montag",
+   "en": "Monday",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Dienstag",
+   "en": "Tuesday",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Mittwoch",
+   "en": "Wednesday",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Donnerstag",
+   "en": "Thursday",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Freitag",
+   "en": "Friday",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Samstag",
+   "en": "Saturday",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Sonntag",
+   "en": "Sunday",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Frühling",
+   "en": "spring",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Sommer",
+   "en": "summer",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Herbst",
+   "en": "autumn",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Winter",
+   "en": "winter",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Jahreszeit",
+   "en": "season",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Wochenende",
+   "en": "weekend",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Feiertag",
+   "en": "public holiday",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Geburtstag",
+   "en": "birthday",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Fest",
+   "en": "celebration",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Ferien",
+   "en": "school holidays",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Junge",
+   "en": "boy",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Mädchen",
+   "en": "girl",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Baby",
+   "en": "baby",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Erwachsene",
+   "en": "adult",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Jugendliche",
+   "en": "teenager",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Person",
+   "en": "person",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Herr",
+   "en": "gentleman",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Dame",
+   "en": "lady",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Nachbar",
+   "en": "neighbor",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Gast",
+   "en": "guest",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Kollege",
+   "en": "colleague",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Chef",
+   "en": "boss",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Kunde",
+   "en": "customer",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Verkäufer",
+   "en": "salesperson",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Arzt",
+   "en": "doctor",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Polizist",
+   "en": "police officer",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Fahrer",
+   "en": "driver",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Koch",
+   "en": "cook",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Bäcker",
+   "en": "baker",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Künstler",
+   "en": "artist",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Schauspieler",
+   "en": "actor",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Sänger",
+   "en": "singer",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Schriftsteller",
+   "en": "writer",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Student",
+   "en": "student",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Professor",
+   "en": "professor",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Ingenieur",
+   "en": "engineer",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Anwalt",
+   "en": "lawyer",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Richter",
+   "en": "judge",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Bauer",
+   "en": "farmer",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Soldat",
+   "en": "soldier",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der König",
+   "en": "king",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Königin",
+   "en": "queen",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Präsident",
+   "en": "president",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Minister",
+   "en": "minister",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Bürger",
+   "en": "citizen",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Ausländer",
+   "en": "foreigner",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Fremde",
+   "en": "stranger",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Feind",
+   "en": "enemy",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Held",
+   "en": "hero",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Mutter",
+   "en": "mother",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Vater",
+   "en": "father",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Sohn",
+   "en": "son",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Tochter",
+   "en": "daughter",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Bruder",
+   "en": "brother",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Schwester",
+   "en": "sister",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Eltern",
+   "en": "parents",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Großmutter",
+   "en": "grandmother",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Großvater",
+   "en": "grandfather",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Onkel",
+   "en": "uncle",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Tante",
+   "en": "aunt",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Cousin",
+   "en": "cousin (male)",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Cousine",
+   "en": "cousin (female)",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Neffe",
+   "en": "nephew",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Nichte",
+   "en": "niece",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Ehemann",
+   "en": "husband",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Ehefrau",
+   "en": "wife",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Partner",
+   "en": "partner",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Paar",
+   "en": "couple",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Hochzeit",
+   "en": "wedding",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Scheidung",
+   "en": "divorce",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Kopf",
+   "en": "head",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Gesicht",
+   "en": "face",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Haar",
+   "en": "hair",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Nase",
+   "en": "nose",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Mund",
+   "en": "mouth",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Ohr",
+   "en": "ear",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Zahn",
+   "en": "tooth",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Zunge",
+   "en": "tongue",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Hals",
+   "en": "neck",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Schulter",
+   "en": "shoulder",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Arm",
+   "en": "arm",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Finger",
+   "en": "finger",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Daumen",
+   "en": "thumb",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Bein",
+   "en": "leg",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Fuß",
+   "en": "foot",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Knie",
+   "en": "knee",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Rücken",
+   "en": "back",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Bauch",
+   "en": "belly",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Brust",
+   "en": "chest",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Blut",
+   "en": "blood",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Haut",
+   "en": "skin",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Knochen",
+   "en": "bone",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Muskel",
+   "en": "muscle",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Gehirn",
+   "en": "brain",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Magen",
+   "en": "stomach",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Lunge",
+   "en": "lung",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Stimme",
+   "en": "voice",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Körper",
+   "en": "body",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Lippe",
+   "en": "lip",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Stirn",
+   "en": "forehead",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Zeh",
+   "en": "toe",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Brot",
+   "en": "bread",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Brötchen",
+   "en": "bread roll",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Butter",
+   "en": "butter",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Käse",
+   "en": "cheese",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Milch",
+   "en": "milk",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Ei",
+   "en": "egg",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Fleisch",
+   "en": "meat",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Hähnchen",
+   "en": "chicken",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Fisch",
+   "en": "fish",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Gemüse",
+   "en": "vegetables",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Obst",
+   "en": "fruit",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Apfel",
+   "en": "apple",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Birne",
+   "en": "pear",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Banane",
+   "en": "banana",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Orange",
+   "en": "orange",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Zitrone",
+   "en": "lemon",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Kartoffel",
+   "en": "potato",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Tomate",
+   "en": "tomato",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Zwiebel",
+   "en": "onion",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Karotte",
+   "en": "carrot",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Salat",
+   "en": "salad",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Reis",
+   "en": "rice",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Nudel",
+   "en": "noodle",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Suppe",
+   "en": "soup",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Kuchen",
+   "en": "cake",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Torte",
+   "en": "layer cake",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Schokolade",
+   "en": "chocolate",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Zucker",
+   "en": "sugar",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Salz",
+   "en": "salt",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Pfeffer",
+   "en": "pepper",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Öl",
+   "en": "oil",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Essig",
+   "en": "vinegar",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Mehl",
+   "en": "flour",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Honig",
+   "en": "honey",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Marmelade",
+   "en": "jam",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Kaffee",
+   "en": "coffee",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Tee",
+   "en": "tea",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Saft",
+   "en": "juice",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Bier",
+   "en": "beer",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Wein",
+   "en": "wine",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Flasche",
+   "en": "bottle",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Glas",
+   "en": "glass",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Tasse",
+   "en": "cup",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Teller",
+   "en": "plate",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Löffel",
+   "en": "spoon",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Gabel",
+   "en": "fork",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Messer",
+   "en": "knife",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Topf",
+   "en": "pot",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Pfanne",
+   "en": "pan",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Mahlzeit",
+   "en": "meal",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Frühstück",
+   "en": "breakfast",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Mittagessen",
+   "en": "lunch",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Abendessen",
+   "en": "dinner",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Hunger",
+   "en": "hunger",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Durst",
+   "en": "thirst",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Speisekarte",
+   "en": "menu",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Rechnung",
+   "en": "bill",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Restaurant",
+   "en": "restaurant",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Café",
+   "en": "café",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Bäckerei",
+   "en": "bakery",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Küche",
+   "en": "kitchen",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Bad",
+   "en": "bathroom",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Wohnzimmer",
+   "en": "living room",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Schlafzimmer",
+   "en": "bedroom",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Fenster",
+   "en": "window",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Tür",
+   "en": "door",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Wand",
+   "en": "wall",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Boden",
+   "en": "floor",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Decke",
+   "en": "ceiling",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Dach",
+   "en": "roof",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Keller",
+   "en": "basement",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Garten",
+   "en": "garden",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Treppe",
+   "en": "stairs",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Balkon",
+   "en": "balcony",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Tisch",
+   "en": "table",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Stuhl",
+   "en": "chair",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Bett",
+   "en": "bed",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Sofa",
+   "en": "sofa",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Schrank",
+   "en": "cupboard",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Regal",
+   "en": "shelf",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Lampe",
+   "en": "lamp",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Spiegel",
+   "en": "mirror",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Teppich",
+   "en": "carpet",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Vorhang",
+   "en": "curtain",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Kissen",
+   "en": "pillow",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Fernseher",
+   "en": "television",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Kühlschrank",
+   "en": "fridge",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Herd",
+   "en": "stove",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Ofen",
+   "en": "oven",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Waschmaschine",
+   "en": "washing machine",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Seife",
+   "en": "soap",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Handtuch",
+   "en": "towel",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Zahnbürste",
+   "en": "toothbrush",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Straße",
+   "en": "street",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Weg",
+   "en": "path",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Brücke",
+   "en": "bridge",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Platz",
+   "en": "square",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Markt",
+   "en": "market",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Geschäft",
+   "en": "shop",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Laden",
+   "en": "store",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Kaufhaus",
+   "en": "department store",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Supermarkt",
+   "en": "supermarket",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Apotheke",
+   "en": "pharmacy",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Bank",
+   "en": "bank",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Post",
+   "en": "post office",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Krankenhaus",
+   "en": "hospital",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Kirche",
+   "en": "church",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Museum",
+   "en": "museum",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Theater",
+   "en": "theater",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Kino",
+   "en": "cinema",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Bibliothek",
+   "en": "library",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Park",
+   "en": "park",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Spielplatz",
+   "en": "playground",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Rathaus",
+   "en": "town hall",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Polizei",
+   "en": "police",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Feuerwehr",
+   "en": "fire department",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Ampel",
+   "en": "traffic light",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Kreuzung",
+   "en": "intersection",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Haltestelle",
+   "en": "stop",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die U-Bahn",
+   "en": "subway",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Straßenbahn",
+   "en": "tram",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Fahrplan",
+   "en": "timetable",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Fahrrad",
+   "en": "bicycle",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Motorrad",
+   "en": "motorcycle",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Taxi",
+   "en": "taxi",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der LKW",
+   "en": "truck",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Schiff",
+   "en": "ship",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Boot",
+   "en": "boat",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Hafen",
+   "en": "harbor",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Ecke",
+   "en": "corner",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Viertel",
+   "en": "district",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Dorf",
+   "en": "village",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Hauptstadt",
+   "en": "capital",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Gegend",
+   "en": "area",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Fahrkarte",
+   "en": "ticket",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Gleis",
+   "en": "platform",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Gepäck",
+   "en": "luggage",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Visum",
+   "en": "visa",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Sehenswürdigkeit",
+   "en": "sight",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Ausflug",
+   "en": "excursion",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Natur",
+   "en": "nature",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Himmel",
+   "en": "sky",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Sonne",
+   "en": "sun",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Mond",
+   "en": "moon",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Stern",
+   "en": "star",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Wolke",
+   "en": "cloud",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Regen",
+   "en": "rain",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Schnee",
+   "en": "snow",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Wind",
+   "en": "wind",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Sturm",
+   "en": "storm",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Gewitter",
+   "en": "thunderstorm",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Nebel",
+   "en": "fog",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Wetter",
+   "en": "weather",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Temperatur",
+   "en": "temperature",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Feuer",
+   "en": "fire",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Erde",
+   "en": "earth",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Berg",
+   "en": "mountain",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Tal",
+   "en": "valley",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Hügel",
+   "en": "hill",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Wald",
+   "en": "forest",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Baum",
+   "en": "tree",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Blatt",
+   "en": "leaf",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Blume",
+   "en": "flower",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Gras",
+   "en": "grass",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Fluss",
+   "en": "river",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der See",
+   "en": "lake",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Meer",
+   "en": "sea",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Insel",
+   "en": "island",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Küste",
+   "en": "coast",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Wüste",
+   "en": "desert",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Stein",
+   "en": "stone",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Sand",
+   "en": "sand",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Luft",
+   "en": "air",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Eis",
+   "en": "ice",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Welle",
+   "en": "wave",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Tier",
+   "en": "animal",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Hund",
+   "en": "dog",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Katze",
+   "en": "cat",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Pferd",
+   "en": "horse",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Kuh",
+   "en": "cow",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Schwein",
+   "en": "pig",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Schaf",
+   "en": "sheep",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Ziege",
+   "en": "goat",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Huhn",
+   "en": "hen",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Vogel",
+   "en": "bird",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Ente",
+   "en": "duck",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Maus",
+   "en": "mouse",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Bär",
+   "en": "bear",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Wolf",
+   "en": "wolf",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Fuchs",
+   "en": "fox",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Hase",
+   "en": "rabbit",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Löwe",
+   "en": "lion",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Elefant",
+   "en": "elephant",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Schlange",
+   "en": "snake",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Fliege",
+   "en": "fly",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Biene",
+   "en": "bee",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Käfer",
+   "en": "beetle",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Schmetterling",
+   "en": "butterfly",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Spinne",
+   "en": "spider",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Beruf",
+   "en": "profession",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Stelle",
+   "en": "position",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Job",
+   "en": "job",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Büro",
+   "en": "office",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Firma",
+   "en": "company",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Unternehmen",
+   "en": "enterprise",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Betrieb",
+   "en": "business",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Fabrik",
+   "en": "factory",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Lohn",
+   "en": "wage",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Gehalt",
+   "en": "salary",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Vertrag",
+   "en": "contract",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Bewerbung",
+   "en": "application",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Lebenslauf",
+   "en": "résumé",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Besprechung",
+   "en": "meeting",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Termin",
+   "en": "appointment",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Pause",
+   "en": "break",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Feierabend",
+   "en": "end of work",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Kündigung",
+   "en": "resignation",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Preis",
+   "en": "price",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Ware",
+   "en": "goods",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Produkt",
+   "en": "product",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Handel",
+   "en": "trade",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Wirtschaft",
+   "en": "economy",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Geld",
+   "en": "money",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Münze",
+   "en": "coin",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Schein",
+   "en": "banknote",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Konto",
+   "en": "account",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Karte",
+   "en": "card",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Kredit",
+   "en": "loan",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Schuld",
+   "en": "debt",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Steuer",
+   "en": "tax",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Angebot",
+   "en": "offer",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Gewinn",
+   "en": "profit",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Verlust",
+   "en": "loss",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Kasse",
+   "en": "cash register",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Klasse",
+   "en": "class",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Unterricht",
+   "en": "lessons",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Aufgabe",
+   "en": "task",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Übung",
+   "en": "exercise",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Heft",
+   "en": "notebook",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Stift",
+   "en": "pen",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Bleistift",
+   "en": "pencil",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Tafel",
+   "en": "blackboard",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Papier",
+   "en": "paper",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Seite",
+   "en": "page",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Text",
+   "en": "text",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Wort",
+   "en": "word",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Satz",
+   "en": "sentence",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Buchstabe",
+   "en": "letter",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Sprache",
+   "en": "language",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Grammatik",
+   "en": "grammar",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Bedeutung",
+   "en": "meaning",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Beispiel",
+   "en": "example",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Antwort",
+   "en": "answer",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Fehler",
+   "en": "mistake",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Wissen",
+   "en": "knowledge",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Bildung",
+   "en": "education",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Studium",
+   "en": "studies",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Abschluss",
+   "en": "degree",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Zeugnis",
+   "en": "report card",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Kurs",
+   "en": "course",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Fach",
+   "en": "subject",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Computer",
+   "en": "computer",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Bildschirm",
+   "en": "screen",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Tastatur",
+   "en": "keyboard",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Handy",
+   "en": "mobile phone",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Telefon",
+   "en": "telephone",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Internet",
+   "en": "internet",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die E-Mail",
+   "en": "email",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Nachricht",
+   "en": "message",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Brief",
+   "en": "letter",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Zeitung",
+   "en": "newspaper",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Zeitschrift",
+   "en": "magazine",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Fernsehen",
+   "en": "television",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Radio",
+   "en": "radio",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Film",
+   "en": "film",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Bild",
+   "en": "picture",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Foto",
+   "en": "photo",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Kamera",
+   "en": "camera",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Musik",
+   "en": "music",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Lied",
+   "en": "song",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Tanz",
+   "en": "dance",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Spiel",
+   "en": "game",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Sport",
+   "en": "sport",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Ball",
+   "en": "ball",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Mannschaft",
+   "en": "team",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Tor",
+   "en": "goal",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Training",
+   "en": "training",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Sieg",
+   "en": "victory",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Niederlage",
+   "en": "defeat",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Gesundheit",
+   "en": "health",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Krankheit",
+   "en": "illness",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Schmerz",
+   "en": "pain",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Fieber",
+   "en": "fever",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Medizin",
+   "en": "medicine",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Medikament",
+   "en": "drug",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Tablette",
+   "en": "tablet",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Patient",
+   "en": "patient",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Behandlung",
+   "en": "treatment",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Operation",
+   "en": "surgery",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Verletzung",
+   "en": "injury",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Wunde",
+   "en": "wound",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Husten",
+   "en": "cough",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Erkältung",
+   "en": "cold",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Kopfschmerz",
+   "en": "headache",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Hilfe",
+   "en": "help",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Notfall",
+   "en": "emergency",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Idee",
+   "en": "idea",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Gedanke",
+   "en": "thought",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Meinung",
+   "en": "opinion",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Grund",
+   "en": "reason",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Ursache",
+   "en": "cause",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Folge",
+   "en": "consequence",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Ergebnis",
+   "en": "result",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Erfolg",
+   "en": "success",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Problem",
+   "en": "problem",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Lösung",
+   "en": "solution",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Möglichkeit",
+   "en": "possibility",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Wahrheit",
+   "en": "truth",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Chance",
+   "en": "chance",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Recht",
+   "en": "right",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Gesetz",
+   "en": "law",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Regel",
+   "en": "rule",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Freiheit",
+   "en": "freedom",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Frieden",
+   "en": "peace",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Krieg",
+   "en": "war",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Gewalt",
+   "en": "violence",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Macht",
+   "en": "power",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Regierung",
+   "en": "government",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Staat",
+   "en": "state",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Politik",
+   "en": "politics",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Wahl",
+   "en": "election",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Partei",
+   "en": "party",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Gesellschaft",
+   "en": "society",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Kultur",
+   "en": "culture",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Geschichte",
+   "en": "history",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Religion",
+   "en": "religion",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Kunst",
+   "en": "art",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Wissenschaft",
+   "en": "science",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Technik",
+   "en": "technology",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Industrie",
+   "en": "industry",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Energie",
+   "en": "energy",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Umwelt",
+   "en": "environment",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Klima",
+   "en": "climate",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Verkehr",
+   "en": "traffic",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Sicherheit",
+   "en": "safety",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Ordnung",
+   "en": "order",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Gruppe",
+   "en": "group",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Mehrheit",
+   "en": "majority",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Mitte",
+   "en": "middle",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Anfang",
+   "en": "beginning",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Ende",
+   "en": "end",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Teil",
+   "en": "part",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Art",
+   "en": "kind",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Weise",
+   "en": "manner",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Fall",
+   "en": "case",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Zweck",
+   "en": "purpose",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Ziel",
+   "en": "goal",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Plan",
+   "en": "plan",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Erfahrung",
+   "en": "experience",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Erinnerung",
+   "en": "memory",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Traum",
+   "en": "dream",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Angst",
+   "en": "fear",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Freude",
+   "en": "joy",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Mut",
+   "en": "courage",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Hoffnung",
+   "en": "hope",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Sorge",
+   "en": "worry",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Stolz",
+   "en": "pride",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Zorn",
+   "en": "anger",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Ruhe",
+   "en": "calm",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Lärm",
+   "en": "noise",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Stille",
+   "en": "silence",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Gefühl",
+   "en": "feeling",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Stimmung",
+   "en": "mood",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Charakter",
+   "en": "character",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Persönlichkeit",
+   "en": "personality",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Wille",
+   "en": "will",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Pflicht",
+   "en": "duty",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Verantwortung",
+   "en": "responsibility",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Vertrauen",
+   "en": "trust",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Gewohnheit",
+   "en": "habit",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Glück",
+   "en": "luck",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Schicksal",
+   "en": "fate",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Zufall",
+   "en": "coincidence",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Kleidung",
+   "en": "clothing",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Hemd",
+   "en": "shirt",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Hose",
+   "en": "trousers",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Rock",
+   "en": "skirt",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Kleid",
+   "en": "dress",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Jacke",
+   "en": "jacket",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Mantel",
+   "en": "coat",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Pullover",
+   "en": "sweater",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Schuh",
+   "en": "shoe",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Socke",
+   "en": "sock",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Hut",
+   "en": "hat",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Mütze",
+   "en": "cap",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Handschuh",
+   "en": "glove",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Schal",
+   "en": "scarf",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Brille",
+   "en": "glasses",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Uhr",
+   "en": "clock",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Ring",
+   "en": "ring",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Tasche",
+   "en": "bag",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Gürtel",
+   "en": "belt",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Anzug",
+   "en": "suit",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Größe",
+   "en": "size",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Höhe",
+   "en": "height",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Länge",
+   "en": "length",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Breite",
+   "en": "width",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Tiefe",
+   "en": "depth",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Gewicht",
+   "en": "weight",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Menge",
+   "en": "amount",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Stück",
+   "en": "piece",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Hälfte",
+   "en": "half",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Nummer",
+   "en": "number",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Linie",
+   "en": "line",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Punkt",
+   "en": "point",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Form",
+   "en": "shape",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Farbe",
+   "en": "color",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Richtung",
+   "en": "direction",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Rand",
+   "en": "edge",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Spitze",
+   "en": "tip",
+   "type": "nouns",
+   "topic": "misc"
   }
  ]
 }
