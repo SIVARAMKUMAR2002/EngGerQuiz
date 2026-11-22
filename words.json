@@ -50,7 +50,7 @@
    "de": "machen",
    "en": "to make",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "geben",
@@ -62,7 +62,7 @@
    "de": "kommen",
    "en": "to come",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "sollen",
@@ -74,13 +74,13 @@
    "de": "wollen",
    "en": "to want",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "gehen",
    "en": "to go",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "wissen",
@@ -116,7 +116,7 @@
    "de": "bleiben",
    "en": "to stay",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "liegen",
@@ -152,7 +152,7 @@
    "de": "der Mensch",
    "en": "person",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "der Tag",
@@ -188,7 +188,7 @@
    "de": "das Land",
    "en": "country",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "die Stadt",
@@ -206,7 +206,7 @@
    "de": "die Welt",
    "en": "world",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "das Leben",
@@ -284,13 +284,13 @@
    "de": "alt",
    "en": "old",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "lang",
    "en": "long",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "schön",
@@ -326,7 +326,7 @@
    "de": "hoch",
    "en": "high",
    "type": "adjectives",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "nur",
@@ -932,7 +932,7 @@
    "de": "nehmen",
    "en": "to take",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "tun",
@@ -980,7 +980,7 @@
    "de": "führen",
    "en": "to lead",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "sprechen",
@@ -998,7 +998,7 @@
    "de": "leben",
    "en": "to live",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "meinen",
@@ -1034,7 +1034,7 @@
    "de": "spielen",
    "en": "to play",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "brauchen",
@@ -1046,7 +1046,7 @@
    "de": "folgen",
    "en": "to follow",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "bestehen",
@@ -1064,25 +1064,25 @@
    "de": "setzen",
    "en": "to set",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "bekommen",
    "en": "to get",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "beginnen",
    "en": "to begin",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "erzählen",
    "en": "to tell",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "versuchen",
@@ -1100,7 +1100,7 @@
    "de": "laufen",
    "en": "to run",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "erklären",
@@ -1112,7 +1112,7 @@
    "de": "entsprechen",
    "en": "to correspond",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "math"
   },
   {
    "de": "sitzen",
@@ -1136,7 +1136,7 @@
    "de": "fallen",
    "en": "to fall",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "gehören",
@@ -1190,13 +1190,13 @@
    "de": "erreichen",
    "en": "to reach",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "tragen",
    "en": "to carry",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "schaffen",
@@ -1214,13 +1214,13 @@
    "de": "verlieren",
    "en": "to lose",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "darstellen",
    "en": "to depict",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "math"
   },
   {
    "de": "erkennen",
@@ -1232,7 +1232,7 @@
    "de": "entwickeln",
    "en": "to develop",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "math"
   },
   {
    "de": "reden",
@@ -1274,13 +1274,13 @@
    "de": "wohnen",
    "en": "to live",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "besuchen",
    "en": "to visit",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "beantworten",
@@ -1292,7 +1292,7 @@
    "de": "rufen",
    "en": "to call",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "bieten",
@@ -1316,7 +1316,7 @@
    "de": "öffnen",
    "en": "to open",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "schließen",
@@ -1328,7 +1328,7 @@
    "de": "verlassen",
    "en": "to leave",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "warten",
@@ -1346,7 +1346,7 @@
    "de": "kaufen",
    "en": "to buy",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "verkaufen",
@@ -1364,7 +1364,7 @@
    "de": "essen",
    "en": "to eat",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "trinken",
@@ -1442,7 +1442,7 @@
    "de": "sterben",
    "en": "to die",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "töten",
@@ -1454,7 +1454,7 @@
    "de": "geboren werden",
    "en": "to be born",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "umarmen",
@@ -1508,7 +1508,7 @@
    "de": "freuen",
    "en": "to be happy",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "lügen",
@@ -1550,7 +1550,7 @@
    "de": "bewegen",
    "en": "to move",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "steigen",
@@ -1562,7 +1562,7 @@
    "de": "springen",
    "en": "to jump",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "schwimmen",
@@ -1586,7 +1586,7 @@
    "de": "umsteigen",
    "en": "to transfer",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "reservieren",
@@ -1604,7 +1604,7 @@
    "de": "leihen",
    "en": "to borrow",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "schenken",
@@ -1700,7 +1700,7 @@
    "de": "telefonieren",
    "en": "to make a phone call",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "einladen",
@@ -1892,13 +1892,13 @@
    "de": "weitermachen",
    "en": "to continue",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "fortsetzen",
    "en": "to continue",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "unterbrechen",
@@ -1916,7 +1916,7 @@
    "de": "absagen",
    "en": "to cancel",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "math"
   },
   {
    "de": "wiederholen",
@@ -1928,25 +1928,25 @@
    "de": "üben",
    "en": "to practice",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "trainieren",
    "en": "to train",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "unterrichten",
    "en": "to teach",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "lehren",
    "en": "to teach",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "prüfen",
@@ -2006,7 +2006,7 @@
    "de": "forschen",
    "en": "to research",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "untersuchen",
@@ -2018,7 +2018,7 @@
    "de": "analysieren",
    "en": "to analyze",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "math"
   },
   {
    "de": "vergleichen",
@@ -2054,7 +2054,7 @@
    "de": "übersetzen",
    "en": "to translate",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "buchstabieren",
@@ -2096,7 +2096,7 @@
    "de": "informieren",
    "en": "to inform",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "mitteilen",
@@ -2108,7 +2108,7 @@
    "de": "erfahren",
    "en": "to learn",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "verbreiten",
@@ -2162,19 +2162,19 @@
    "de": "benutzen",
    "en": "to use",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "verwenden",
    "en": "to use",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "gebrauchen",
    "en": "to use",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "bauen",
@@ -2360,7 +2360,7 @@
    "de": "ausziehen",
    "en": "to take off",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "tragen",
@@ -2510,7 +2510,7 @@
    "de": "reiten",
    "en": "to ride",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "klettern",
@@ -2534,7 +2534,7 @@
    "de": "segeln",
    "en": "to sail",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "rudern",
@@ -2546,13 +2546,13 @@
    "de": "radeln",
    "en": "to cycle",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "joggen",
    "en": "to jog",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "turnen",
@@ -2594,7 +2594,7 @@
    "de": "fließen",
    "en": "to flow",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "tropfen",
@@ -2606,7 +2606,7 @@
    "de": "schmelzen",
    "en": "to melt",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "kochen",
@@ -2642,7 +2642,7 @@
    "de": "nass werden",
    "en": "to get wet",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "sinken",
@@ -2672,13 +2672,13 @@
    "de": "rollen",
    "en": "to roll",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "rutschen",
    "en": "to slide",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "stolpern",
@@ -2906,7 +2906,7 @@
    "de": "genießen",
    "en": "to enjoy",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "leiden",
@@ -2972,7 +2972,7 @@
    "de": "teilnehmen",
    "en": "to take part",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "gründen",
@@ -3008,7 +3008,7 @@
    "de": "dienen",
    "en": "to serve",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "gehorchen",
@@ -3032,7 +3032,7 @@
    "de": "betreuen",
    "en": "to look after",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "erziehen",
@@ -3224,7 +3224,7 @@
    "de": "einschalten",
    "en": "to switch on",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "math"
   },
   {
    "de": "ausschalten",
@@ -3278,7 +3278,7 @@
    "de": "zurückgeben",
    "en": "to give back",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "zurückgehen",
@@ -3326,7 +3326,7 @@
    "de": "hinstellen",
    "en": "to put down",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "herkommen",
@@ -3374,19 +3374,19 @@
    "de": "hinausgehen",
    "en": "to go out",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "losgehen",
    "en": "to set off",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "math"
   },
   {
    "de": "loslassen",
    "en": "to let go",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "losfahren",
@@ -3398,7 +3398,7 @@
    "de": "weggehen",
    "en": "to go away",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "wegfahren",
@@ -3452,7 +3452,7 @@
    "de": "vorgehen",
    "en": "to proceed",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "vorkommen",
@@ -3482,7 +3482,7 @@
    "de": "vorbeigehen",
    "en": "to pass by",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "vorbeifahren",
@@ -3542,7 +3542,7 @@
    "de": "nachschlagen",
    "en": "to look up",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "nachfragen",
@@ -3584,7 +3584,7 @@
    "de": "nachkommen",
    "en": "to follow",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "aufgeben",
@@ -3644,7 +3644,7 @@
    "de": "aufhängen",
    "en": "to hang up",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "math"
   },
   {
    "de": "aufheben",
@@ -3674,7 +3674,7 @@
    "de": "aufpassen",
    "en": "to pay attention",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "aufregen",
@@ -3704,31 +3704,31 @@
    "de": "aufzeigen",
    "en": "to point out",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "aufzählen",
    "en": "to list",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "ausbilden",
    "en": "to train",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "ausdrücken",
    "en": "to express",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "ausfallen",
    "en": "to be cancelled",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "math"
   },
   {
    "de": "ausfüllen",
@@ -3740,7 +3740,7 @@
    "de": "ausgehen",
    "en": "to go out",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "ausleihen",
@@ -3800,7 +3800,7 @@
    "de": "auswirken",
    "en": "to affect",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "abbauen",
@@ -3890,7 +3890,7 @@
    "de": "absetzen",
    "en": "to drop off",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "abstimmen",
@@ -4016,7 +4016,7 @@
    "de": "anrechnen",
    "en": "to credit",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "ansehen",
@@ -4076,7 +4076,7 @@
    "de": "anzünden",
    "en": "to light",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "beachten",
@@ -4124,7 +4124,7 @@
    "de": "bedienen",
    "en": "to serve",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "bedingen",
@@ -4142,7 +4142,7 @@
    "de": "beeilen",
    "en": "to hurry",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "befassen",
@@ -4172,7 +4172,7 @@
    "de": "befreien",
    "en": "to free",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "begegnen",
@@ -4190,7 +4190,7 @@
    "de": "begleiten",
    "en": "to accompany",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "begreifen",
@@ -4274,7 +4274,7 @@
    "de": "beliefern",
    "en": "to supply",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "bemühen",
@@ -4370,7 +4370,7 @@
    "de": "besichtigen",
    "en": "to tour",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "besitzen",
@@ -4382,7 +4382,7 @@
    "de": "besorgen",
    "en": "to get",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "bestätigen",
@@ -4436,7 +4436,7 @@
    "de": "betreten",
    "en": "to enter",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "betrinken",
@@ -4484,7 +4484,7 @@
    "de": "bewerten",
    "en": "to rate",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "bewirken",
@@ -4550,7 +4550,7 @@
    "de": "dämmern",
    "en": "to dawn",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "dauern",
@@ -4562,7 +4562,7 @@
    "de": "decken",
    "en": "to cover",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "dehnen",
@@ -4598,7 +4598,7 @@
    "de": "durchführen",
    "en": "to carry out",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "durchsetzen",
@@ -4634,7 +4634,7 @@
    "de": "eilen",
    "en": "to hurry",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "einbauen",
@@ -4646,7 +4646,7 @@
    "de": "einbrechen",
    "en": "to break in",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "eindringen",
@@ -4670,7 +4670,7 @@
    "de": "eingeben",
    "en": "to enter",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "eingreifen",
@@ -4700,7 +4700,7 @@
    "de": "einnehmen",
    "en": "to take",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "einordnen",
@@ -4748,7 +4748,7 @@
    "de": "einsetzen",
    "en": "to use",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "einsparen",
@@ -4766,7 +4766,7 @@
    "de": "eintreten",
    "en": "to enter",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "einwerfen",
@@ -4808,7 +4808,7 @@
    "de": "entgehen",
    "en": "to escape",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "enthalten",
@@ -4820,7 +4820,7 @@
    "de": "entkommen",
    "en": "to escape",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "entlassen",
@@ -4910,13 +4910,13 @@
    "de": "erfolgen",
    "en": "to take place",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "erforschen",
    "en": "to explore",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "erfüllen",
@@ -4964,7 +4964,7 @@
    "de": "erleben",
    "en": "to experience",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "erledigen",
@@ -4976,7 +4976,7 @@
    "de": "erleichtern",
    "en": "to ease",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "erleiden",
@@ -4988,7 +4988,7 @@
    "de": "erlernen",
    "en": "to learn",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "erleuchten",
@@ -5042,13 +5042,13 @@
    "de": "erobern",
    "en": "to conquer",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "eröffnen",
    "en": "to open",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "erproben",
@@ -5072,7 +5072,7 @@
    "de": "errichten",
    "en": "to erect",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "ersetzen",
@@ -5102,7 +5102,7 @@
    "de": "erschöpfen",
    "en": "to exhaust",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "auto"
   },
   {
    "de": "erschweren",
@@ -5252,7 +5252,7 @@
    "de": "flehen",
    "en": "to beg",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "flicken",
@@ -5306,7 +5306,7 @@
    "de": "fügen",
    "en": "to join",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "gähnen",
@@ -5354,7 +5354,7 @@
    "de": "gelangen",
    "en": "to reach",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "genehmigen",
@@ -5408,13 +5408,13 @@
    "de": "gleiten",
    "en": "to glide",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "glühen",
    "en": "to glow",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "graben",
@@ -5456,7 +5456,7 @@
    "de": "gutschreiben",
    "en": "to credit",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "haften",
@@ -5516,7 +5516,7 @@
    "de": "hinweisen",
    "en": "to point out",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "hinzufügen",
@@ -5546,7 +5546,7 @@
    "de": "hüpfen",
    "en": "to hop",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "hüten",
@@ -5924,13 +5924,13 @@
    "de": "recherchieren",
    "en": "to research",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "reichen",
    "en": "to reach",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "reifen",
@@ -5954,7 +5954,7 @@
    "de": "rennen",
    "en": "to race",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "renovieren",
@@ -5978,7 +5978,7 @@
    "de": "runden",
    "en": "to round",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "sägen",
@@ -6170,7 +6170,7 @@
    "de": "spazieren",
    "en": "to stroll",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "auto"
   },
   {
    "de": "speisen",
@@ -6248,7 +6248,7 @@
    "de": "statt finden",
    "en": "to take place",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "staunen",
@@ -6374,7 +6374,7 @@
    "de": "treiben",
    "en": "to drive",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "auto"
   },
   {
    "de": "triumphieren",
@@ -6404,7 +6404,7 @@
    "de": "übergeben",
    "en": "to hand over",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "überlegen",
@@ -6428,7 +6428,7 @@
    "de": "überqueren",
    "en": "to cross",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "überreden",
@@ -6458,7 +6458,7 @@
    "de": "überweisen",
    "en": "to transfer",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "überwinden",
@@ -6476,7 +6476,7 @@
    "de": "umdrehen",
    "en": "to turn around",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "umgehen",
@@ -6662,7 +6662,7 @@
    "de": "vergehen",
    "en": "to pass",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "vergrößern",
@@ -6728,19 +6728,19 @@
    "de": "verlegen",
    "en": "to relocate",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "verleihen",
    "en": "to award",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "verlieben",
    "en": "to fall in love",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "verloben",
@@ -6806,7 +6806,7 @@
    "de": "verreisen",
    "en": "to go away",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "verschlafen",
@@ -6920,7 +6920,7 @@
    "de": "vollziehen",
    "en": "to carry out",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "vorlegen",
@@ -6992,7 +6992,7 @@
    "de": "werten",
    "en": "to rate",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "widersprechen",
@@ -7022,7 +7022,7 @@
    "de": "wirken",
    "en": "to have an effect",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "wischen",
@@ -7052,7 +7052,7 @@
    "de": "zeichnen",
    "en": "to draw",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "zeugen",
@@ -7064,7 +7064,7 @@
    "de": "zielen",
    "en": "to aim",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "zittern",
@@ -7136,7 +7136,7 @@
    "de": "zusammenkommen",
    "en": "to get together",
    "type": "verbs",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "zusammenstellen",
@@ -7184,7 +7184,7 @@
    "de": "die Stunde",
    "en": "hour",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "die Sekunde",
@@ -7214,7 +7214,7 @@
    "de": "der Mittag",
    "en": "noon",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "der Abend",
@@ -7226,7 +7226,7 @@
    "de": "der Nachmittag",
    "en": "afternoon",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "die Zukunft",
@@ -7268,7 +7268,7 @@
    "de": "der Kalender",
    "en": "calendar",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "der Montag",
@@ -7352,7 +7352,7 @@
    "de": "der Feiertag",
    "en": "public holiday",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "der Geburtstag",
@@ -7388,13 +7388,13 @@
    "de": "das Baby",
    "en": "baby",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "der Erwachsene",
    "en": "adult",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "der Jugendliche",
@@ -7406,7 +7406,7 @@
    "de": "die Person",
    "en": "person",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "der Herr",
@@ -7418,7 +7418,7 @@
    "de": "die Dame",
    "en": "lady",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "der Nachbar",
@@ -7514,7 +7514,7 @@
    "de": "der Student",
    "en": "student",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "der Professor",
@@ -7574,13 +7574,13 @@
    "de": "der Minister",
    "en": "minister",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "der Bürger",
    "en": "citizen",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "der Ausländer",
@@ -7604,13 +7604,13 @@
    "de": "der Held",
    "en": "hero",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "die Mutter",
    "en": "mother",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "der Vater",
@@ -7736,7 +7736,7 @@
    "de": "der Kopf",
    "en": "head",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "das Gesicht",
@@ -7784,7 +7784,7 @@
    "de": "der Hals",
    "en": "neck",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "die Schulter",
@@ -7820,7 +7820,7 @@
    "de": "der Fuß",
    "en": "foot",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "das Knie",
@@ -7898,7 +7898,7 @@
    "de": "der Körper",
    "en": "body",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "auto"
   },
   {
    "de": "die Lippe",
@@ -7922,13 +7922,13 @@
    "de": "das Brot",
    "en": "bread",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "das Brötchen",
    "en": "bread roll",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "die Butter",
@@ -7958,7 +7958,7 @@
    "de": "das Fleisch",
    "en": "meat",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "das Hähnchen",
@@ -7988,7 +7988,7 @@
    "de": "der Apfel",
    "en": "apple",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "die Birne",
@@ -8120,7 +8120,7 @@
    "de": "der Honig",
    "en": "honey",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "die Marmelade",
@@ -8186,7 +8186,7 @@
    "de": "der Löffel",
    "en": "spoon",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "die Gabel",
@@ -8228,7 +8228,7 @@
    "de": "das Mittagessen",
    "en": "lunch",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "das Abendessen",
@@ -8324,7 +8324,7 @@
    "de": "der Boden",
    "en": "floor",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "die Decke",
@@ -8378,7 +8378,7 @@
    "de": "das Bett",
    "en": "bed",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "das Sofa",
@@ -8456,13 +8456,13 @@
    "de": "die Waschmaschine",
    "en": "washing machine",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "auto"
   },
   {
    "de": "die Seife",
    "en": "soap",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "das Handtuch",
@@ -8486,13 +8486,13 @@
    "de": "der Weg",
    "en": "path",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "die Brücke",
    "en": "bridge",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "math"
   },
   {
    "de": "der Platz",
@@ -8504,7 +8504,7 @@
    "de": "der Markt",
    "en": "market",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "das Geschäft",
@@ -8612,13 +8612,13 @@
    "de": "die Feuerwehr",
    "en": "fire department",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "die Ampel",
    "en": "traffic light",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "die Kreuzung",
@@ -8642,7 +8642,7 @@
    "de": "die Straßenbahn",
    "en": "tram",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "der Fahrplan",
@@ -8654,7 +8654,7 @@
    "de": "das Fahrrad",
    "en": "bicycle",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "das Motorrad",
@@ -8672,19 +8672,19 @@
    "de": "der LKW",
    "en": "truck",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "das Schiff",
    "en": "ship",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "das Boot",
    "en": "boat",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "der Hafen",
@@ -8696,7 +8696,7 @@
    "de": "die Ecke",
    "en": "corner",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "math"
   },
   {
    "de": "das Viertel",
@@ -8726,7 +8726,7 @@
    "de": "die Fahrkarte",
    "en": "ticket",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "das Gleis",
@@ -8744,7 +8744,7 @@
    "de": "das Visum",
    "en": "visa",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "die Sehenswürdigkeit",
@@ -8756,13 +8756,13 @@
    "de": "der Ausflug",
    "en": "excursion",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "die Natur",
    "en": "nature",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "der Himmel",
@@ -8774,13 +8774,13 @@
    "de": "die Sonne",
    "en": "sun",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "der Mond",
    "en": "moon",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "der Stern",
@@ -8846,13 +8846,13 @@
    "de": "das Feuer",
    "en": "fire",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "die Erde",
    "en": "earth",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "der Berg",
@@ -8882,7 +8882,7 @@
    "de": "der Baum",
    "en": "tree",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "das Blatt",
@@ -8918,7 +8918,7 @@
    "de": "das Meer",
    "en": "sea",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "die Insel",
@@ -8954,7 +8954,7 @@
    "de": "die Luft",
    "en": "air",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "das Eis",
@@ -8972,7 +8972,7 @@
    "de": "das Tier",
    "en": "animal",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "der Hund",
@@ -9086,13 +9086,13 @@
    "de": "die Fliege",
    "en": "fly",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "die Biene",
    "en": "bee",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "der Käfer",
@@ -9116,7 +9116,7 @@
    "de": "der Beruf",
    "en": "profession",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "die Stelle",
@@ -9128,7 +9128,7 @@
    "de": "der Job",
    "en": "job",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "das Büro",
@@ -9212,7 +9212,7 @@
    "de": "der Feierabend",
    "en": "end of work",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "die Kündigung",
@@ -9242,7 +9242,7 @@
    "de": "der Handel",
    "en": "trade",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "die Wirtschaft",
@@ -9278,7 +9278,7 @@
    "de": "die Karte",
    "en": "card",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "der Kredit",
@@ -9326,13 +9326,13 @@
    "de": "die Klasse",
    "en": "class",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "der Unterricht",
    "en": "lessons",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "die Aufgabe",
@@ -9410,7 +9410,7 @@
    "de": "die Sprache",
    "en": "language",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "die Grammatik",
@@ -9446,37 +9446,37 @@
    "de": "das Wissen",
    "en": "knowledge",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "die Bildung",
    "en": "education",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "math"
   },
   {
    "de": "das Studium",
    "en": "studies",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "der Abschluss",
    "en": "degree",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "das Zeugnis",
    "en": "report card",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "der Kurs",
    "en": "course",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "das Fach",
@@ -9542,7 +9542,7 @@
    "de": "die Zeitung",
    "en": "newspaper",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "die Zeitschrift",
@@ -9638,7 +9638,7 @@
    "de": "das Training",
    "en": "training",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "der Sieg",
@@ -9656,7 +9656,7 @@
    "de": "die Gesundheit",
    "en": "health",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "die Krankheit",
@@ -9674,19 +9674,19 @@
    "de": "das Fieber",
    "en": "fever",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "die Medizin",
    "en": "medicine",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "das Medikament",
    "en": "drug",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "die Tablette",
@@ -9824,7 +9824,7 @@
    "de": "die Wahrheit",
    "en": "truth",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "die Chance",
@@ -9896,7 +9896,7 @@
    "de": "die Politik",
    "en": "politics",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "die Wahl",
@@ -9914,43 +9914,43 @@
    "de": "die Gesellschaft",
    "en": "society",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "die Kultur",
    "en": "culture",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "die Geschichte",
    "en": "history",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "die Religion",
    "en": "religion",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "die Kunst",
    "en": "art",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "die Wissenschaft",
    "en": "science",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "die Technik",
    "en": "technology",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "die Industrie",
@@ -9968,19 +9968,19 @@
    "de": "die Umwelt",
    "en": "environment",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "das Klima",
    "en": "climate",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "der Verkehr",
    "en": "traffic",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "die Sicherheit",
@@ -10070,7 +10070,7 @@
    "de": "die Erfahrung",
    "en": "experience",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "die Erinnerung",
@@ -10148,7 +10148,7 @@
    "de": "das Gefühl",
    "en": "feeling",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "die Stimmung",
@@ -10160,13 +10160,13 @@
    "de": "der Charakter",
    "en": "character",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "math"
   },
   {
    "de": "die Persönlichkeit",
    "en": "personality",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "der Wille",
@@ -10196,7 +10196,7 @@
    "de": "die Gewohnheit",
    "en": "habit",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "das Glück",
@@ -10322,7 +10322,7 @@
    "de": "die Tasche",
    "en": "bag",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "math"
   },
   {
    "de": "der Gürtel",
@@ -10394,13 +10394,13 @@
    "de": "die Nummer",
    "en": "number",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "auto"
   },
   {
    "de": "die Linie",
    "en": "line",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "der Punkt",
@@ -10424,7 +10424,7 @@
    "de": "die Richtung",
    "en": "direction",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "der Rand",
@@ -10538,7 +10538,7 @@
    "de": "der Rucksack",
    "en": "backpack",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "der Regenschirm",
@@ -10592,13 +10592,13 @@
    "de": "die Maschine",
    "en": "machine",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "auto"
   },
   {
    "de": "das Werkzeug",
    "en": "tool",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "das Gerät",
@@ -10622,19 +10622,19 @@
    "de": "die Schachtel",
    "en": "box",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "auto"
   },
   {
    "de": "der Karton",
    "en": "cardboard box",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "auto"
   },
   {
    "de": "die Tüte",
    "en": "bag",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "math"
   },
   {
    "de": "der Sack",
@@ -10646,7 +10646,7 @@
    "de": "das Fass",
    "en": "barrel",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "der Krug",
@@ -10784,13 +10784,13 @@
    "de": "das Eisen",
    "en": "iron",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "der Stahl",
    "en": "steel",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "auto"
   },
   {
    "de": "das Gold",
@@ -10868,7 +10868,7 @@
    "de": "der Staub",
    "en": "dust",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "der Dreck",
@@ -10922,7 +10922,7 @@
    "de": "das Licht",
    "en": "light",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "der Schatten",
@@ -11018,7 +11018,7 @@
    "de": "die Bewegung",
    "en": "movement",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "die Schwerkraft",
@@ -11138,7 +11138,7 @@
    "de": "das Feld",
    "en": "field",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "die Wiese",
@@ -11174,7 +11174,7 @@
    "de": "der Kindergarten",
    "en": "kindergarten",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "die Kantine",
@@ -11246,7 +11246,7 @@
    "de": "der Flug",
    "en": "flight",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "die Landung",
@@ -11258,7 +11258,7 @@
    "de": "die Fähre",
    "en": "ferry",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "der Tunnel",
@@ -11270,7 +11270,7 @@
    "de": "die Landstraße",
    "en": "country road",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "der Gehweg",
@@ -11282,7 +11282,7 @@
    "de": "der Radweg",
    "en": "bike path",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "die Straßenlaterne",
@@ -11312,13 +11312,13 @@
    "de": "die Garage",
    "en": "garage",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "auto"
   },
   {
    "de": "die Hausnummer",
    "en": "house number",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "auto"
   },
   {
    "de": "die Adresse",
@@ -11378,7 +11378,7 @@
    "de": "die Landschaft",
    "en": "landscape",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "der Norden",
@@ -11708,7 +11708,7 @@
    "de": "die Süßigkeit",
    "en": "sweet",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "das Gewürz",
@@ -11924,7 +11924,7 @@
    "de": "die Robbe",
    "en": "seal",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "die Ameise",
@@ -12068,7 +12068,7 @@
    "de": "der Mechaniker",
    "en": "mechanic",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "auto"
   },
   {
    "de": "der Tischler",
@@ -12200,25 +12200,25 @@
    "de": "der Tourist",
    "en": "tourist",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "der Passagier",
    "en": "passenger",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "der Fahrgast",
    "en": "passenger",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "der Besucher",
    "en": "visitor",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "der Zuschauer",
@@ -12296,7 +12296,7 @@
    "de": "der Gott",
    "en": "god",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "der Teufel",
@@ -12308,13 +12308,13 @@
    "de": "der Engel",
    "en": "angel",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "die Seele",
    "en": "soul",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "der Geist",
@@ -12356,7 +12356,7 @@
    "de": "die Aufmerksamkeit",
    "en": "attention",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "die Absicht",
@@ -12404,7 +12404,7 @@
    "de": "der Besuch",
    "en": "visit",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "der Betrag",
@@ -12446,7 +12446,7 @@
    "de": "die Einheit",
    "en": "unit",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "die Einigung",
@@ -12464,7 +12464,7 @@
    "de": "die Entwicklung",
    "en": "development",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "die Erklärung",
@@ -12488,7 +12488,7 @@
    "de": "die Fähigkeit",
    "en": "ability",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "die Fantasie",
@@ -12512,7 +12512,7 @@
    "de": "die Forschung",
    "en": "research",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "die Funktion",
@@ -12530,7 +12530,7 @@
    "de": "das Gleichgewicht",
    "en": "balance",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "math"
   },
   {
    "de": "die Grundlage",
@@ -12566,7 +12566,7 @@
    "de": "die Information",
    "en": "information",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "das Interesse",
@@ -12578,7 +12578,7 @@
    "de": "die Kenntnis",
    "en": "knowledge",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "die Kritik",
@@ -12596,7 +12596,7 @@
    "de": "der Kontakt",
    "en": "contact",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "math"
   },
   {
    "de": "die Lage",
@@ -12746,7 +12746,7 @@
    "de": "der Streit",
    "en": "argument",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "math"
   },
   {
    "de": "die Struktur",
@@ -12758,25 +12758,25 @@
    "de": "der Stil",
    "en": "style",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "die Stufe",
    "en": "level",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "die Tat",
    "en": "deed",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "die Tatsache",
    "en": "fact",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "der Titel",
@@ -12836,13 +12836,13 @@
    "de": "das Verhältnis",
    "en": "relation",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "math"
   },
   {
    "de": "das Verhalten",
    "en": "behavior",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "die Verbindung",
@@ -12872,7 +12872,7 @@
    "de": "der Vorteil",
    "en": "advantage",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "der Nachteil",
@@ -12890,13 +12890,13 @@
    "de": "der Wert",
    "en": "value",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "math"
   },
   {
    "de": "das Wesen",
    "en": "nature",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "der Widerstand",
@@ -12956,7 +12956,7 @@
    "de": "die Aussage",
    "en": "statement",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "die Ausnahme",
@@ -12968,7 +12968,7 @@
    "de": "die Ausbildung",
    "en": "training",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "die Ausgabe",
@@ -12992,7 +12992,7 @@
    "de": "die Anfrage",
    "en": "inquiry",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "das Anliegen",
@@ -13010,7 +13010,7 @@
    "de": "die Anzahl",
    "en": "number",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "auto"
   },
   {
    "de": "der Anspruch",
@@ -13040,7 +13040,7 @@
    "de": "der Aufenthalt",
    "en": "stay",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "der Auftrag",
@@ -13052,13 +13052,13 @@
    "de": "der Ausdruck",
    "en": "expression",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "der Ausweis",
    "en": "ID card",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "die Ausstellung",
@@ -13082,7 +13082,7 @@
    "de": "die Berechnung",
    "en": "calculation",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "math"
   },
   {
    "de": "die Besserung",
@@ -13100,7 +13100,7 @@
    "de": "die Betreuung",
    "en": "care",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "die Beteiligung",
@@ -13136,13 +13136,13 @@
    "de": "der Winkel",
    "en": "angle",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "math"
   },
   {
    "de": "die Gerade",
    "en": "straight line",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "das Quadrat",
@@ -13166,7 +13166,7 @@
    "de": "der Würfel",
    "en": "cube",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "math"
   },
   {
    "de": "der Durchmesser",
@@ -13190,25 +13190,25 @@
    "de": "die Mathematik",
    "en": "mathematics",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "die Physik",
    "en": "physics",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "math"
   },
   {
    "de": "die Chemie",
    "en": "chemistry",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "math"
   },
   {
    "de": "die Biologie",
    "en": "biology",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "math"
   },
   {
    "de": "die Geografie",
@@ -13220,19 +13220,19 @@
    "de": "die Informatik",
    "en": "computer science",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "die Philosophie",
    "en": "philosophy",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "die Psychologie",
    "en": "psychology",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "das Experiment",
@@ -13244,7 +13244,7 @@
    "de": "die Theorie",
    "en": "theory",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "math"
   },
   {
    "de": "die Hypothese",
@@ -13256,7 +13256,7 @@
    "de": "die Statistik",
    "en": "statistics",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "math"
   },
   {
    "de": "das Diagramm",
@@ -13454,7 +13454,7 @@
    "de": "der Spaziergang",
    "en": "walk",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "das Hobby",
@@ -13466,7 +13466,7 @@
    "de": "das Abenteuer",
    "en": "adventure",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "die Freizeit",
@@ -13664,13 +13664,13 @@
    "de": "der Pass",
    "en": "passport",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "der Personalausweis",
    "en": "identity card",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "die Staatsangehörigkeit",
@@ -13694,7 +13694,7 @@
    "de": "der Atem",
    "en": "breath",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "der Schlaf",
@@ -13712,13 +13712,13 @@
    "de": "die Ernährung",
    "en": "nutrition",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "education"
   },
   {
    "de": "die Diät",
    "en": "diet",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "daily"
   },
   {
    "de": "die Gymnastik",
@@ -13838,13 +13838,13 @@
    "de": "die Glatze",
    "en": "bald head",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "t_travel"
   },
   {
    "de": "die Locke",
    "en": "curl",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "math"
   },
   {
    "de": "der Zopf",
@@ -13994,7 +13994,7 @@
    "de": "der Kuss",
    "en": "kiss",
    "type": "nouns",
-   "topic": "misc"
+   "topic": "love"
   },
   {
    "de": "die Umarmung",
@@ -14018,6 +14018,3378 @@
    "de": "der Schrei",
    "en": "scream",
    "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "rot",
+   "en": "red",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "blau",
+   "en": "blue",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "grün",
+   "en": "green",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "gelb",
+   "en": "yellow",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "schwarz",
+   "en": "black",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "weiß",
+   "en": "white",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "grau",
+   "en": "gray",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "braun",
+   "en": "brown",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "rosa",
+   "en": "pink",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "lila",
+   "en": "purple",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "orange",
+   "en": "orange",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "bunt",
+   "en": "colorful",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "hell",
+   "en": "bright",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "dunkel",
+   "en": "dark",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "golden",
+   "en": "golden",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "silbern",
+   "en": "silver",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "breit",
+   "en": "wide",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "schmal",
+   "en": "narrow",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "eng",
+   "en": "tight",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "weit",
+   "en": "far",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "tief",
+   "en": "deep",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "flach",
+   "en": "flat",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "rund",
+   "en": "round",
+   "type": "adjectives",
+   "topic": "daily"
+  },
+  {
+   "de": "eckig",
+   "en": "angular",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "spitz",
+   "en": "pointed",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "gerade",
+   "en": "straight",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "krumm",
+   "en": "crooked",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "dick",
+   "en": "thick",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "dünn",
+   "en": "thin",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "fett",
+   "en": "fat",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "mager",
+   "en": "lean",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "riesig",
+   "en": "huge",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "winzig",
+   "en": "tiny",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "gewaltig",
+   "en": "enormous",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "mittel",
+   "en": "medium",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "kurz",
+   "en": "short",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "niedrig",
+   "en": "low",
+   "type": "adjectives",
+   "topic": "daily"
+  },
+  {
+   "de": "schlecht",
+   "en": "bad",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "billig",
+   "en": "cheap",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "teuer",
+   "en": "expensive",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "günstig",
+   "en": "inexpensive",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "wertvoll",
+   "en": "valuable",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "kostbar",
+   "en": "precious",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "wertlos",
+   "en": "worthless",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "nützlich",
+   "en": "useful",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "nutzlos",
+   "en": "useless",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "brauchbar",
+   "en": "usable",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "praktisch",
+   "en": "practical",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "bequem",
+   "en": "comfortable",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "unbequem",
+   "en": "uncomfortable",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "gemütlich",
+   "en": "cozy",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "modern",
+   "en": "modern",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "altmodisch",
+   "en": "old-fashioned",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "antik",
+   "en": "ancient",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "frisch",
+   "en": "fresh",
+   "type": "adjectives",
+   "topic": "daily"
+  },
+  {
+   "de": "faul",
+   "en": "lazy",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "sauber",
+   "en": "clean",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "schmutzig",
+   "en": "dirty",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "dreckig",
+   "en": "filthy",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "rein",
+   "en": "pure",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "leer",
+   "en": "empty",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "voll",
+   "en": "full",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "ganz",
+   "en": "whole",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "halb",
+   "en": "half",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "kaputt",
+   "en": "broken",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "heil",
+   "en": "intact",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "fertig",
+   "en": "finished",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "bereit",
+   "en": "ready",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "offen",
+   "en": "open",
+   "type": "adjectives",
+   "topic": "t_travel"
+  },
+  {
+   "de": "geschlossen",
+   "en": "closed",
+   "type": "adjectives",
+   "topic": "math"
+  },
+  {
+   "de": "frei",
+   "en": "free",
+   "type": "adjectives",
+   "topic": "education"
+  },
+  {
+   "de": "besetzt",
+   "en": "occupied",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "nass",
+   "en": "wet",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "trocken",
+   "en": "dry",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "feucht",
+   "en": "damp",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "glatt",
+   "en": "smooth",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "rau",
+   "en": "rough",
+   "type": "adjectives",
+   "topic": "daily"
+  },
+  {
+   "de": "weich",
+   "en": "soft",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "hart",
+   "en": "hard",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "scharf",
+   "en": "sharp",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "leicht",
+   "en": "light",
+   "type": "adjectives",
+   "topic": "daily"
+  },
+  {
+   "de": "stark",
+   "en": "strong",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "schwach",
+   "en": "weak",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "fest",
+   "en": "firm",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "locker",
+   "en": "loose",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "steif",
+   "en": "stiff",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "flexibel",
+   "en": "flexible",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "elastisch",
+   "en": "elastic",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "zerbrechlich",
+   "en": "fragile",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "stabil",
+   "en": "stable",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "heiß",
+   "en": "hot",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "warm",
+   "en": "warm",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "kalt",
+   "en": "cold",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "kühl",
+   "en": "cool",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "lauwarm",
+   "en": "lukewarm",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "sonnig",
+   "en": "sunny",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "regnerisch",
+   "en": "rainy",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "windig",
+   "en": "windy",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "bewölkt",
+   "en": "cloudy",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "neblig",
+   "en": "foggy",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "schwül",
+   "en": "muggy",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "mild",
+   "en": "mild",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "eisig",
+   "en": "icy",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "frostig",
+   "en": "frosty",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "süß",
+   "en": "sweet",
+   "type": "adjectives",
+   "topic": "love"
+  },
+  {
+   "de": "sauer",
+   "en": "sour",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "bitter",
+   "en": "bitter",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "salzig",
+   "en": "salty",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "würzig",
+   "en": "spicy",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "lecker",
+   "en": "tasty",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "köstlich",
+   "en": "delicious",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "fade",
+   "en": "bland",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "roh",
+   "en": "raw",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "gekocht",
+   "en": "cooked",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "gebacken",
+   "en": "baked",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "gebraten",
+   "en": "fried",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "gefroren",
+   "en": "frozen",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "laut",
+   "en": "loud",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "leise",
+   "en": "quiet",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "still",
+   "en": "silent",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "glänzend",
+   "en": "shiny",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "freundlich",
+   "en": "friendly",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "unfreundlich",
+   "en": "unfriendly",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "nett",
+   "en": "nice",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "höflich",
+   "en": "polite",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "unhöflich",
+   "en": "impolite",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "ehrlich",
+   "en": "honest",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "unehrlich",
+   "en": "dishonest",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "mutig",
+   "en": "brave",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "feige",
+   "en": "cowardly",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "klug",
+   "en": "clever",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "dumm",
+   "en": "stupid",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "intelligent",
+   "en": "intelligent",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "weise",
+   "en": "wise",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "fleißig",
+   "en": "hardworking",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "tüchtig",
+   "en": "capable",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "geduldig",
+   "en": "patient",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "ungeduldig",
+   "en": "impatient",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "neugierig",
+   "en": "curious",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "schüchtern",
+   "en": "shy",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "ruhig",
+   "en": "calm",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "nervös",
+   "en": "nervous",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "aufgeregt",
+   "en": "excited",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "gelassen",
+   "en": "relaxed",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "wütend",
+   "en": "furious",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "zornig",
+   "en": "angry",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "traurig",
+   "en": "sad",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "fröhlich",
+   "en": "cheerful",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "glücklich",
+   "en": "happy",
+   "type": "adjectives",
+   "topic": "love"
+  },
+  {
+   "de": "unglücklich",
+   "en": "unhappy",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "lustig",
+   "en": "funny",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "witzig",
+   "en": "witty",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "ernst",
+   "en": "serious",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "ernsthaft",
+   "en": "earnest",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "streng",
+   "en": "strict",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "sanft",
+   "en": "gentle",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "zärtlich",
+   "en": "tender",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "liebevoll",
+   "en": "loving",
+   "type": "adjectives",
+   "topic": "love"
+  },
+  {
+   "de": "herzlich",
+   "en": "warm-hearted",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "großzügig",
+   "en": "generous",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "geizig",
+   "en": "stingy",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "stolz",
+   "en": "proud",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "bescheiden",
+   "en": "modest",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "eitel",
+   "en": "vain",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "eifersüchtig",
+   "en": "jealous",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "neidisch",
+   "en": "envious",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "treu",
+   "en": "loyal",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "untreu",
+   "en": "unfaithful",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "zuverlässig",
+   "en": "reliable",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "unzuverlässig",
+   "en": "unreliable",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "vorsichtig",
+   "en": "careful",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "leichtsinnig",
+   "en": "reckless",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "gefährlich",
+   "en": "dangerous",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "sicher",
+   "en": "safe",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "riskant",
+   "en": "risky",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "selbstständig",
+   "en": "independent",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "abhängig",
+   "en": "dependent",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "unabhängig",
+   "en": "self-reliant",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "sympathisch",
+   "en": "likeable",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "unsympathisch",
+   "en": "unlikeable",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "charmant",
+   "en": "charming",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "attraktiv",
+   "en": "attractive",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "hübsch",
+   "en": "pretty",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "hässlich",
+   "en": "ugly",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "elegant",
+   "en": "elegant",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "schick",
+   "en": "chic",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "niedlich",
+   "en": "cute",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "jung",
+   "en": "young",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "erwachsen",
+   "en": "grown-up",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "reif",
+   "en": "mature",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "kindisch",
+   "en": "childish",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "einsam",
+   "en": "lonely",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "allein",
+   "en": "alone",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "müde",
+   "en": "tired",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "wach",
+   "en": "awake",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "munter",
+   "en": "lively",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "erschöpft",
+   "en": "exhausted",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "hungrig",
+   "en": "hungry",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "durstig",
+   "en": "thirsty",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "satt",
+   "en": "full",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "gesund",
+   "en": "healthy",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "krank",
+   "en": "sick",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "verletzt",
+   "en": "injured",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "schwanger",
+   "en": "pregnant",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "tot",
+   "en": "dead",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "lebendig",
+   "en": "alive",
+   "type": "adjectives",
+   "topic": "daily"
+  },
+  {
+   "de": "nackt",
+   "en": "naked",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "barfuß",
+   "en": "barefoot",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "blind",
+   "en": "blind",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "taub",
+   "en": "deaf",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "stumm",
+   "en": "mute",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "bewusstlos",
+   "en": "unconscious",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "betrunken",
+   "en": "drunk",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "nüchtern",
+   "en": "sober",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "verrückt",
+   "en": "crazy",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "normal",
+   "en": "normal",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "seltsam",
+   "en": "strange",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "merkwürdig",
+   "en": "odd",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "komisch",
+   "en": "weird",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "eigenartig",
+   "en": "peculiar",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "fremd",
+   "en": "foreign",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "vertraut",
+   "en": "familiar",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "bekannt",
+   "en": "known",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "berühmt",
+   "en": "famous",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "beliebt",
+   "en": "popular",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "unbeliebt",
+   "en": "unpopular",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "froh",
+   "en": "glad",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "zufrieden",
+   "en": "satisfied",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "unzufrieden",
+   "en": "dissatisfied",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "enttäuscht",
+   "en": "disappointed",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "überrascht",
+   "en": "surprised",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "erstaunt",
+   "en": "astonished",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "erschrocken",
+   "en": "frightened",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "ängstlich",
+   "en": "fearful",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "besorgt",
+   "en": "worried",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "sorglos",
+   "en": "carefree",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "gelangweilt",
+   "en": "bored",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "begeistert",
+   "en": "enthusiastic",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "interessiert",
+   "en": "interested",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "gespannt",
+   "en": "eager",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "verwirrt",
+   "en": "confused",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "böse",
+   "en": "evil",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "beleidigt",
+   "en": "offended",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "beschämt",
+   "en": "ashamed",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "peinlich",
+   "en": "embarrassing",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "verlegen",
+   "en": "embarrassed",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "dankbar",
+   "en": "grateful",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "hoffnungsvoll",
+   "en": "hopeful",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "hoffnungslos",
+   "en": "hopeless",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "verzweifelt",
+   "en": "desperate",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "entspannt",
+   "en": "relaxed",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "gestresst",
+   "en": "stressed",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "genervt",
+   "en": "annoyed",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "gereizt",
+   "en": "irritated",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "verheiratet",
+   "en": "married",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "verlobt",
+   "en": "engaged",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "geschieden",
+   "en": "divorced",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "ledig",
+   "en": "single",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "verwitwet",
+   "en": "widowed",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "viel",
+   "en": "much",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "wenig",
+   "en": "little",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "mehrere",
+   "en": "several",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "einige",
+   "en": "some",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "manche",
+   "en": "some",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "zahlreich",
+   "en": "numerous",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "unzählig",
+   "en": "countless",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "einzig",
+   "en": "only",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "einzeln",
+   "en": "single",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "doppelt",
+   "en": "double",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "dreifach",
+   "en": "triple",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "gesamt",
+   "en": "total",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "genug",
+   "en": "enough",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "ausreichend",
+   "en": "sufficient",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "reichlich",
+   "en": "plentiful",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "knapp",
+   "en": "scarce",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "zusätzlich",
+   "en": "additional",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "weitere",
+   "en": "further",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "andere",
+   "en": "other",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "gleich",
+   "en": "same",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "ähnlich",
+   "en": "similar",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "verschieden",
+   "en": "different",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "unterschiedlich",
+   "en": "varying",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "besonders",
+   "en": "special",
+   "type": "adjectives",
+   "topic": "daily"
+  },
+  {
+   "de": "speziell",
+   "en": "specific",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "typisch",
+   "en": "typical",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "üblich",
+   "en": "usual",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "gewöhnlich",
+   "en": "ordinary",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "ungewöhnlich",
+   "en": "unusual",
+   "type": "adjectives",
+   "topic": "daily"
+  },
+  {
+   "de": "selten",
+   "en": "rare",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "häufig",
+   "en": "frequent",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "regelmäßig",
+   "en": "regular",
+   "type": "adjectives",
+   "topic": "daily"
+  },
+  {
+   "de": "ständig",
+   "en": "constant",
+   "type": "adjectives",
+   "topic": "math"
+  },
+  {
+   "de": "dauernd",
+   "en": "continuous",
+   "type": "adjectives",
+   "topic": "math"
+  },
+  {
+   "de": "ewig",
+   "en": "eternal",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "endlos",
+   "en": "endless",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "täglich",
+   "en": "daily",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "wöchentlich",
+   "en": "weekly",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "monatlich",
+   "en": "monthly",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "jährlich",
+   "en": "yearly",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "früh",
+   "en": "early",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "spät",
+   "en": "late",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "pünktlich",
+   "en": "punctual",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "rechtzeitig",
+   "en": "timely",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "plötzlich",
+   "en": "sudden",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "vorherig",
+   "en": "previous",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "letzte",
+   "en": "last",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "nächste",
+   "en": "next",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "erste",
+   "en": "first",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "zweite",
+   "en": "second",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "dritte",
+   "en": "third",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "kommend",
+   "en": "upcoming",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "heutig",
+   "en": "today's",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "gestrig",
+   "en": "yesterday's",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "damalig",
+   "en": "then",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "jetzig",
+   "en": "current",
+   "type": "adjectives",
+   "topic": "daily"
+  },
+  {
+   "de": "aktuell",
+   "en": "up-to-date",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "momentan",
+   "en": "momentary",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "vorläufig",
+   "en": "provisional",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "ehemalig",
+   "en": "former",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "künftig",
+   "en": "future",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "vergangen",
+   "en": "past",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "gegenwärtig",
+   "en": "present",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "historisch",
+   "en": "historic",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "mittelalterlich",
+   "en": "medieval",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "nah",
+   "en": "near",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "fern",
+   "en": "distant",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "entfernt",
+   "en": "remote",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "nahe",
+   "en": "close",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "benachbart",
+   "en": "neighboring",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "innere",
+   "en": "inner",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "äußere",
+   "en": "outer",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "obere",
+   "en": "upper",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "untere",
+   "en": "lower",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "vordere",
+   "en": "front",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "hintere",
+   "en": "rear",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "linke",
+   "en": "left",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "rechte",
+   "en": "right",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "mittlere",
+   "en": "middle",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "östlich",
+   "en": "eastern",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "westlich",
+   "en": "western",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "nördlich",
+   "en": "northern",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "südlich",
+   "en": "southern",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "zentral",
+   "en": "central",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "lokal",
+   "en": "local",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "regional",
+   "en": "regional",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "national",
+   "en": "national",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "international",
+   "en": "international",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "global",
+   "en": "global",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "städtisch",
+   "en": "urban",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "ländlich",
+   "en": "rural",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "öffentlich",
+   "en": "public",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "privat",
+   "en": "private",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "einheimisch",
+   "en": "native",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "ausländisch",
+   "en": "foreign",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "europäisch",
+   "en": "European",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "deutsch",
+   "en": "German",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "englisch",
+   "en": "English",
+   "type": "adjectives",
+   "topic": "education"
+  },
+  {
+   "de": "französisch",
+   "en": "French",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "spanisch",
+   "en": "Spanish",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "italienisch",
+   "en": "Italian",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "türkisch",
+   "en": "Turkish",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "russisch",
+   "en": "Russian",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "chinesisch",
+   "en": "Chinese",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "japanisch",
+   "en": "Japanese",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "amerikanisch",
+   "en": "American",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "österreichisch",
+   "en": "Austrian",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "schweizerisch",
+   "en": "Swiss",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "polnisch",
+   "en": "Polish",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "griechisch",
+   "en": "Greek",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "wahr",
+   "en": "true",
+   "type": "adjectives",
+   "topic": "love"
+  },
+  {
+   "de": "falsch",
+   "en": "false",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "richtig",
+   "en": "correct",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "korrekt",
+   "en": "proper",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "genau",
+   "en": "exact",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "ungenau",
+   "en": "inaccurate",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "exakt",
+   "en": "precise",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "ungefähr",
+   "en": "approximate",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "möglich",
+   "en": "possible",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "unmöglich",
+   "en": "impossible",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "notwendig",
+   "en": "necessary",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "nötig",
+   "en": "needed",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "überflüssig",
+   "en": "superfluous",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "wahrscheinlich",
+   "en": "probable",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "unsicher",
+   "en": "uncertain",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "klar",
+   "en": "clear",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "unklar",
+   "en": "unclear",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "deutlich",
+   "en": "distinct",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "undeutlich",
+   "en": "indistinct",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "sichtbar",
+   "en": "visible",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "unsichtbar",
+   "en": "invisible",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "offensichtlich",
+   "en": "obvious",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "verständlich",
+   "en": "understandable",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "unverständlich",
+   "en": "incomprehensible",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "unbekannt",
+   "en": "unknown",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "geheim",
+   "en": "secret",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "offiziell",
+   "en": "official",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "rechtlich",
+   "en": "legal",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "legal",
+   "en": "lawful",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "illegal",
+   "en": "illegal",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "erlaubt",
+   "en": "allowed",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "verboten",
+   "en": "forbidden",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "gültig",
+   "en": "valid",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "ungültig",
+   "en": "invalid",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "kostenlos",
+   "en": "free of charge",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "gratis",
+   "en": "gratis",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "umsonst",
+   "en": "for free",
+   "type": "adjectives",
+   "topic": "education"
+  },
+  {
+   "de": "kostenpflichtig",
+   "en": "chargeable",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "bar",
+   "en": "in cash",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "reich",
+   "en": "rich",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "arm",
+   "en": "poor",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "wohlhabend",
+   "en": "wealthy",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "arbeitslos",
+   "en": "unemployed",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "berufstätig",
+   "en": "employed",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "beschäftigt",
+   "en": "busy",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "erfolgreich",
+   "en": "successful",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "erfolglos",
+   "en": "unsuccessful",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "zufällig",
+   "en": "accidental",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "absichtlich",
+   "en": "intentional",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "freiwillig",
+   "en": "voluntary",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "gemeinsam",
+   "en": "shared",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "getrennt",
+   "en": "separate",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "verbunden",
+   "en": "connected",
+   "type": "adjectives",
+   "topic": "math"
+  },
+  {
+   "de": "wirtschaftlich",
+   "en": "economic",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "politisch",
+   "en": "political",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "sozial",
+   "en": "social",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "kulturell",
+   "en": "cultural",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "religiös",
+   "en": "religious",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "wissenschaftlich",
+   "en": "scientific",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "technisch",
+   "en": "technical",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "elektrisch",
+   "en": "electric",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "elektronisch",
+   "en": "electronic",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "digital",
+   "en": "digital",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "automatisch",
+   "en": "automatic",
+   "type": "adjectives",
+   "topic": "auto"
+  },
+  {
+   "de": "mechanisch",
+   "en": "mechanical",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "chemisch",
+   "en": "chemical",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "physisch",
+   "en": "physical",
+   "type": "adjectives",
+   "topic": "education"
+  },
+  {
+   "de": "psychisch",
+   "en": "mental",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "körperlich",
+   "en": "bodily",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "geistig",
+   "en": "intellectual",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "seelisch",
+   "en": "emotional",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "emotional",
+   "en": "emotional",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "rational",
+   "en": "rational",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "logisch",
+   "en": "logical",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "theoretisch",
+   "en": "theoretical",
+   "type": "adjectives",
+   "topic": "education"
+  },
+  {
+   "de": "konkret",
+   "en": "concrete",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "abstrakt",
+   "en": "abstract",
+   "type": "adjectives",
+   "topic": "math"
+  },
+  {
+   "de": "allgemein",
+   "en": "general",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "persönlich",
+   "en": "personal",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "individuell",
+   "en": "individual",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "männlich",
+   "en": "male",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "weiblich",
+   "en": "female",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "menschlich",
+   "en": "human",
+   "type": "adjectives",
+   "topic": "love"
+  },
+  {
+   "de": "tierisch",
+   "en": "animal",
+   "type": "adjectives",
+   "topic": "daily"
+  },
+  {
+   "de": "natürlich",
+   "en": "natural",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "künstlich",
+   "en": "artificial",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "echt",
+   "en": "genuine",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "gefälscht",
+   "en": "fake",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "wirklich",
+   "en": "real",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "tatsächlich",
+   "en": "actual",
+   "type": "adjectives",
+   "topic": "daily"
+  },
+  {
+   "de": "zuständig",
+   "en": "responsible",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "verantwortlich",
+   "en": "accountable",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "schuldig",
+   "en": "guilty",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "unschuldig",
+   "en": "innocent",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "beteiligt",
+   "en": "involved",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "anwesend",
+   "en": "present",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "abwesend",
+   "en": "absent",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "vorhanden",
+   "en": "available",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "erhältlich",
+   "en": "obtainable",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "verfügbar",
+   "en": "accessible",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "ausverkauft",
+   "en": "sold out",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "geöffnet",
+   "en": "opened",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "gebucht",
+   "en": "booked",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "reserviert",
+   "en": "reserved",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "spannend",
+   "en": "exciting",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "langweilig",
+   "en": "boring",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "interessant",
+   "en": "interesting",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "unterhaltsam",
+   "en": "entertaining",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "aufregend",
+   "en": "thrilling",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "anstrengend",
+   "en": "strenuous",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "schwierig",
+   "en": "difficult",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "kompliziert",
+   "en": "complicated",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "hilfreich",
+   "en": "helpful",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "hilflos",
+   "en": "helpless",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "schädlich",
+   "en": "harmful",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "harmlos",
+   "en": "harmless",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "giftig",
+   "en": "poisonous",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "ungesund",
+   "en": "unhealthy",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "sportlich",
+   "en": "athletic",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "musikalisch",
+   "en": "musical",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "künstlerisch",
+   "en": "artistic",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "kreativ",
+   "en": "creative",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "talentiert",
+   "en": "talented",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "begabt",
+   "en": "gifted",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "erfahren",
+   "en": "experienced",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "unerfahren",
+   "en": "inexperienced",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "geschickt",
+   "en": "skillful",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "ungeschickt",
+   "en": "clumsy",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "fähig",
+   "en": "capable",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "unfähig",
+   "en": "incapable",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "qualifiziert",
+   "en": "qualified",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "professionell",
+   "en": "professional",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "vorbereitet",
+   "en": "prepared",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "organisiert",
+   "en": "organized",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "chaotisch",
+   "en": "chaotic",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "ordentlich",
+   "en": "tidy",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "unordentlich",
+   "en": "messy",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "gründlich",
+   "en": "thorough",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "oberflächlich",
+   "en": "superficial",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "vollständig",
+   "en": "complete",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "unvollständig",
+   "en": "incomplete",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "komplett",
+   "en": "entire",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "perfekt",
+   "en": "perfect",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "ideal",
+   "en": "ideal",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "optimal",
+   "en": "optimal",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "ausgezeichnet",
+   "en": "excellent",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "hervorragend",
+   "en": "outstanding",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "wunderbar",
+   "en": "wonderful",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "fantastisch",
+   "en": "fantastic",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "toll",
+   "en": "great",
+   "type": "adjectives",
+   "topic": "love"
+  },
+  {
+   "de": "super",
+   "en": "super",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "prima",
+   "en": "splendid",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "großartig",
+   "en": "magnificent",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "herrlich",
+   "en": "glorious",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "schrecklich",
+   "en": "terrible",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "furchtbar",
+   "en": "awful",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "entsetzlich",
+   "en": "dreadful",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "grauenhaft",
+   "en": "horrific",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "schlimm",
+   "en": "bad",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "übel",
+   "en": "nasty",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "mies",
+   "en": "lousy",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "miserabel",
+   "en": "wretched",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "mittelmäßig",
+   "en": "mediocre",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "durchschnittlich",
+   "en": "average",
+   "type": "adjectives",
+   "topic": "math"
+  },
+  {
+   "de": "akzeptabel",
+   "en": "acceptable",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "annehmbar",
+   "en": "reasonable",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "angenehm",
+   "en": "pleasant",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "unangenehm",
+   "en": "unpleasant",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "passend",
+   "en": "suitable",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "unpassend",
+   "en": "unsuitable",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "geeignet",
+   "en": "fit",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "ungeeignet",
+   "en": "unfit",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "angemessen",
+   "en": "appropriate",
+   "type": "adjectives",
+   "topic": "education"
+  },
+  {
+   "de": "unangemessen",
+   "en": "inappropriate",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "gerecht",
+   "en": "fair",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "ungerecht",
+   "en": "unfair",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "fair",
+   "en": "sporting",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "unfair",
+   "en": "unsporting",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "demokratisch",
+   "en": "democratic",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "friedlich",
+   "en": "peaceful",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "gewalttätig",
+   "en": "violent",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "aggressiv",
+   "en": "aggressive",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "brutal",
+   "en": "brutal",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "grausam",
+   "en": "cruel",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "hilfsbereit",
+   "en": "helpful",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "rücksichtsvoll",
+   "en": "considerate",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "rücksichtslos",
+   "en": "inconsiderate",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "egoistisch",
+   "en": "selfish",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "tolerant",
+   "en": "tolerant",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "intolerant",
+   "en": "intolerant",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "konservativ",
+   "en": "conservative",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "liberal",
+   "en": "liberal",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "traditionell",
+   "en": "traditional",
+   "type": "adjectives",
    "topic": "misc"
   }
  ]
