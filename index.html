@@ -20,6 +20,9 @@ input,select{background:var(--card);border:1px solid var(--mut);border-radius:8p
 #bar{position:sticky;top:0;background:var(--bg);padding:10px 0;display:flex;gap:12px;align-items:center;z-index:2}
 #bar input{flex:1;font-size:18px}#t{font-variant-numeric:tabular-nums;font-size:20px;min-width:70px}
 .hide{display:none}#msg{color:var(--mut);margin:8px 0}
+.note{color:var(--mut);font-size:14px;margin:0 0 8px}
+#az{display:flex;gap:4px;overflow-x:auto;padding:6px 0}#az button{padding:6px 10px;text-align:center;flex:none}#az .on{background:var(--ac);color:#fff}
+.wl{columns:2 260px}.wl label{display:flex;gap:8px;align-items:baseline;padding:4px 0;cursor:pointer;break-inside:avoid}.wl input{width:auto}.wl small{color:var(--mut)}
 </style></head><body><main>
 <section id="home">
 <h1>🇩🇪 Deutsch Quiz</h1>
@@ -32,6 +35,10 @@ input,select{background:var(--card);border:1px solid var(--mut);border-radius:8p
 <div class="grid" style="margin-top:10px"><button id="tpB">🗂️ Add a topic</button><button id="tfB">📄 Add words file to a topic</button></div>
 <div id="tp" class="hide"><div class="row"><label>Topic name<input id="tpn" placeholder="e.g. Travel"></label><label>Words file (optional)<input id="tpf" type="file" accept=".txt,.csv"></label><button class="p" id="tpg">Create topic</button></div></div>
 <div id="tf" class="hide"><div class="row"><label>Topic<select id="tfs"></select></label><label>Words file<input id="tff" type="file" accept=".txt,.csv"></label><button class="p" id="tfg">Add words</button></div></div>
+<h2>Mastered</h2>
+<p class="note">Words marked as mastered are left out of quizzes.</p>
+<div class="grid"><button id="msB">✅ Open mastered list</button><button id="msS">☁️ Save mastered to GitHub</button><button id="msL">⬇️ Load mastered from GitHub</button></div>
+<div id="ms" class="hide"><div id="az"></div><div id="msl"></div></div>
 <h2>Tools</h2>
 <div class="grid"><button id="addB">➕ Add a word</button><button id="setB">⚙️ GitHub sync settings</button></div>
 
@@ -93,8 +100,8 @@ async function load(){
   if(!was&&c.t&&c.o&&c.r){try{await gh(c,JSON.parse(LS.pending||'[]'));LS.pending='[]';msg('Word lists upgraded and saved to GitHub ✓');}catch(e){msg('Upgrade not saved to GitHub yet: '+e.message);}}
 }
 function mk(box,title,key,field){
-  const n=data.words.filter(w=>w[field]===key).length,b=document.createElement('button');
-  b.innerHTML=`${title}<small>${n} words</small>`;b.onclick=()=>start(title,data.words.filter(w=>w[field]===key));box.append(b);}
+  const all=data.words.filter(w=>w[field]===key),m=all.filter(w=>MS.has(mkey(w))).length,b=document.createElement('button');
+  b.innerHTML=`${title}<small>${all.length} words`+(m?` · ${m} mastered`:'')+'</small>';b.onclick=()=>start(title,all);box.append(b);}
 function render(){
   $('types').innerHTML='';$('topics').innerHTML='';
   for(const k in TYPES)mk($('types'),TYPES[k],k,'type');
@@ -107,9 +114,10 @@ function render(){
 const shuffle=a=>{a=[...a];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;};
 /* ---------- quiz ---------- */
 function start(title,ws){
-  if(!ws.length)return msg('No words here yet.');
-  const d=$('dir').value;
-  cur={items:shuffle(ws).map(w=>({w,clue:d==='mix'?(Math.random()<.5?'de':'en'):d,done:false})),left:+$('min').value*60,found:0};
+  const pool=ws.filter(w=>!MS.has(mkey(w)));
+  if(!pool.length)return msg(ws.length?'All words in this list are mastered 🎉':'No words here yet.');
+  msg('');const d=$('dir').value;
+  cur={items:shuffle(pool).map(w=>({w,clue:d==='mix'?(Math.random()<.5?'de':'en'):d,done:false})),left:+$('min').value*60,found:0};
   $('home').classList.add('hide');$('quiz').classList.remove('hide');
   $('qt').textContent=title; $('ans').value=''; $('ans').disabled=false; $('end').disabled=false;
   $('cells').innerHTML='';
@@ -130,7 +138,7 @@ $('ans').oninput=e=>{
 function finish(){clearInterval(timer);$('ans').disabled=true;$('end').disabled=true;
   cur.items.forEach(i=>{if(!i.done){i.el.classList.add('miss');i.el.querySelector('b').textContent=i.clue==='de'?i.w.en:i.w.de;}});}
 $('end').onclick=finish;
-$('back').onclick=()=>{clearInterval(timer);$('quiz').classList.add('hide');$('home').classList.remove('hide');};
+$('back').onclick=()=>{clearInterval(timer);$('quiz').classList.add('hide');$('home').classList.remove('hide');render();};
 /* ---------- add word / topics ---------- */
 const tg=id=>$(id).classList.toggle('hide');
 $('addB').onclick=()=>tg('add');$('tpB').onclick=()=>tg('tp');$('tfB').onclick=()=>tg('tf');
@@ -162,6 +170,7 @@ async function guessTopic(en){
 /* data changes are "ops": {op:'topic',key,title} or {op:'word',de,en,type,topic} */
 function applyOp(d,o){
   if(o.op==='topic'){d.topics[o.key]=d.topics[o.key]||o.title;return;}
+  if(o.op==='move'){const w=d.words.find(x=>x.de===o.de&&norm(x.en)===norm(o.en));if(w&&d.topics[o.topic])w.topic=o.topic;return;}
   if(o.list)o={de:o.de,en:o.en,type:TYPES[o.list]?o.list:guessType(o.de,o.en),topic:d.topics[o.list]?o.list:'misc'};
   if(!d.topics[o.topic])o.topic='misc';
   if(!d.words.some(w=>w.de===o.de&&norm(w.en)===norm(o.en)))d.words.push({de:o.de,en:o.en,type:o.type,topic:o.topic});
@@ -219,8 +228,9 @@ $('tpg').onclick=async()=>{
   const slug=name.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,'_').replace(/^_|_$/g,'');
   if(!slug)return msg('Please use letters or numbers in the name.');
   const key='t_'+slug;if(data.topics[key])return msg('That topic already exists.');
-  addOp({op:'topic',key,title:name});
-  const f=$('tpf').files[0];let t=`Topic “${name}” created.`;
+  addOp({op:'topic',key,title:name});msg('Checking other topics for related words…');
+  const mv=await pullWords(key);
+  const f=$('tpf').files[0];let t=`Topic “${name}” created.`+(mv?` ${mv} related words moved in.`:'');
   if(f)t+=' '+rep(await importFile(f,key));
   $('tpn').value='';$('tpf').value='';persist(t);
 };
@@ -228,4 +238,40 @@ $('tfg').onclick=async()=>{
   const f=$('tff').files[0];if(!f)return msg('Choose a file first.');
   const t=rep(await importFile(f,$('tfs').value));$('tff').value='';persist(t);
 };
+/* ---------- mastered words (stored in this browser) ---------- */
+const MS=new Set(JSON.parse(LS.mastered||'[]')),mkey=w=>w.de+'|'+w.en,saveMS=()=>LS.mastered=JSON.stringify([...MS]);
+const esc=s=>s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const stem=w=>w.de.replace(/^(der|die|das)\s+/i,'');
+const letter=w=>{const c=stem(w).normalize('NFD').replace(/[\u0300-\u036f]/g,'').charAt(0).toUpperCase();return /[A-Z]/.test(c)?c:'Misc.';};
+let curL='A',shown=[];
+const mcount=()=>$('mcnt').textContent=`${shown.filter(w=>MS.has(mkey(w))).length} of ${shown.length} mastered`;
+function showAZ(){
+  $('az').innerHTML=[...'ABCDEFGHIJKLMNOPQRSTUVWXYZ','Misc.'].map(l=>`<button class="${l===curL?'on':''}" data-l="${l}">${l}</button>`).join('');
+  shown=data.words.filter(w=>letter(w)===curL).sort((a,b)=>stem(a).localeCompare(stem(b),'de'));
+  $('msl').innerHTML='<p class="note" id="mcnt"></p><div class="wl">'+shown.map((w,i)=>`<label><input type="checkbox" data-i="${i}" ${MS.has(mkey(w))?'checked':''}><span>${esc(w.de)}</span><small>${esc(w.en)}</small></label>`).join('')+'</div>';
+  mcount();
+}
+$('msB').onclick=()=>{tg('ms');$('ms').classList.contains('hide')?render():showAZ();};
+$('az').onclick=e=>{const l=e.target.dataset.l;if(l){curL=l;showAZ();}};
+$('msl').onchange=e=>{const i=e.target.dataset.i;if(i==null)return;const k=mkey(shown[i]);e.target.checked?MS.add(k):MS.delete(k);saveMS();mcount();};
+/* mastered list <-> GitHub (mastered.json). Save = overwrite GitHub with this browser's list; Load = add GitHub's list to this browser's. */
+const mUrl=c=>`https://api.github.com/repos/${c.o}/${c.r}/contents/mastered.json`,mH=c=>({Authorization:'Bearer '+c.t,Accept:'application/vnd.github+json'});
+$('msS').onclick=async()=>{const c=cfg();if(!(c.t&&c.o&&c.r))return msg('Add your GitHub settings first.');
+  try{const g=await fetch(mUrl(c)+'?ref='+c.b,{headers:mH(c)}),sha=g.ok?(await g.json()).sha:undefined;
+    const r=await fetch(mUrl(c),{method:'PUT',headers:mH(c),body:JSON.stringify({message:'Update mastered words',branch:c.b,content:btoa(unescape(encodeURIComponent(JSON.stringify([...MS])))),...(sha?{sha}:{})})});
+    if(!r.ok)throw new Error((await r.json()).message);msg(`Saved ${MS.size} mastered words to GitHub ✓`);}
+  catch(e){msg('Save failed: '+e.message);}};
+$('msL').onclick=async()=>{const c=cfg();if(!(c.t&&c.o&&c.r))return msg('Add your GitHub settings first.');
+  try{const g=await fetch(mUrl(c)+'?ref='+c.b,{headers:mH(c)});if(!g.ok)return msg('Nothing saved on GitHub yet.');
+    const a=JSON.parse(decodeURIComponent(escape(atob((await g.json()).content.replace(/\n/g,'')))));
+    a.forEach(k=>MS.add(k));saveMS();render();if(!$('ms').classList.contains('hide'))showAZ();msg(`Loaded – ${MS.size} mastered words in total.`);}
+  catch(e){msg('Load failed: '+e.message);}};
+/* new topic: pull in words from other topics that fit the new topic better (free Datamuse word-association data) */
+async function pullWords(key){
+  const h=await hint(data.topics[key]);let n=0;
+  for(const w of data.words){
+    if(w.topic===key)continue;const e=w.en.replace(/^to\s+/i,'').toLowerCase();if(!h.has(e))continue;
+    if(w.topic!=='misc'&&(await hint(data.topics[w.topic])).has(e))continue;
+    addOp({op:'move',de:w.de,en:w.en,topic:key});n++;}
+  return n;}
 load();</script></body></html>
