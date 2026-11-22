@@ -1,587 +1,920 @@
 {
- "types": {
-  "verbs": {
-   "title": "Top 200 Verbs",
-   "words": [
-    {
-     "de": "sein",
-     "en": "to be"
-    },
-    {
-     "de": "haben",
-     "en": "to have"
-    },
-    {
-     "de": "werden",
-     "en": "to become"
-    },
-    {
-     "de": "können",
-     "en": "to be able to"
-    },
-    {
-     "de": "müssen",
-     "en": "to have to"
-    },
-    {
-     "de": "sagen",
-     "en": "to say"
-    },
-    {
-     "de": "machen",
-     "en": "to make"
-    },
-    {
-     "de": "geben",
-     "en": "to give"
-    },
-    {
-     "de": "kommen",
-     "en": "to come"
-    },
-    {
-     "de": "sollen",
-     "en": "to be supposed to"
-    },
-    {
-     "de": "wollen",
-     "en": "to want"
-    },
-    {
-     "de": "gehen",
-     "en": "to go"
-    },
-    {
-     "de": "wissen",
-     "en": "to know"
-    },
-    {
-     "de": "sehen",
-     "en": "to see"
-    },
-    {
-     "de": "lassen",
-     "en": "to let"
-    },
-    {
-     "de": "stehen",
-     "en": "to stand"
-    },
-    {
-     "de": "finden",
-     "en": "to find"
-    },
-    {
-     "de": "bleiben",
-     "en": "to stay"
-    },
-    {
-     "de": "liegen",
-     "en": "to lie"
-    },
-    {
-     "de": "arbeiten",
-     "en": "to work"
-    },
-    {
-     "de": "verächtlich",
-     "en": "scornfully"
-    }
-   ]
-  },
-  "nouns": {
-   "title": "Top 200 Nouns",
-   "words": [
-    {
-     "de": "die Zeit",
-     "en": "time"
-    },
-    {
-     "de": "das Jahr",
-     "en": "year"
-    },
-    {
-     "de": "der Mensch",
-     "en": "person"
-    },
-    {
-     "de": "der Tag",
-     "en": "day"
-    },
-    {
-     "de": "die Frau",
-     "en": "woman"
-    },
-    {
-     "de": "der Mann",
-     "en": "man"
-    },
-    {
-     "de": "das Kind",
-     "en": "child"
-    },
-    {
-     "de": "die Hand",
-     "en": "hand"
-    },
-    {
-     "de": "das Land",
-     "en": "country"
-    },
-    {
-     "de": "die Stadt",
-     "en": "city"
-    },
-    {
-     "de": "das Haus",
-     "en": "house"
-    },
-    {
-     "de": "die Welt",
-     "en": "world"
-    },
-    {
-     "de": "das Leben",
-     "en": "life"
-    },
-    {
-     "de": "die Arbeit",
-     "en": "work"
-    },
-    {
-     "de": "das Wasser",
-     "en": "water"
-    },
-    {
-     "de": "die Familie",
-     "en": "family"
-    },
-    {
-     "de": "der Freund",
-     "en": "friend"
-    },
-    {
-     "de": "die Frage",
-     "en": "question"
-    },
-    {
-     "de": "das Auge",
-     "en": "eye"
-    },
-    {
-     "de": "die Nacht",
-     "en": "night"
-    }
-   ]
-  },
-  "adjadv": {
-   "title": "Top 200 Adjectives & Adverbs",
-   "words": [
-    {
-     "de": "gut",
-     "en": "good"
-    },
-    {
-     "de": "neu",
-     "en": "new"
-    },
-    {
-     "de": "groß",
-     "en": "big"
-    },
-    {
-     "de": "klein",
-     "en": "small"
-    },
-    {
-     "de": "alt",
-     "en": "old"
-    },
-    {
-     "de": "lang",
-     "en": "long"
-    },
-    {
-     "de": "schön",
-     "en": "beautiful"
-    },
-    {
-     "de": "wichtig",
-     "en": "important"
-    },
-    {
-     "de": "einfach",
-     "en": "simple"
-    },
-    {
-     "de": "schwer",
-     "en": "heavy / difficult"
-    },
-    {
-     "de": "schnell",
-     "en": "fast"
-    },
-    {
-     "de": "hoch",
-     "en": "high"
-    },
-    {
-     "de": "nur",
-     "en": "only"
-    },
-    {
-     "de": "auch",
-     "en": "also"
-    },
-    {
-     "de": "sehr",
-     "en": "very"
-    },
-    {
-     "de": "immer",
-     "en": "always"
-    },
-    {
-     "de": "oft",
-     "en": "often"
-    },
-    {
-     "de": "heute",
-     "en": "today"
-    },
-    {
-     "de": "schon",
-     "en": "already"
-    },
-    {
-     "de": "vielleicht",
-     "en": "maybe"
-    },
-    {
-     "de": "verächtlich",
-     "en": "scornfully"
-    }
-   ]
-  }
- },
+ "version": 2,
  "topics": {
-  "auto": {
-   "title": "Automobiles",
-   "words": [
-    {
-     "de": "das Auto",
-     "en": "car"
-    },
-    {
-     "de": "der Motor",
-     "en": "engine"
-    },
-    {
-     "de": "das Rad",
-     "en": "wheel"
-    },
-    {
-     "de": "der Reifen",
-     "en": "tire"
-    },
-    {
-     "de": "die Bremse",
-     "en": "brake"
-    },
-    {
-     "de": "das Lenkrad",
-     "en": "steering wheel"
-    },
-    {
-     "de": "der Kofferraum",
-     "en": "trunk"
-    },
-    {
-     "de": "tanken",
-     "en": "to refuel"
-    },
-    {
-     "de": "fahren",
-     "en": "to drive"
-    },
-    {
-     "de": "die Autobahn",
-     "en": "motorway"
-    }
-   ]
+  "auto": "Automobiles",
+  "education": "Education",
+  "math": "Mathematics",
+  "daily": "Daily life",
+  "love": "Love life",
+  "t_travel": "Travel",
+  "misc": "Miscellaneous"
+ },
+ "words": [
+  {
+   "de": "sein",
+   "en": "to be",
+   "type": "verbs",
+   "topic": "misc"
   },
-  "education": {
-   "title": "Education",
-   "words": [
-    {
-     "de": "die Schule",
-     "en": "school"
-    },
-    {
-     "de": "der Lehrer",
-     "en": "teacher"
-    },
-    {
-     "de": "der Schüler",
-     "en": "pupil"
-    },
-    {
-     "de": "lernen",
-     "en": "to learn"
-    },
-    {
-     "de": "die Prüfung",
-     "en": "exam"
-    },
-    {
-     "de": "die Hausaufgabe",
-     "en": "homework"
-    },
-    {
-     "de": "die Universität",
-     "en": "university"
-    },
-    {
-     "de": "studieren",
-     "en": "to study"
-    },
-    {
-     "de": "die Note",
-     "en": "grade"
-    },
-    {
-     "de": "das Buch",
-     "en": "book"
-    }
-   ]
+  {
+   "de": "haben",
+   "en": "to have",
+   "type": "verbs",
+   "topic": "misc"
   },
-  "math": {
-   "title": "Mathematics",
-   "words": [
-    {
-     "de": "die Zahl",
-     "en": "number"
-    },
-    {
-     "de": "addieren",
-     "en": "to add"
-    },
-    {
-     "de": "subtrahieren",
-     "en": "to subtract"
-    },
-    {
-     "de": "multiplizieren",
-     "en": "to multiply"
-    },
-    {
-     "de": "teilen",
-     "en": "to divide"
-    },
-    {
-     "de": "die Gleichung",
-     "en": "equation"
-    },
-    {
-     "de": "das Dreieck",
-     "en": "triangle"
-    },
-    {
-     "de": "der Kreis",
-     "en": "circle"
-    },
-    {
-     "de": "die Summe",
-     "en": "sum"
-    },
-    {
-     "de": "rechnen",
-     "en": "to calculate"
-    }
-   ]
+  {
+   "de": "werden",
+   "en": "to become",
+   "type": "verbs",
+   "topic": "misc"
   },
-  "daily": {
-   "title": "Daily life",
-   "words": [
-    {
-     "de": "frühstücken",
-     "en": "to have breakfast"
-    },
-    {
-     "de": "aufstehen",
-     "en": "to get up"
-    },
-    {
-     "de": "einkaufen",
-     "en": "to shop"
-    },
-    {
-     "de": "kochen",
-     "en": "to cook"
-    },
-    {
-     "de": "schlafen",
-     "en": "to sleep"
-    },
-    {
-     "de": "die Wohnung",
-     "en": "apartment"
-    },
-    {
-     "de": "der Schlüssel",
-     "en": "key"
-    },
-    {
-     "de": "das Essen",
-     "en": "food"
-    },
-    {
-     "de": "duschen",
-     "en": "to shower"
-    },
-    {
-     "de": "der Bus",
-     "en": "bus"
-    }
-   ]
+  {
+   "de": "können",
+   "en": "to be able to",
+   "type": "verbs",
+   "topic": "misc"
   },
-  "love": {
-   "title": "Love life",
-   "words": [
-    {
-     "de": "die Liebe",
-     "en": "love"
-    },
-    {
-     "de": "lieben",
-     "en": "to love"
-    },
-    {
-     "de": "küssen",
-     "en": "to kiss"
-    },
-    {
-     "de": "der Freund",
-     "en": "boyfriend"
-    },
-    {
-     "de": "die Freundin",
-     "en": "girlfriend"
-    },
-    {
-     "de": "heiraten",
-     "en": "to marry"
-    },
-    {
-     "de": "vermissen",
-     "en": "to miss"
-    },
-    {
-     "de": "das Herz",
-     "en": "heart"
-    },
-    {
-     "de": "verliebt",
-     "en": "in love"
-    },
-    {
-     "de": "das Date",
-     "en": "date"
-    }
-   ]
+  {
+   "de": "müssen",
+   "en": "to have to",
+   "type": "verbs",
+   "topic": "misc"
   },
-  "t_travel": {
-   "title": "Travel",
-   "words": [
-    {
-     "de": "die Reise",
-     "en": "trip"
-    },
-    {
-     "de": "der Flughafen",
-     "en": "airport"
-    },
-    {
-     "de": "das Flugzeug",
-     "en": "airplane"
-    },
-    {
-     "de": "der Bahnhof",
-     "en": "train station"
-    },
-    {
-     "de": "der Zug",
-     "en": "train"
-    },
-    {
-     "de": "das Ticket",
-     "en": "ticket"
-    },
-    {
-     "de": "der Koffer",
-     "en": "suitcase"
-    },
-    {
-     "de": "der Reisepass",
-     "en": "passport"
-    },
-    {
-     "de": "das Hotel",
-     "en": "hotel"
-    },
-    {
-     "de": "die Reservierung",
-     "en": "reservation"
-    },
-    {
-     "de": "der Strand",
-     "en": "beach"
-    },
-    {
-     "de": "das Zimmer",
-     "en": "room"
-    },
-    {
-     "de": "der Urlaub",
-     "en": "vacation"
-    },
-    {
-     "de": "die Grenze",
-     "en": "border"
-    },
-    {
-     "de": "fliegen",
-     "en": "to fly"
-    },
-    {
-     "de": "buchen",
-     "en": "to book"
-    },
-    {
-     "de": "ankommen",
-     "en": "to arrive"
-    },
-    {
-     "de": "abfahren",
-     "en": "to depart"
-    },
-    {
-     "de": "übernachten",
-     "en": "to stay overnight"
-    },
-    {
-     "de": "reisen",
-     "en": "to travel"
-    },
-    {
-     "de": "Gepäck",
-     "en": "luggage"
-    },
-    {
-     "de": "besucht",
-     "en": "to visit"
-    }
-   ]
+  {
+   "de": "sagen",
+   "en": "to say",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "machen",
+   "en": "to make",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "geben",
+   "en": "to give",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "kommen",
+   "en": "to come",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "sollen",
+   "en": "to be supposed to",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "wollen",
+   "en": "to want",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "gehen",
+   "en": "to go",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "wissen",
+   "en": "to know",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "sehen",
+   "en": "to see",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "lassen",
+   "en": "to let",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "stehen",
+   "en": "to stand",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "finden",
+   "en": "to find",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "bleiben",
+   "en": "to stay",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "liegen",
+   "en": "to lie",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "arbeiten",
+   "en": "to work",
+   "type": "verbs",
+   "topic": "daily"
+  },
+  {
+   "de": "verächtlich",
+   "en": "scornfully",
+   "type": "verbs",
+   "topic": "misc"
+  },
+  {
+   "de": "die Zeit",
+   "en": "time",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Jahr",
+   "en": "year",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Mensch",
+   "en": "person",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "der Tag",
+   "en": "day",
+   "type": "nouns",
+   "topic": "daily"
+  },
+  {
+   "de": "die Frau",
+   "en": "woman",
+   "type": "nouns",
+   "topic": "daily"
+  },
+  {
+   "de": "der Mann",
+   "en": "man",
+   "type": "nouns",
+   "topic": "daily"
+  },
+  {
+   "de": "das Kind",
+   "en": "child",
+   "type": "nouns",
+   "topic": "daily"
+  },
+  {
+   "de": "die Hand",
+   "en": "hand",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Land",
+   "en": "country",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Stadt",
+   "en": "city",
+   "type": "nouns",
+   "topic": "daily"
+  },
+  {
+   "de": "das Haus",
+   "en": "house",
+   "type": "nouns",
+   "topic": "daily"
+  },
+  {
+   "de": "die Welt",
+   "en": "world",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "das Leben",
+   "en": "life",
+   "type": "nouns",
+   "topic": "daily"
+  },
+  {
+   "de": "die Arbeit",
+   "en": "work",
+   "type": "nouns",
+   "topic": "daily"
+  },
+  {
+   "de": "das Wasser",
+   "en": "water",
+   "type": "nouns",
+   "topic": "daily"
+  },
+  {
+   "de": "die Familie",
+   "en": "family",
+   "type": "nouns",
+   "topic": "daily"
+  },
+  {
+   "de": "der Freund",
+   "en": "friend",
+   "type": "nouns",
+   "topic": "daily"
+  },
+  {
+   "de": "die Frage",
+   "en": "question",
+   "type": "nouns",
+   "topic": "education"
+  },
+  {
+   "de": "das Auge",
+   "en": "eye",
+   "type": "nouns",
+   "topic": "misc"
+  },
+  {
+   "de": "die Nacht",
+   "en": "night",
+   "type": "nouns",
+   "topic": "daily"
+  },
+  {
+   "de": "gut",
+   "en": "good",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "neu",
+   "en": "new",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "groß",
+   "en": "big",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "klein",
+   "en": "small",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "alt",
+   "en": "old",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "lang",
+   "en": "long",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "schön",
+   "en": "beautiful",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "wichtig",
+   "en": "important",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "einfach",
+   "en": "simple",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "schwer",
+   "en": "heavy / difficult",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "schnell",
+   "en": "fast",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "hoch",
+   "en": "high",
+   "type": "adjectives",
+   "topic": "misc"
+  },
+  {
+   "de": "nur",
+   "en": "only",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "auch",
+   "en": "also",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "sehr",
+   "en": "very",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "immer",
+   "en": "always",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "oft",
+   "en": "often",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "heute",
+   "en": "today",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "schon",
+   "en": "already",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "vielleicht",
+   "en": "maybe",
+   "type": "adverbs",
+   "topic": "misc"
+  },
+  {
+   "de": "das Auto",
+   "en": "car",
+   "type": "nouns",
+   "topic": "auto"
+  },
+  {
+   "de": "der Motor",
+   "en": "engine",
+   "type": "nouns",
+   "topic": "auto"
+  },
+  {
+   "de": "das Rad",
+   "en": "wheel",
+   "type": "nouns",
+   "topic": "auto"
+  },
+  {
+   "de": "der Reifen",
+   "en": "tire",
+   "type": "nouns",
+   "topic": "auto"
+  },
+  {
+   "de": "die Bremse",
+   "en": "brake",
+   "type": "nouns",
+   "topic": "auto"
+  },
+  {
+   "de": "das Lenkrad",
+   "en": "steering wheel",
+   "type": "nouns",
+   "topic": "auto"
+  },
+  {
+   "de": "der Kofferraum",
+   "en": "trunk",
+   "type": "nouns",
+   "topic": "auto"
+  },
+  {
+   "de": "tanken",
+   "en": "to refuel",
+   "type": "verbs",
+   "topic": "auto"
+  },
+  {
+   "de": "fahren",
+   "en": "to drive",
+   "type": "verbs",
+   "topic": "auto"
+  },
+  {
+   "de": "die Autobahn",
+   "en": "motorway",
+   "type": "nouns",
+   "topic": "auto"
+  },
+  {
+   "de": "die Schule",
+   "en": "school",
+   "type": "nouns",
+   "topic": "education"
+  },
+  {
+   "de": "der Lehrer",
+   "en": "teacher",
+   "type": "nouns",
+   "topic": "education"
+  },
+  {
+   "de": "der Schüler",
+   "en": "pupil",
+   "type": "nouns",
+   "topic": "education"
+  },
+  {
+   "de": "lernen",
+   "en": "to learn",
+   "type": "verbs",
+   "topic": "education"
+  },
+  {
+   "de": "die Prüfung",
+   "en": "exam",
+   "type": "nouns",
+   "topic": "education"
+  },
+  {
+   "de": "die Hausaufgabe",
+   "en": "homework",
+   "type": "nouns",
+   "topic": "education"
+  },
+  {
+   "de": "die Universität",
+   "en": "university",
+   "type": "nouns",
+   "topic": "education"
+  },
+  {
+   "de": "studieren",
+   "en": "to study",
+   "type": "verbs",
+   "topic": "education"
+  },
+  {
+   "de": "die Note",
+   "en": "grade",
+   "type": "nouns",
+   "topic": "education"
+  },
+  {
+   "de": "das Buch",
+   "en": "book",
+   "type": "nouns",
+   "topic": "education"
+  },
+  {
+   "de": "die Zahl",
+   "en": "number",
+   "type": "nouns",
+   "topic": "math"
+  },
+  {
+   "de": "addieren",
+   "en": "to add",
+   "type": "verbs",
+   "topic": "math"
+  },
+  {
+   "de": "subtrahieren",
+   "en": "to subtract",
+   "type": "verbs",
+   "topic": "math"
+  },
+  {
+   "de": "multiplizieren",
+   "en": "to multiply",
+   "type": "verbs",
+   "topic": "math"
+  },
+  {
+   "de": "teilen",
+   "en": "to divide",
+   "type": "verbs",
+   "topic": "math"
+  },
+  {
+   "de": "die Gleichung",
+   "en": "equation",
+   "type": "nouns",
+   "topic": "math"
+  },
+  {
+   "de": "das Dreieck",
+   "en": "triangle",
+   "type": "nouns",
+   "topic": "math"
+  },
+  {
+   "de": "der Kreis",
+   "en": "circle",
+   "type": "nouns",
+   "topic": "math"
+  },
+  {
+   "de": "die Summe",
+   "en": "sum",
+   "type": "nouns",
+   "topic": "math"
+  },
+  {
+   "de": "rechnen",
+   "en": "to calculate",
+   "type": "verbs",
+   "topic": "math"
+  },
+  {
+   "de": "frühstücken",
+   "en": "to have breakfast",
+   "type": "verbs",
+   "topic": "daily"
+  },
+  {
+   "de": "aufstehen",
+   "en": "to get up",
+   "type": "verbs",
+   "topic": "daily"
+  },
+  {
+   "de": "einkaufen",
+   "en": "to shop",
+   "type": "verbs",
+   "topic": "daily"
+  },
+  {
+   "de": "kochen",
+   "en": "to cook",
+   "type": "verbs",
+   "topic": "daily"
+  },
+  {
+   "de": "schlafen",
+   "en": "to sleep",
+   "type": "verbs",
+   "topic": "daily"
+  },
+  {
+   "de": "die Wohnung",
+   "en": "apartment",
+   "type": "nouns",
+   "topic": "daily"
+  },
+  {
+   "de": "der Schlüssel",
+   "en": "key",
+   "type": "nouns",
+   "topic": "daily"
+  },
+  {
+   "de": "das Essen",
+   "en": "food",
+   "type": "nouns",
+   "topic": "daily"
+  },
+  {
+   "de": "duschen",
+   "en": "to shower",
+   "type": "verbs",
+   "topic": "daily"
+  },
+  {
+   "de": "der Bus",
+   "en": "bus",
+   "type": "nouns",
+   "topic": "daily"
+  },
+  {
+   "de": "die Liebe",
+   "en": "love",
+   "type": "nouns",
+   "topic": "love"
+  },
+  {
+   "de": "lieben",
+   "en": "to love",
+   "type": "verbs",
+   "topic": "love"
+  },
+  {
+   "de": "küssen",
+   "en": "to kiss",
+   "type": "verbs",
+   "topic": "love"
+  },
+  {
+   "de": "der Freund",
+   "en": "boyfriend",
+   "type": "nouns",
+   "topic": "love"
+  },
+  {
+   "de": "die Freundin",
+   "en": "girlfriend",
+   "type": "nouns",
+   "topic": "love"
+  },
+  {
+   "de": "heiraten",
+   "en": "to marry",
+   "type": "verbs",
+   "topic": "love"
+  },
+  {
+   "de": "vermissen",
+   "en": "to miss",
+   "type": "verbs",
+   "topic": "love"
+  },
+  {
+   "de": "das Herz",
+   "en": "heart",
+   "type": "nouns",
+   "topic": "love"
+  },
+  {
+   "de": "verliebt",
+   "en": "in love",
+   "type": "adjectives",
+   "topic": "love"
+  },
+  {
+   "de": "das Date",
+   "en": "date",
+   "type": "nouns",
+   "topic": "love"
+  },
+  {
+   "de": "die Reise",
+   "en": "trip",
+   "type": "nouns",
+   "topic": "t_travel"
+  },
+  {
+   "de": "der Flughafen",
+   "en": "airport",
+   "type": "nouns",
+   "topic": "t_travel"
+  },
+  {
+   "de": "das Flugzeug",
+   "en": "airplane",
+   "type": "nouns",
+   "topic": "t_travel"
+  },
+  {
+   "de": "der Bahnhof",
+   "en": "train station",
+   "type": "nouns",
+   "topic": "t_travel"
+  },
+  {
+   "de": "der Zug",
+   "en": "train",
+   "type": "nouns",
+   "topic": "t_travel"
+  },
+  {
+   "de": "das Ticket",
+   "en": "ticket",
+   "type": "nouns",
+   "topic": "t_travel"
+  },
+  {
+   "de": "der Koffer",
+   "en": "suitcase",
+   "type": "nouns",
+   "topic": "t_travel"
+  },
+  {
+   "de": "der Reisepass",
+   "en": "passport",
+   "type": "nouns",
+   "topic": "t_travel"
+  },
+  {
+   "de": "das Hotel",
+   "en": "hotel",
+   "type": "nouns",
+   "topic": "t_travel"
+  },
+  {
+   "de": "die Reservierung",
+   "en": "reservation",
+   "type": "nouns",
+   "topic": "t_travel"
+  },
+  {
+   "de": "der Strand",
+   "en": "beach",
+   "type": "nouns",
+   "topic": "t_travel"
+  },
+  {
+   "de": "das Zimmer",
+   "en": "room",
+   "type": "nouns",
+   "topic": "t_travel"
+  },
+  {
+   "de": "der Urlaub",
+   "en": "vacation",
+   "type": "nouns",
+   "topic": "t_travel"
+  },
+  {
+   "de": "die Grenze",
+   "en": "border",
+   "type": "nouns",
+   "topic": "t_travel"
+  },
+  {
+   "de": "fliegen",
+   "en": "to fly",
+   "type": "verbs",
+   "topic": "t_travel"
+  },
+  {
+   "de": "buchen",
+   "en": "to book",
+   "type": "verbs",
+   "topic": "t_travel"
+  },
+  {
+   "de": "ankommen",
+   "en": "to arrive",
+   "type": "verbs",
+   "topic": "t_travel"
+  },
+  {
+   "de": "abfahren",
+   "en": "to depart",
+   "type": "verbs",
+   "topic": "t_travel"
+  },
+  {
+   "de": "übernachten",
+   "en": "to stay overnight",
+   "type": "verbs",
+   "topic": "t_travel"
+  },
+  {
+   "de": "reisen",
+   "en": "to travel",
+   "type": "verbs",
+   "topic": "t_travel"
+  },
+  {
+   "de": "Gepäck",
+   "en": "luggage",
+   "type": "nouns",
+   "topic": "t_travel"
+  },
+  {
+   "de": "besucht",
+   "en": "to visit",
+   "type": "verbs",
+   "topic": "t_travel"
+  },
+  {
+   "de": "die Tankstelle",
+   "en": "gas station",
+   "type": "nouns",
+   "topic": "auto"
+  },
+  {
+   "de": "das Benzin",
+   "en": "gasoline",
+   "type": "nouns",
+   "topic": "auto"
+  },
+  {
+   "de": "der Scheinwerfer",
+   "en": "headlight",
+   "type": "nouns",
+   "topic": "auto"
+  },
+  {
+   "de": "die Windschutzscheibe",
+   "en": "windshield",
+   "type": "nouns",
+   "topic": "auto"
+  },
+  {
+   "de": "der Führerschein",
+   "en": "driver's license",
+   "type": "nouns",
+   "topic": "auto"
+  },
+  {
+   "de": "das Getriebe",
+   "en": "gearbox",
+   "type": "nouns",
+   "topic": "auto"
+  },
+  {
+   "de": "die Kupplung",
+   "en": "clutch",
+   "type": "nouns",
+   "topic": "auto"
+  },
+  {
+   "de": "der Gang",
+   "en": "gear",
+   "type": "nouns",
+   "topic": "auto"
+  },
+  {
+   "de": "die Hupe",
+   "en": "horn",
+   "type": "nouns",
+   "topic": "auto"
+  },
+  {
+   "de": "der Blinker",
+   "en": "turn signal",
+   "type": "nouns",
+   "topic": "auto"
+  },
+  {
+   "de": "die Batterie",
+   "en": "battery",
+   "type": "nouns",
+   "topic": "auto"
+  },
+  {
+   "de": "der Unfall",
+   "en": "accident",
+   "type": "nouns",
+   "topic": "auto"
+  },
+  {
+   "de": "die Werkstatt",
+   "en": "repair shop",
+   "type": "nouns",
+   "topic": "auto"
+  },
+  {
+   "de": "parken",
+   "en": "to park",
+   "type": "verbs",
+   "topic": "auto"
+  },
+  {
+   "de": "bremsen",
+   "en": "to brake",
+   "type": "verbs",
+   "topic": "auto"
+  },
+  {
+   "de": "überholen",
+   "en": "to overtake",
+   "type": "verbs",
+   "topic": "auto"
+  },
+  {
+   "de": "Geschwindigkeit",
+   "en": "speed",
+   "type": "nouns",
+   "topic": "auto"
+  },
+  {
+   "de": "Steuern",
+   "en": "to steer",
+   "type": "verbs",
+   "topic": "auto"
   }
- }
+ ]
 }
