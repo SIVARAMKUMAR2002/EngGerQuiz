@@ -208,16 +208,17 @@ function parseFile(txt){
   let swap=false;
   if(rows.length&&/^english\s*[;\t|=,]\s*german$/i.test(rows[0])){swap=true;rows.shift();}
   else if(rows.length&&/^german\s*[;\t|=,]\s*english$/i.test(rows[0]))rows.shift();
-  return rows.map(r=>{const m=r.match(/^(.*?)\s*[;\t|=,]\s*(.+)$/);if(!m)return{one:r};
+  const out=rows.map(r=>{const m=r.match(/^(.*?)\s*[;\t|=,]\s*(.+)$/);if(!m)return{one:r};
     let[a,b]=[m[1],m[2]];if(swap||/^to\s+/i.test(a))[a,b]=[b,a];return{de:a,en:b};});
+  const t=txt.match(/^#\s*type\s*[:=]\s*(\w+)/im);out.type=t&&TYPES[t[1].toLowerCase()]?t[1].toLowerCase():null;return out;
 }
 async function importFile(file,topic){
   const rows=parseFile(await file.text());let n=0,bad=0;
   for(const[i,r]of rows.entries()){
     msg(`Processing ${i+1}/${rows.length}…`);
     try{let p=r;
-      if(r.one){p=await resolve(r.one);await new Promise(s=>setTimeout(s,400));}
-      else{p.type=await typeOf(p.de,p.en);if(p.type==='verbs'&&!/^to\s+/i.test(p.en))p.en='to '+p.en;}
+      if(r.one){p=await resolve(r.one);if(rows.type)p.type=rows.type;await new Promise(s=>setTimeout(s,400));}
+      else{p.type=rows.type||await typeOf(p.de,p.en);if(p.type==='verbs'&&!/^to\s+/i.test(p.en))p.en='to '+p.en;}
       if(p.de&&p.en){addOp({op:'word',de:p.de,en:p.en,type:p.type,topic});n++;}else bad++;}catch{bad++;}
   }
   return{n,bad};
