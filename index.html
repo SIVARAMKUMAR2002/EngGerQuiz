@@ -23,12 +23,17 @@ input,select{background:var(--card);border:1px solid var(--mut);border-radius:8p
 .note{color:var(--mut);font-size:14px;margin:0 0 8px}
 #az{display:flex;gap:4px;overflow-x:auto;padding:6px 0}#az button{padding:6px 10px;text-align:center;flex:none}#az .on{background:var(--ac);color:#fff}
 .wl{columns:2 260px}.wl label{display:flex;gap:8px;align-items:baseline;padding:4px 0;cursor:pointer;break-inside:avoid}.wl input{width:auto}.wl small{color:var(--mut)}
+#bar{flex-wrap:wrap}#bar button{padding:8px 12px;text-align:center}
+.seg{display:flex;border:1px solid var(--mut);border-radius:10px;overflow:hidden}.seg button{flex:1;border-radius:0;text-align:center}.seg .on{background:var(--ok);color:#fff}
+.lab{display:block;font-size:14px;color:var(--mut);margin-bottom:4px}
+.prop{display:flex;gap:8px;align-items:center;margin:6px 0;flex-wrap:wrap}.prop input[type=text]{width:220px}.prop input[type=checkbox]{width:auto}
 </style></head><body><main>
 <section id="home">
 <h1>🇩🇪 Deutsch Quiz</h1>
 <div class="row">
  <label>Direction<select id="dir"><option value="de">German → English (clue German)</option><option value="en">English → German (clue English)</option><option value="mix">Mixed</option></select></label>
  <label>Minutes<input id="min" type="number" value="10" min="1" max="60"></label>
+ <div><span class="lab">Quiz mode</span><div class="seg" id="mode"><button data-m="normal">NORMAL</button><button data-m="mastery">MASTERY</button></div></div>
 </div>
 <h2>By word type</h2><div class="grid" id="types"></div>
 <h2>By topic</h2><div class="grid" id="topics"></div>
@@ -40,7 +45,7 @@ input,select{background:var(--card);border:1px solid var(--mut);border-radius:8p
 <div class="grid"><button id="msB">✅ Open mastered list</button><button id="msS">☁️ Save mastered to GitHub</button><button id="msL">⬇️ Load mastered from GitHub</button></div>
 <div id="ms" class="hide"><div id="az"></div><div id="msl"></div></div>
 <h2>Tools</h2>
-<div class="grid"><button id="addB">➕ Add a word</button><button id="setB">⚙️ GitHub sync settings</button></div>
+<div class="grid"><button id="addB">➕ Add a word</button><button id="setB">⚙️ GitHub sync settings</button><button id="orgB">🧹 Organize</button></div>
 
 <div id="add" class="hide"><h2>Add a word</h2>
  <div class="row"><label>German or English word<input id="w" placeholder="arbeiten  or  to work"></label>
@@ -54,13 +59,14 @@ input,select{background:var(--card);border:1px solid var(--mut);border-radius:8p
  <p id="msg0" style="color:var(--mut)">Create a fine-grained token with “Contents: read &amp; write” on your repo only. It stays in this browser.</p>
  <div class="row"><label>Owner<input id="go1"></label><label>Repo<input id="go2"></label><label>Branch<input id="go3" value="main"></label></div>
  <div class="row"><label>Token<input id="go4" type="password"></label><button class="p" id="sset">Save settings</button></div></div>
+<div id="org" class="hide"><h2>Suggested new topics</h2><p class="note">Edit a name, untick any you don't want, then create.</p><div id="orgl"></div><p><button class="p" id="orgG">Create selected topics</button></p></div>
 <div id="msg"></div>
 </section>
 
 <section id="quiz" class="hide">
- <div id="bar"><span id="t"></span><input id="ans" placeholder="Type an answer…" autocomplete="off" autocapitalize="off" spellcheck="false"><span id="sc"></span><button id="end">Give up</button></div>
+ <div id="bar"><span id="t"></span><input id="ans" placeholder="Type an answer…" autocomplete="off" autocapitalize="off" spellcheck="false"><span id="sc"></span><button id="end">Give up</button><button id="retry">🔄 Retry</button><button id="back">← Back</button></div>
  <h1 id="qt"></h1><div class="grid" id="cells"></div>
- <p><button id="back">← Back</button></p>
+
 </section>
 </main>
 <script>
@@ -114,10 +120,10 @@ function render(){
 const shuffle=a=>{a=[...a];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;};
 /* ---------- quiz ---------- */
 function start(title,ws){
-  const pool=ws.filter(w=>!MS.has(mkey(w)));
-  if(!pool.length)return msg(ws.length?'All words in this list are mastered 🎉':'No words here yet.');
+  const pool=MODE==='mastery'?ws.filter(w=>!MS.has(mkey(w))):ws;
+  if(!pool.length)return msg(ws.length?'All words in this list are mastered 🎉 – switch to NORMAL to practice them anyway.':'No words here yet.');
   msg('');const d=$('dir').value;
-  cur={items:shuffle(pool).map(w=>({w,clue:d==='mix'?(Math.random()<.5?'de':'en'):d,done:false})),left:+$('min').value*60,found:0};
+  cur={items:shuffle(pool).map(w=>({w,clue:d==='mix'?(Math.random()<.5?'de':'en'):d,done:false})),left:+$('min').value*60,found:0,title,ws};
   $('home').classList.add('hide');$('quiz').classList.remove('hide');
   $('qt').textContent=title; $('ans').value=''; $('ans').disabled=false; $('end').disabled=false;
   $('cells').innerHTML='';
@@ -170,6 +176,7 @@ async function guessTopic(en){
 /* data changes are "ops": {op:'topic',key,title} or {op:'word',de,en,type,topic} */
 function applyOp(d,o){
   if(o.op==='topic'){d.topics[o.key]=d.topics[o.key]||o.title;return;}
+  if(o.op==='retype'){const w=d.words.find(x=>x.de===o.de&&norm(x.en)===norm(o.en));if(w&&TYPES[o.type])w.type=o.type;return;}
   if(o.op==='move'){const w=d.words.find(x=>x.de===o.de&&norm(x.en)===norm(o.en));if(w&&d.topics[o.topic])w.topic=o.topic;return;}
   if(o.list)o={de:o.de,en:o.en,type:TYPES[o.list]?o.list:guessType(o.de,o.en),topic:d.topics[o.list]?o.list:'misc'};
   if(!d.topics[o.topic])o.topic='misc';
@@ -275,4 +282,37 @@ async function pullWords(key){
     if(w.topic!=='misc'&&(await hint(data.topics[w.topic])).has(e))continue;
     addOp({op:'move',de:w.de,en:w.en,topic:key});n++;}
   return n;}
+/* ---------- quiz mode toggle (NORMAL / MASTERY) ---------- */
+let MODE=LS.mode==='normal'?'normal':'mastery';
+function setMode(m){MODE=m;LS.mode=m;document.querySelectorAll('#mode button').forEach(b=>b.classList.toggle('on',b.dataset.m===m));}
+$('mode').onclick=e=>{if(e.target.dataset.m)setMode(e.target.dataset.m);};setMode(MODE);
+$('retry').onclick=()=>start(cur.title,cur.ws);
+/* ---------- organize Miscellaneous ---------- */
+const CANDS=[['Food & Drink',['food','drink']],['Family',['family']],['Body & Health',['body','health']],['Animals',['animal']],['Weather & Nature',['weather','nature']],['Clothing',['clothing']],['Home',['house','furniture']],['Transport & Travel',['transport','travel']],['Work & Money',['work','money']],['Feelings',['emotion','feeling']],['Time',['time','calendar']],['Colors',['color']],['Technology',['technology','computer']],['Sports & Leisure',['sport','hobby']],['Music & Arts',['music','art']],['Law & Politics',['law','politics']],['School & Language',['school','language']],['Shopping',['shop','store']],['City & Places',['city','building']],['Science',['science','physics']]];
+const hset=async qs=>{const s=new Set();for(const q of qs)(await hint(q)).forEach(x=>s.add(x));return s;};
+const fits=(w,h)=>{const e=w.en.replace(/^to\s+/i,'').toLowerCase().trim();return h.has(e)||h.has(e.split(/[\s\/]+/).pop());};
+const slugOf=s=>s.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,'_').replace(/^_|_$/g,'');
+let props=[];
+$('orgB').onclick=async()=>{
+  msg('Organizing Miscellaneous… this can take a minute.');$('org').classList.add('hide');
+  let moved=0,fixed=0;const tops=Object.keys(data.topics).filter(k=>k!=='misc'),hs={},rest=[];
+  for(const k of tops)hs[k]=await hint(data.topics[k]);
+  for(const w of data.words.filter(w=>w.topic==='misc')){const k=tops.find(k=>fits(w,hs[k]));if(k){addOp({op:'move',de:w.de,en:w.en,topic:k});moved++;}else rest.push(w);}
+  data.words.filter(w=>w.type==='misc').forEach(w=>{addOp({op:'retype',de:w.de,en:w.en,type:guessType(w.de,w.en)});fixed++;});
+  const have=new Set(Object.values(data.topics).map(norm)),left=new Set(rest);props=[];
+  for(const[name,qs]of CANDS){if(have.has(norm(name)))continue;const h=await hset(qs),g=[...left].filter(w=>fits(w,h));
+    if(g.length>=10){g.forEach(w=>left.delete(w));props.push({name,words:g});}}
+  if(moved||fixed)await persist(`${moved} words moved to existing topics`+(fixed?`, ${fixed} word types fixed`:'')+'.');
+  else msg('No Miscellaneous word fits an existing topic.');
+  if(props.length){$('orgl').innerHTML=props.map(g=>`<div class="prop"><input type="checkbox" checked><input type="text" value="${esc(g.name)}"><small>${g.words.length} words: ${esc(g.words.slice(0,5).map(w=>w.de).join(', '))}…</small></div>`).join('');
+    $('org').classList.remove('hide');msg($('msg').textContent+` ${props.length} possible new topics found below.`);}
+  else if(!moved&&!fixed)msg('Nothing to organize right now.');
+};
+$('orgG').onclick=()=>{let n=0,t=0;
+  document.querySelectorAll('#orgl .prop').forEach((row,i)=>{
+    if(!row.querySelector('input[type=checkbox]').checked)return;
+    const name=row.querySelector('input[type=text]').value.trim(),slug=slugOf(name);if(!slug)return;
+    const key='t_'+slug;if(!data.topics[key])addOp({op:'topic',key,title:name});t++;
+    props[i].words.forEach(w=>{addOp({op:'move',de:w.de,en:w.en,topic:key});n++;});});
+  $('org').classList.add('hide');persist(`${t} topics created, ${n} words moved.`);};
 load();</script></body></html>
