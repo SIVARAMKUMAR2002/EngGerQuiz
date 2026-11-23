@@ -27,6 +27,7 @@ input,select{background:var(--card);border:1px solid var(--mut);border-radius:8p
 .seg{display:flex;border:1px solid var(--mut);border-radius:10px;overflow:hidden}.seg button{flex:1;border-radius:0;text-align:center}.seg .on{background:var(--ok);color:#fff}
 .lab{display:block;font-size:14px;color:var(--mut);margin-bottom:4px}
 .prop{display:flex;gap:8px;align-items:center;margin:6px 0;flex-wrap:wrap}.prop input[type=text]{width:220px}.prop input[type=checkbox]{width:auto}
+#mv{display:flex;gap:6px;margin:6px 0;flex-wrap:wrap}#mv button{text-align:center}#mv .on{background:var(--ac);color:#fff}
 </style></head><body><main>
 <section id="home">
 <h1>🇩🇪 Deutsch Quiz</h1>
@@ -43,7 +44,7 @@ input,select{background:var(--card);border:1px solid var(--mut);border-radius:8p
 <h2>Mastered</h2>
 <p class="note">Words marked as mastered are left out of quizzes.</p>
 <div class="grid"><button id="msB">✅ Open mastered list</button><button id="msS">☁️ Save mastered to GitHub</button><button id="msL">⬇️ Load mastered from GitHub</button></div>
-<div id="ms" class="hide"><div id="az"></div><div id="msl"></div></div>
+<div id="ms" class="hide"><div id="mv"></div><div id="az"></div><div id="msl"></div></div>
 <h2>Tools</h2>
 <div class="grid"><button id="addB">➕ Add a word</button><button id="setB">⚙️ GitHub sync settings</button><button id="orgB">🧹 Organize</button></div>
 
@@ -251,16 +252,23 @@ const MS=new Set(JSON.parse(LS.mastered||'[]')),mkey=w=>w.de+'|'+w.en,saveMS=()=
 const esc=s=>s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const stem=w=>w.de.replace(/^(der|die|das)\s+/i,'');
 const letter=w=>{const c=stem(w).normalize('NFD').replace(/[\u0300-\u036f]/g,'').charAt(0).toUpperCase();return /[A-Z]/.test(c)?c:'Misc.';};
-let curL='A',shown=[];
+let shown=[];
 const mcount=()=>$('mcnt').textContent=`${shown.filter(w=>MS.has(mkey(w))).length} of ${shown.length} mastered`;
+let mView=null,mSel={az:'A',topic:null,type:null};
 function showAZ(){
-  $('az').innerHTML=[...'ABCDEFGHIJKLMNOPQRSTUVWXYZ','Misc.'].map(l=>`<button class="${l===curL?'on':''}" data-l="${l}">${l}</button>`).join('');
-  shown=data.words.filter(w=>letter(w)===curL).sort((a,b)=>stem(a).localeCompare(stem(b),'de'));
+  $('mv').innerHTML=[['topic','BY TOPIC'],['type','BY WORD TYPE'],['az','ALPHABETICAL']].map(([k,t])=>`<button class="${k===mView?'on':''}" data-v="${k}">${t}</button>`).join('');
+  if(!mView){$('az').innerHTML='';$('msl').innerHTML='';return;}
+  const items=mView==='az'?[...'ABCDEFGHIJKLMNOPQRSTUVWXYZ','Misc.'].map(l=>[l,l]):mView==='topic'?Object.entries(data.topics):Object.entries(TYPES);
+  if(!items.some(i=>i[0]===mSel[mView]))mSel[mView]=items[0][0];
+  $('az').innerHTML=items.map(([k,t])=>`<button class="${k===mSel[mView]?'on':''}" data-l="${esc(k)}">${esc(t)}</button>`).join('');
+  const sel=mSel[mView],f=mView==='az'?w=>letter(w)===sel:mView==='topic'?w=>w.topic===sel:w=>w.type===sel;
+  shown=data.words.filter(f).sort((a,b)=>stem(a).localeCompare(stem(b),'de'));
   $('msl').innerHTML='<p class="note" id="mcnt"></p><div class="wl">'+shown.map((w,i)=>`<label><input type="checkbox" data-i="${i}" ${MS.has(mkey(w))?'checked':''}><span>${esc(w.de)}</span><small>${esc(w.en)}</small></label>`).join('')+'</div>';
   mcount();
 }
+$('mv').onclick=e=>{const v=e.target.dataset.v;if(v){mView=v;showAZ();}};
 $('msB').onclick=()=>{tg('ms');$('ms').classList.contains('hide')?render():showAZ();};
-$('az').onclick=e=>{const l=e.target.dataset.l;if(l){curL=l;showAZ();}};
+$('az').onclick=e=>{const l=e.target.dataset.l;if(l){mSel[mView]=l;showAZ();}};
 $('msl').onchange=e=>{const i=e.target.dataset.i;if(i==null)return;const k=mkey(shown[i]);e.target.checked?MS.add(k):MS.delete(k);saveMS();mcount();};
 /* mastered list <-> GitHub (mastered.json). Save = overwrite GitHub with this browser's list; Load = add GitHub's list to this browser's. */
 const mUrl=c=>`https://api.github.com/repos/${c.o}/${c.r}/contents/mastered.json`,mH=c=>({Authorization:'Bearer '+c.t,Accept:'application/vnd.github+json'});
